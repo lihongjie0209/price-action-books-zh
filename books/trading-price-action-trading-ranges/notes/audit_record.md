@@ -52,3 +52,15 @@ python3 scripts/audit_zh_chapters.py detect   # expect TOTAL mid_breaks=0
 python3 scripts/audit_zh_chapters.py figures  # expect TOTAL missing_figure_refs=0
 uv run python scripts/test_audit_zh_chapters.py
 ```
+
+
+## 2026-07-23 翻译完整性补全
+
+扫描三本书全部 `en/chapters` vs `zh/chapters`：无缺章、无 MERGE 标记、无空壳。
+
+发现并补全截断/过短章节：
+- **TRADING RANGES** `03-introduction.md`：文末图 I.4 段与分形数学收尾被截断 → 已补全。
+- **REVERSALS** `03-introduction.md`：自「二十一点算牌」中段起整段缺失（含赌博/鞅/I.4）→ 已补全；并去掉重复的图 I.3 引用。
+- **REVERSALS** `28-ch19-opening-patterns-and-reversals.md`：原译文约为 EN 的 44%（概括式）→ 按 EN 全文重译（约 0.79 字节比），9 处图引用保留。
+
+复验：全部中文章节以句末标点收尾；无 `cjk < 0.4×en_words` 的过薄章。
