@@ -34,3 +34,7 @@ cd trading-price-action-trends-zh
 - 全书约 121 个 Figure 标签已映射；EN/ZH 各约 121 处图片引用
 - 部分页仅有讨论无独立嵌入图时，会使用邻页主图或 fullpage 渲染
 - 原始 PDF 版权仍属作者/出版社；图片仅供本译本学习阅读配套使用
+
+## 2026-07-23 段落/插图审计
+- 全书句中跨页分段已用 `scripts/audit_zh_chapters.py` 修复（mid_breaks=0）。
+- 本 pass 未改 TRENDS 图文件（抽查 landscape 正常）；RANGES 补注入 gaps 章图；REVERSALS 重绑 5 张整页误绑图。
