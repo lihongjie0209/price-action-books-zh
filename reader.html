@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="zh-CN" class="h-full">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>阅读 · Brooks 价格行为译丛</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+      tailwind.config = {
+        theme: {
+          extend: {
+            fontFamily: {
+              sans: [
+                "ui-sans-serif",
+                "system-ui",
+                "-apple-system",
+                "Segoe UI",
+                "PingFang SC",
+                "Hiragino Sans GB",
+                "Microsoft YaHei",
+                "Noto Sans SC",
+                "sans-serif",
+              ],
+              serif: [
+                "Charter",
+                "Bitstream Charter",
+                "Sitka Text",
+                "Cambria",
+                "Source Han Serif SC",
+                "Noto Serif SC",
+                "serif",
+              ],
+            },
+          },
+        },
+      };
+    </script>
+    <link rel="stylesheet" href="css/site.css" />
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  </head>
+  <body
+    class="h-full overflow-hidden bg-white text-slate-900 font-sans antialiased"
+    data-page="reader"
+  >
+    <!-- Mobile overlay -->
+    <div
+      id="sidebar-overlay"
+      class="fixed inset-0 z-40 hidden bg-slate-900/40 lg:hidden"
+    ></div>
+
+    <div class="flex h-full">
+      <!-- Sidebar (GitBook-like) -->
+      <aside
+        id="sidebar"
+        class="fixed inset-y-0 left-0 z-50 flex w-[min(100%,20rem)] -translate-x-full flex-col border-r border-slate-200 bg-slate-50 transition-transform duration-200 lg:static lg:translate-x-0 lg:w-72 lg:shrink-0"
+      >
+        <div class="flex items-center gap-2 border-b border-slate-200 px-4 py-3">
+          <a href="index.html" class="flex min-w-0 items-center gap-2 font-semibold">
+            <span
+              class="inline-flex h-7 w-7 shrink-0 items-center justify-center rounded-md bg-blue-600 text-xs text-white"
+              >B</span
+            >
+            <span class="truncate text-sm" id="sidebar-brand">译丛</span>
+          </a>
+          <button
+            id="sidebar-close"
+            type="button"
+            class="ml-auto rounded-md p-1.5 text-slate-500 hover:bg-slate-200 lg:hidden"
+            aria-label="关闭目录"
+          >
+            ✕
+          </button>
+        </div>
+
+        <div class="border-b border-slate-200 px-4 py-3">
+          <div class="text-xs font-medium uppercase tracking-wide text-slate-500">
+            当前书目
+          </div>
+          <div id="book-title" class="mt-1 text-sm font-semibold leading-snug text-slate-900">
+            …
+          </div>
+          <div id="book-author" class="mt-0.5 text-xs text-slate-500"></div>
+        </div>
+
+        <nav id="toc-nav" class="flex-1 overflow-y-auto px-2 py-3 text-sm" aria-label="目录">
+          <p class="px-2 text-slate-400">加载目录…</p>
+        </nav>
+
+        <div class="border-t border-slate-200 p-3 text-xs text-slate-500">
+          <a id="github-link" class="hover:text-blue-600" href="https://github.com/lihongjie0209/price-action-books-zh"
+            >在 GitHub 查看源码</a
+          >
+        </div>
+      </aside>
+
+      <!-- Main -->
+      <div class="flex min-w-0 flex-1 flex-col">
+        <!-- Top bar -->
+        <header
+          class="flex shrink-0 items-center gap-2 border-b border-slate-200 bg-white px-3 py-2 sm:px-4"
+        >
+          <button
+            id="sidebar-open"
+            type="button"
+            class="rounded-md p-2 text-slate-600 hover:bg-slate-100 lg:hidden"
+            aria-label="打开目录"
+          >
+            <svg class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
+            </svg>
+          </button>
+
+          <div class="min-w-0 flex-1">
+            <div id="crumb" class="truncate text-xs text-slate-500"></div>
+            <div id="chapter-title" class="truncate text-sm font-semibold text-slate-900">
+              加载中…
+            </div>
+          </div>
+
+          <!-- Optional English toggle -->
+          <label
+            class="flex cursor-pointer select-none items-center gap-2 rounded-full border border-slate-200 bg-slate-50 px-3 py-1.5 text-xs font-medium text-slate-700 hover:border-slate-300"
+            title="默认仅中文；打开后显示英文对照"
+          >
+            <input id="toggle-en" type="checkbox" class="h-3.5 w-3.5 rounded border-slate-300 text-blue-600 focus:ring-blue-500" />
+            <span>英文对照</span>
+          </label>
+
+          <div class="hidden items-center gap-1 sm:flex">
+            <a
+              id="nav-prev"
+              class="rounded-md border border-slate-200 px-2.5 py-1.5 text-xs font-medium text-slate-700 hover:bg-slate-50"
+              hidden
+              >上一章</a
+            >
+            <a
+              id="nav-next"
+              class="rounded-md bg-blue-600 px-2.5 py-1.5 text-xs font-medium text-white hover:bg-blue-700"
+              hidden
+              >下一章</a
+            >
+          </div>
+        </header>
+
+        <!-- Content -->
+        <div id="content-scroll" class="flex-1 overflow-y-auto">
+          <div class="mx-auto w-full max-w-6xl px-4 py-8 sm:px-8">
+            <div id="panels" class="grid gap-8 lg:grid-cols-1">
+              <!-- ZH primary -->
+              <article class="min-w-0">
+                <div
+                  id="zh-label"
+                  class="mb-4 hidden text-xs font-semibold uppercase tracking-wider text-emerald-600"
+                >
+                  中文
+                </div>
+                <div id="md-zh" class="prose-gitbook md-body">
+                  <p class="text-slate-500">加载中…</p>
+                </div>
+              </article>
+              <!-- EN optional -->
+              <article id="en-panel" class="hidden min-w-0 border-t border-slate-200 pt-8 lg:border-t-0 lg:border-l lg:pl-8 lg:pt-0">
+                <div class="mb-4 text-xs font-semibold uppercase tracking-wider text-blue-600">
+                  English
+                </div>
+                <div id="md-en" class="prose-gitbook md-body text-[0.95rem] text-slate-700">
+                  <p class="text-slate-500">打开「英文对照」后加载…</p>
+                </div>
+              </article>
+            </div>
+
+            <div class="mt-12 flex items-center justify-between gap-3 border-t border-slate-200 pt-6">
+              <a
+                id="nav-prev-bottom"
+                class="rounded-lg border border-slate-200 px-4 py-2 text-sm font-medium text-slate-700 hover:bg-slate-50"
+                hidden
+                >← 上一章</a
+              >
+              <a
+                id="nav-next-bottom"
+                class="ml-auto rounded-lg bg-blue-600 px-4 py-2 text-sm font-medium text-white hover:bg-blue-700"
+                hidden
+                >下一章 →</a
+              >
+            </div>
+
+            <p class="mt-8 pb-10 text-center text-xs text-slate-400">
+              快捷键 <kbd class="rounded border border-slate-200 bg-slate-50 px-1">[</kbd>
+              /
+              <kbd class="rounded border border-slate-200 bg-slate-50 px-1">]</kbd>
+              切换章节
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script src="js/app.js"></script>
+  </body>
+</html>

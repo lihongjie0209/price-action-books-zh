@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="zh-CN" class="h-full">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Brooks 价格行为译丛</title>
+    <meta
+      name="description"
+      content="Al Brooks 价格行为系列图书简体中文翻译，GitBook 风格阅读，可选中英对照。"
+    />
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+      tailwind.config = {
+        theme: {
+          extend: {
+            colors: {
+              gitbook: {
+                bg: "#ffffff",
+                sidebar: "#f8fafc",
+                border: "#e2e8f0",
+                text: "#0f172a",
+                muted: "#64748b",
+                accent: "#3b82f6",
+                accentsoft: "#eff6ff",
+              },
+            },
+            fontFamily: {
+              sans: [
+                "ui-sans-serif",
+                "system-ui",
+                "-apple-system",
+                "Segoe UI",
+                "PingFang SC",
+                "Hiragino Sans GB",
+                "Microsoft YaHei",
+                "Noto Sans SC",
+                "sans-serif",
+              ],
+            },
+          },
+        },
+      };
+    </script>
+    <link rel="stylesheet" href="css/site.css" />
+  </head>
+  <body class="h-full bg-white text-slate-900 font-sans antialiased" data-page="home">
+    <header
+      class="sticky top-0 z-40 border-b border-slate-200 bg-white/90 backdrop-blur"
+    >
+      <div class="mx-auto flex max-w-6xl items-center gap-4 px-4 py-3">
+        <a href="index.html" class="flex items-center gap-2 font-semibold tracking-tight">
+          <span
+            class="inline-flex h-8 w-8 items-center justify-center rounded-lg bg-blue-600 text-sm text-white"
+            >B</span
+          >
+          <span>Brooks 价格行为译丛</span>
+        </a>
+        <div class="ml-auto flex items-center gap-3 text-sm">
+          <a
+            class="text-slate-600 hover:text-blue-600"
+            href="https://github.com/lihongjie0209/price-action-books-zh"
+            target="_blank"
+            rel="noopener"
+            >GitHub</a
+          >
+        </div>
+      </div>
+    </header>
+
+    <main class="mx-auto max-w-6xl px-4 py-10">
+      <section class="max-w-3xl">
+        <p class="text-sm font-medium text-blue-600">开源译本 · GitBook 风格阅读</p>
+        <h1 class="mt-2 text-3xl font-bold tracking-tight sm:text-4xl">
+          Al Brooks 价格行为图书中文译丛
+        </h1>
+        <p class="mt-4 text-lg leading-relaxed text-slate-600">
+          按章节结构化阅读，目录分层展开。默认中文；需要时再打开英文对照。
+          术语统一、二次审计流程见仓库 Skill。
+        </p>
+      </section>
+
+      <section class="mt-10">
+        <h2 class="text-sm font-semibold uppercase tracking-wider text-slate-500">
+          书目
+        </h2>
+        <div id="book-grid" class="mt-4 grid gap-4 sm:grid-cols-2">
+          <p class="text-slate-500">加载书目…</p>
+        </div>
+      </section>
+
+      <footer class="mt-16 border-t border-slate-200 pt-6 text-sm text-slate-500">
+        <p>
+          原书版权归 Al Brooks / John Wiley &amp; Sons。译本仅供学习交流，请支持正版。
+        </p>
+      </footer>
+    </main>
+
+    <script src="js/app.js"></script>
+  </body>
+</html>

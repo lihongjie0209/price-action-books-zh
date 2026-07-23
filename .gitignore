@@ -1,0 +1,19 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+*.tar.gz
+.pandoc/
+node_modules/
+.idea/
+.vscode/
+# optional large page dumps if re-extracted locally
+books/**/assets/figures/page*.png
+books/**/en/chunks/
+books/**/zh/chunks/
+books/**/en/full_book.md
+.venv/
+.local/
+.mamba/
+uv.lock
+__pycache__/
