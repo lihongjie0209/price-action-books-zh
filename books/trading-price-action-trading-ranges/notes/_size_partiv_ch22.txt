@@ -1,0 +1,57 @@
+# Size / completeness report — Part IV Trading Ranges + Ch22 Tight Trading Ranges
+# Generated after ZH translation + merge (2026-07-23)
+
+## Completeness
+
+| Target | Chunks | Merged chapter | PDF pages | Page markers |
+|--------|--------|----------------|-----------|--------------|
+| Part IV 震荡区间 | 8 (`part01`–`part08`) | `zh/chapters/30-part-iv-trading-ranges.md` | 354–397 | 44 (match EN) |
+| Ch22 窄幅震荡区间 | 5 (`part01`–`part05`) | `zh/chapters/32-ch22-tight-trading-ranges.md` | 409–438 | 30 (match EN) |
+
+- No `MERGE_` markers left in zh/
+- Ends align with EN (Part IV ends at bar 31 最后旗形; Ch22 ends at Low 2 铁丝网)
+
+## EN source (from chapter_inventory.md)
+
+| File | Chars |
+|------|------:|
+| en/chapters/30-part-iv-trading-ranges.md | 99,580 |
+| en/chapters/32-ch22-tight-trading-ranges.md | 60,276 |
+
+## ZH structure (line counts from merge)
+
+| File | Lines (approx) | Content density |
+|------|---------------:|-----------------|
+| zh/chapters/30-part-iv-trading-ranges.md | ~350 | long Chinese paragraphs; ~1 line per EN page block |
+| zh/chapters/32-ch22-tight-trading-ranges.md | ~238 | same style |
+
+## Exact byte sizes
+
+Run from book root:
+
+```bash
+python3 notes/_size_partiv_ch22.py
+# or
+python3 notes/merge_assigned.py
+```
+
+Scripts write exact chars/bytes for each chunk + chapter and ZH/EN ratios.
+
+## Terms locked (user + glossary)
+
+- trading range → 震荡区间
+- tight trading range → 窄幅震荡区间
+- breakout → 突破
+- pullback → 回撤
+- bar → K线
+- triangle → 三角形
+- always-in → 始终持仓 / Always-In
+
+## Chunk files written
+
+```
+zh/chunks/30-part-iv-trading-ranges.part01.md … part08.md
+zh/chunks/32-ch22-tight-trading-ranges.part01.md … part05.md
+zh/chapters/30-part-iv-trading-ranges.md
+zh/chapters/32-ch22-tight-trading-ranges.md
+```

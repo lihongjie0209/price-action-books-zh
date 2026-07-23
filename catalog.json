@@ -623,6 +623,771 @@
           "zh_bytes": 20358
         }
       ]
+    },
+    {
+      "id": "trading-price-action-trading-ranges",
+      "slug": "trading-price-action-trading-ranges",
+      "title_en": "Trading Price Action TRADING RANGES",
+      "title_zh": "交易价格行为：震荡区间",
+      "author": "Al Brooks",
+      "series": "Brooks Trading Course books",
+      "description_zh": "Al Brooks《Trading Price Action TRADING RANGES》简体中文译本。突破、回撤、震荡区间与交易管理。",
+      "description_en": "Simplified Chinese translation of Al Brooks Trading Price Action TRADING RANGES.",
+      "path": "books/trading-price-action-trading-ranges",
+      "default_lang": "zh",
+      "chapter_count": 46,
+      "figure_count": 152,
+      "glossary": "books/trading-price-action-trading-ranges/glossary/glossary.md",
+      "toc": [
+        {
+          "type": "group",
+          "id": "front",
+          "title_zh": "前言",
+          "title_en": "Front Matter",
+          "children": [
+            {
+              "type": "page",
+              "id": "01-acknowledgments",
+              "file": "01-acknowledgments.md",
+              "title_zh": "致谢",
+              "title_en": "Acknowledgments"
+            },
+            {
+              "type": "page",
+              "id": "02-list-of-terms-used-in-this-book",
+              "file": "02-list-of-terms-used-in-this-book.md",
+              "title_zh": "本书所用术语表",
+              "title_en": "List of Terms Used in This Book"
+            },
+            {
+              "type": "page",
+              "id": "03-introduction",
+              "file": "03-introduction.md",
+              "title_zh": "导论",
+              "title_en": "Introduction"
+            },
+            {
+              "type": "page",
+              "id": "04-how-to-read-these-books",
+              "file": "04-how-to-read-these-books.md",
+              "title_zh": "如何阅读这套书",
+              "title_en": "HOW TO READ THESE BOOKS"
+            },
+            {
+              "type": "page",
+              "id": "05-signs-of-strength-trends-breakouts-reversal-bars-and-reversals",
+              "file": "05-signs-of-strength-trends-breakouts-reversal-bars-and-reversals.md",
+              "title_zh": "强势迹象：趋势、突破、反转K线与反转",
+              "title_en": "SIGNS OF STRENGTH: TRENDS, BREAKOUTS, REVERSAL BARS, AND REVERSALS"
+            },
+            {
+              "type": "page",
+              "id": "06-bar-counting-basics-high-1-high-2-low-1-low-2",
+              "file": "06-bar-counting-basics-high-1-high-2-low-1-low-2.md",
+              "title_zh": "K线计数基础：High 1、High 2、Low 1、Low 2",
+              "title_en": "BAR COUNTING BASICS: HIGH 1, HIGH 2, LOW 1, LOW 2"
+            }
+          ]
+        },
+        {
+          "type": "group",
+          "id": "part-i",
+          "title_zh": "第一部分　突破",
+          "title_en": "Part I · Breakouts",
+          "children": [
+            {
+              "type": "page",
+              "id": "07-part-i-breakouts-transitioning-into-a-new-trend",
+              "file": "07-part-i-breakouts-transitioning-into-a-new-trend.md",
+              "title_zh": "第一部分：突破：过渡到新趋势",
+              "title_en": "Part I: Breakouts: Transitioning into a New Trend"
+            },
+            {
+              "type": "page",
+              "id": "08-ch01-example-of-how-to-trade-a-breakout",
+              "file": "08-ch01-example-of-how-to-trade-a-breakout.md",
+              "title_zh": "第 1 章：如何交易突破的示例",
+              "title_en": "Chapter 1: Example of How to Trade a Breakout"
+            },
+            {
+              "type": "page",
+              "id": "09-ch02-signs-of-strength-in-a-breakout",
+              "file": "09-ch02-signs-of-strength-in-a-breakout.md",
+              "title_zh": "第 2 章：突破中的强势迹象",
+              "title_en": "Chapter 2: Signs of Strength in a Breakout"
+            },
+            {
+              "type": "page",
+              "id": "10-ch03-initial-breakout",
+              "file": "10-ch03-initial-breakout.md",
+              "title_zh": "第 3 章：初始突破",
+              "title_en": "Chapter 3: Initial Breakout"
+            },
+            {
+              "type": "page",
+              "id": "11-ch04-breakout-entries-in-existing-strong-trends",
+              "file": "11-ch04-breakout-entries-in-existing-strong-trends.md",
+              "title_zh": "第 4 章：在已有强趋势中的突破入场",
+              "title_en": "Chapter 4: Breakout Entries in Existing Strong Trends"
+            },
+            {
+              "type": "page",
+              "id": "12-ch05-failed-breakouts-breakout-pullbacks-and-breakout-tests",
+              "file": "12-ch05-failed-breakouts-breakout-pullbacks-and-breakout-tests.md",
+              "title_zh": "第5章　失败突破、突破回撤与突破回测",
+              "title_en": "Chapter 5: Failed Breakouts, Breakout Pullbacks, and Breakout Tests"
+            },
+            {
+              "type": "page",
+              "id": "13-ch06-gaps",
+              "file": "13-ch06-gaps.md",
+              "title_zh": "第 6 章：缺口",
+              "title_en": "Chapter 6: Gaps"
+            }
+          ]
+        },
+        {
+          "type": "group",
+          "id": "part-ii",
+          "title_zh": "第二部分　磁铁：支撑与阻力",
+          "title_en": "Part II · Magnets",
+          "children": [
+            {
+              "type": "page",
+              "id": "14-part-ii-magnets-support-and-resistance",
+              "file": "14-part-ii-magnets-support-and-resistance.md",
+              "title_zh": "第二部分　磁力位：支撑与阻力",
+              "title_en": "Part II: Magnets: Support and Resistance"
+            },
+            {
+              "type": "page",
+              "id": "15-ch07-measured-moves-based-on-the-size-of-the-first-leg-the-spike",
+              "file": "15-ch07-measured-moves-based-on-the-size-of-the-first-leg-the-spike.md",
+              "title_zh": "第7章　基于第一段（尖峰）大小的等幅运动",
+              "title_en": "Chapter 7: Measured Moves Based on the Size of the First Leg (the Spike)"
+            },
+            {
+              "type": "page",
+              "id": "16-ch08-measured-moves-based-on-gaps-and-trading-ranges",
+              "file": "16-ch08-measured-moves-based-on-gaps-and-trading-ranges.md",
+              "title_zh": "第8章　基于缺口与震荡区间的等幅运动",
+              "title_en": "Chapter 8: Measured Moves Based on Gaps and Trading Ranges"
+            },
+            {
+              "type": "page",
+              "id": "17-ch09-reversals-often-end-at-signal-bars-from-prior-failed-reversals",
+              "file": "17-ch09-reversals-often-end-at-signal-bars-from-prior-failed-reversals.md",
+              "title_zh": "第 9 章：反转常止于先前失败反转的信号K线处",
+              "title_en": "Chapter 9: Reversals Often End at Signal Bars from Prior Failed Reversals"
+            },
+            {
+              "type": "page",
+              "id": "18-ch10-other-magnets",
+              "file": "18-ch10-other-magnets.md",
+              "title_zh": "第 10 章：其他磁铁",
+              "title_en": "Chapter 10: Other Magnets"
+            }
+          ]
+        },
+        {
+          "type": "group",
+          "id": "part-iii",
+          "title_zh": "第三部分　回撤",
+          "title_en": "Part III · Pullbacks",
+          "children": [
+            {
+              "type": "page",
+              "id": "19-part-iii-pullbacks-trends-converting-to-trading-ranges",
+              "file": "19-part-iii-pullbacks-trends-converting-to-trading-ranges.md",
+              "title_zh": "第三部分　回撤：趋势转为震荡区间",
+              "title_en": "Part III: Pullbacks: Trends Converting to Trading Ranges"
+            },
+            {
+              "type": "page",
+              "id": "20-ch11-first-pullback-sequence-bar-minor-trend-line-moving-average-moving-average-gap-m",
+              "file": "20-ch11-first-pullback-sequence-bar-minor-trend-line-moving-average-moving-average-gap-m.md",
+              "title_zh": "第11章　第一次回撤序列：K线、次要趋势线、均线、均线缺口、主要趋势线",
+              "title_en": "Chapter 11: First Pullback Sequence: Bar, Minor Trend Line, Moving Average, Moving Average Gap, Major Trend Line"
+            },
+            {
+              "type": "page",
+              "id": "21-ch12-double-top-bear-flags-and-double-bottom-bull-flags",
+              "file": "21-ch12-double-top-bear-flags-and-double-bottom-bull-flags.md",
+              "title_zh": "第12章　双顶空头旗形与双底多头旗形",
+              "title_en": "Chapter 12: Double Top Bear Flags and Double Bottom Bull Flags"
+            },
+            {
+              "type": "page",
+              "id": "22-ch13-twenty-gap-bars",
+              "file": "22-ch13-twenty-gap-bars.md",
+              "title_zh": "第 13 章：二十缺口K线",
+              "title_en": "Chapter 13: Twenty Gap Bars"
+            },
+            {
+              "type": "page",
+              "id": "23-ch14-first-moving-average-gap-bars",
+              "file": "23-ch14-first-moving-average-gap-bars.md",
+              "title_zh": "第 14 章：第一根均线缺口K线",
+              "title_en": "Chapter 14: First Moving Average Gap Bars"
+            },
+            {
+              "type": "page",
+              "id": "24-ch15-key-inflection-times-of-the-day-that-set-up-breakouts-and-reversals",
+              "file": "24-ch15-key-inflection-times-of-the-day-that-set-up-breakouts-and-reversals.md",
+              "title_zh": "第 15 章：酝酿突破与反转的日内关键转折时点",
+              "title_en": "Chapter 15: Key Inflection Times of the Day That Set Up Breakouts and Reversals"
+            },
+            {
+              "type": "page",
+              "id": "25-ch16-counting-the-legs-of-trends-and-trading-ranges",
+              "file": "25-ch16-counting-the-legs-of-trends-and-trading-ranges.md",
+              "title_zh": "第 16 章：数趋势与震荡区间的腿数",
+              "title_en": "Chapter 16: Counting the Legs of Trends and Trading Ranges"
+            },
+            {
+              "type": "page",
+              "id": "26-ch17-bar-counting-high-and-low-1-2-3-and-4-patterns-and-abc-corrections",
+              "file": "26-ch17-bar-counting-high-and-low-1-2-3-and-4-patterns-and-abc-corrections.md",
+              "title_zh": "第17章　K线计数：High 与 Low 1、2、3、4 形态与 ABC 调整",
+              "title_en": "Chapter 17: Bar Counting: High and Low 1, 2, 3, and 4 Patterns and ABC Corrections"
+            },
+            {
+              "type": "page",
+              "id": "27-ch18-wedge-and-other-three-push-pullbacks",
+              "file": "27-ch18-wedge-and-other-three-push-pullbacks.md",
+              "title_zh": "第18章　楔形与其他三推回撤",
+              "title_en": "Chapter 18: Wedge and Other Three-Push Pullbacks"
+            },
+            {
+              "type": "page",
+              "id": "28-ch19-dueling-lines-wedge-pullback-to-the-trend-line",
+              "file": "28-ch19-dueling-lines-wedge-pullback-to-the-trend-line.md",
+              "title_zh": "第 19 章：对决线：回撤到趋势线的楔形",
+              "title_en": "Chapter 19: Dueling Lines: Wedge Pullback to the Trend Line"
+            },
+            {
+              "type": "page",
+              "id": "29-ch20-reversal-patterns-double-tops-and-bottoms-and-head-and-shoulders-tops-and-bottom",
+              "file": "29-ch20-reversal-patterns-double-tops-and-bottoms-and-head-and-shoulders-tops-and-bottom.md",
+              "title_zh": "第 20 章：「反转」形态：双顶与双底、头肩顶与头肩底",
+              "title_en": "Chapter 20: “Reversal” Patterns: Double Tops and Bottoms and Head and Shoulders Tops and Bottoms"
+            }
+          ]
+        },
+        {
+          "type": "group",
+          "id": "part-iv",
+          "title_zh": "第四部分　震荡区间",
+          "title_en": "Part IV · Trading Ranges",
+          "children": [
+            {
+              "type": "page",
+              "id": "30-part-iv-trading-ranges",
+              "file": "30-part-iv-trading-ranges.md",
+              "title_zh": "第四部分 震荡区间",
+              "title_en": "Part IV: Trading Ranges"
+            },
+            {
+              "type": "page",
+              "id": "31-ch21-example-of-how-to-trade-a-trading-range",
+              "file": "31-ch21-example-of-how-to-trade-a-trading-range.md",
+              "title_zh": "第21章　如何交易震荡区间的例子",
+              "title_en": "Chapter 21: Example of How to Trade a Trading Range"
+            },
+            {
+              "type": "page",
+              "id": "32-ch22-tight-trading-ranges",
+              "file": "32-ch22-tight-trading-ranges.md",
+              "title_zh": "第22章 窄幅震荡区间",
+              "title_en": "Chapter 22: Tight Trading Ranges"
+            },
+            {
+              "type": "page",
+              "id": "33-ch23-triangles",
+              "file": "33-ch23-triangles.md",
+              "title_zh": "第 23 章：三角形",
+              "title_en": "Chapter 23: Triangles"
+            }
+          ]
+        },
+        {
+          "type": "group",
+          "id": "part-v",
+          "title_zh": "第五部分　订单与交易管理",
+          "title_en": "Part V · Orders and Trade Management",
+          "children": [
+            {
+              "type": "page",
+              "id": "34-part-v-orders-and-trade-management",
+              "file": "34-part-v-orders-and-trade-management.md",
+              "title_zh": "第五部分：订单与交易管理",
+              "title_en": "Part V: Orders and Trade Management"
+            },
+            {
+              "type": "page",
+              "id": "35-ch24-scalping-swinging-trading-and-investing",
+              "file": "35-ch24-scalping-swinging-trading-and-investing.md",
+              "title_zh": "第24章 剥头皮、波段交易、交易与投资",
+              "title_en": "Chapter 24: Scalping, Swinging, Trading, and Investing"
+            },
+            {
+              "type": "page",
+              "id": "36-ch25-mathematics-of-trading-should-i-take-this-trade-will-i-make-money-if-i-take-this",
+              "file": "36-ch25-mathematics-of-trading-should-i-take-this-trade-will-i-make-money-if-i-take-this.md",
+              "title_zh": "第25章 交易的数学：我该做这笔交易吗？做了会赚钱吗？",
+              "title_en": "Chapter 25: Mathematics of Trading: Should I Take This Trade? Will I Make Money If I Take This Trade?"
+            },
+            {
+              "type": "page",
+              "id": "37-ch26-need-two-reasons-to-take-a-trade",
+              "file": "37-ch26-need-two-reasons-to-take-a-trade.md",
+              "title_zh": "第26章　需要两个理由才做一笔交易",
+              "title_en": "Chapter 26: Need Two Reasons to Take a Trade"
+            },
+            {
+              "type": "page",
+              "id": "38-ch27-entering-on-stops",
+              "file": "38-ch27-entering-on-stops.md",
+              "title_zh": "第 27 章：用止损单入场",
+              "title_en": "Chapter 27: Entering on Stops"
+            },
+            {
+              "type": "page",
+              "id": "39-ch28-entering-on-limits",
+              "file": "39-ch28-entering-on-limits.md",
+              "title_zh": "第28章 限价单入场",
+              "title_en": "Chapter 28: Entering on Limits"
+            },
+            {
+              "type": "page",
+              "id": "40-ch29-protective-and-trailing-stops",
+              "file": "40-ch29-protective-and-trailing-stops.md",
+              "title_zh": "第29章 保护性止损与移动止损",
+              "title_en": "Chapter 29: Protective and Trailing Stops"
+            },
+            {
+              "type": "page",
+              "id": "41-ch30-profit-taking-and-profit-targets",
+              "file": "41-ch30-profit-taking-and-profit-targets.md",
+              "title_zh": "第30章　获利了结与止盈目标",
+              "title_en": "Chapter 30: Profit Taking and Profit Targets"
+            },
+            {
+              "type": "page",
+              "id": "42-ch31-scaling-into-and-out-of-a-trade",
+              "file": "42-ch31-scaling-into-and-out-of-a-trade.md",
+              "title_zh": "第31章 分批加仓与分批减仓",
+              "title_en": "Chapter 31: Scaling Into and Out of a Trade"
+            },
+            {
+              "type": "page",
+              "id": "43-ch32-getting-trapped-in-or-out-of-a-trade",
+              "file": "43-ch32-getting-trapped-in-or-out-of-a-trade.md",
+              "title_zh": "第 32 章：被困进场或出场",
+              "title_en": "Chapter 32: Getting Trapped In or Out of a Trade"
+            }
+          ]
+        },
+        {
+          "type": "group",
+          "id": "back",
+          "title_zh": "附录",
+          "title_en": "Back Matter",
+          "children": [
+            {
+              "type": "page",
+              "id": "44-about-the-author",
+              "file": "44-about-the-author.md",
+              "title_zh": "关于作者",
+              "title_en": "About the Author"
+            },
+            {
+              "type": "page",
+              "id": "45-about-the-website",
+              "file": "45-about-the-website.md",
+              "title_zh": "关于网站",
+              "title_en": "About the Website"
+            },
+            {
+              "type": "page",
+              "id": "46-index",
+              "file": "46-index.md",
+              "title_zh": "索引",
+              "title_en": "Index"
+            }
+          ]
+        }
+      ],
+      "chapters": [
+        {
+          "id": "01-acknowledgments",
+          "file": "01-acknowledgments.md",
+          "title_en": "Acknowledgments",
+          "title_zh": "致谢",
+          "en_bytes": 1474,
+          "zh_bytes": 1184
+        },
+        {
+          "id": "02-list-of-terms-used-in-this-book",
+          "file": "02-list-of-terms-used-in-this-book.md",
+          "title_en": "List of Terms Used in This Book",
+          "title_zh": "本书所用术语表",
+          "en_bytes": 37772,
+          "zh_bytes": 34640
+        },
+        {
+          "id": "03-introduction",
+          "file": "03-introduction.md",
+          "title_en": "Introduction",
+          "title_zh": "导论",
+          "en_bytes": 69485,
+          "zh_bytes": 54744
+        },
+        {
+          "id": "04-how-to-read-these-books",
+          "file": "04-how-to-read-these-books.md",
+          "title_en": "HOW TO READ THESE BOOKS",
+          "title_zh": "如何阅读这套书",
+          "en_bytes": 5266,
+          "zh_bytes": 4603
+        },
+        {
+          "id": "05-signs-of-strength-trends-breakouts-reversal-bars-and-reversals",
+          "file": "05-signs-of-strength-trends-breakouts-reversal-bars-and-reversals.md",
+          "title_en": "SIGNS OF STRENGTH: TRENDS, BREAKOUTS, REVERSAL BARS, AND REVERSALS",
+          "title_zh": "强势迹象：趋势、突破、反转K线与反转",
+          "en_bytes": 16664,
+          "zh_bytes": 13962
+        },
+        {
+          "id": "06-bar-counting-basics-high-1-high-2-low-1-low-2",
+          "file": "06-bar-counting-basics-high-1-high-2-low-1-low-2.md",
+          "title_en": "BAR COUNTING BASICS: HIGH 1, HIGH 2, LOW 1, LOW 2",
+          "title_zh": "K线计数基础：High 1、High 2、Low 1、Low 2",
+          "en_bytes": 3587,
+          "zh_bytes": 3158
+        },
+        {
+          "id": "07-part-i-breakouts-transitioning-into-a-new-trend",
+          "file": "07-part-i-breakouts-transitioning-into-a-new-trend.md",
+          "title_en": "Part I: Breakouts: Transitioning into a New Trend",
+          "title_zh": "第一部分：突破：过渡到新趋势",
+          "en_bytes": 46888,
+          "zh_bytes": 36583
+        },
+        {
+          "id": "08-ch01-example-of-how-to-trade-a-breakout",
+          "file": "08-ch01-example-of-how-to-trade-a-breakout.md",
+          "title_en": "Chapter 1: Example of How to Trade a Breakout",
+          "title_zh": "第 1 章：如何交易突破的示例",
+          "en_bytes": 18209,
+          "zh_bytes": 14689
+        },
+        {
+          "id": "09-ch02-signs-of-strength-in-a-breakout",
+          "file": "09-ch02-signs-of-strength-in-a-breakout.md",
+          "title_en": "Chapter 2: Signs of Strength in a Breakout",
+          "title_zh": "第 2 章：突破中的强势迹象",
+          "en_bytes": 46345,
+          "zh_bytes": 36044
+        },
+        {
+          "id": "10-ch03-initial-breakout",
+          "file": "10-ch03-initial-breakout.md",
+          "title_en": "Chapter 3: Initial Breakout",
+          "title_zh": "第 3 章：初始突破",
+          "en_bytes": 19987,
+          "zh_bytes": 15826
+        },
+        {
+          "id": "11-ch04-breakout-entries-in-existing-strong-trends",
+          "file": "11-ch04-breakout-entries-in-existing-strong-trends.md",
+          "title_en": "Chapter 4: Breakout Entries in Existing Strong Trends",
+          "title_zh": "第 4 章：在已有强趋势中的突破入场",
+          "en_bytes": 12643,
+          "zh_bytes": 10302
+        },
+        {
+          "id": "12-ch05-failed-breakouts-breakout-pullbacks-and-breakout-tests",
+          "file": "12-ch05-failed-breakouts-breakout-pullbacks-and-breakout-tests.md",
+          "title_en": "Chapter 5: Failed Breakouts, Breakout Pullbacks, and Breakout Tests",
+          "title_zh": "第5章　失败突破、突破回撤与突破回测",
+          "en_bytes": 35042,
+          "zh_bytes": 27089
+        },
+        {
+          "id": "13-ch06-gaps",
+          "file": "13-ch06-gaps.md",
+          "title_en": "Chapter 6: Gaps",
+          "title_zh": "第 6 章：缺口",
+          "en_bytes": 46991,
+          "zh_bytes": 37545
+        },
+        {
+          "id": "14-part-ii-magnets-support-and-resistance",
+          "file": "14-part-ii-magnets-support-and-resistance.md",
+          "title_en": "Part II: Magnets: Support and Resistance",
+          "title_zh": "第二部分　磁力位：支撑与阻力",
+          "en_bytes": 30530,
+          "zh_bytes": 23552
+        },
+        {
+          "id": "15-ch07-measured-moves-based-on-the-size-of-the-first-leg-the-spike",
+          "file": "15-ch07-measured-moves-based-on-the-size-of-the-first-leg-the-spike.md",
+          "title_en": "Chapter 7: Measured Moves Based on the Size of the First Leg (the Spike)",
+          "title_zh": "第7章　基于第一段（尖峰）大小的等幅运动",
+          "en_bytes": 25106,
+          "zh_bytes": 18956
+        },
+        {
+          "id": "16-ch08-measured-moves-based-on-gaps-and-trading-ranges",
+          "file": "16-ch08-measured-moves-based-on-gaps-and-trading-ranges.md",
+          "title_en": "Chapter 8: Measured Moves Based on Gaps and Trading Ranges",
+          "title_zh": "第8章　基于缺口与震荡区间的等幅运动",
+          "en_bytes": 13165,
+          "zh_bytes": 10138
+        },
+        {
+          "id": "17-ch09-reversals-often-end-at-signal-bars-from-prior-failed-reversals",
+          "file": "17-ch09-reversals-often-end-at-signal-bars-from-prior-failed-reversals.md",
+          "title_en": "Chapter 9: Reversals Often End at Signal Bars from Prior Failed Reversals",
+          "title_zh": "第 9 章：反转常止于先前失败反转的信号K线处",
+          "en_bytes": 6881,
+          "zh_bytes": 5674
+        },
+        {
+          "id": "18-ch10-other-magnets",
+          "file": "18-ch10-other-magnets.md",
+          "title_en": "Chapter 10: Other Magnets",
+          "title_zh": "第 10 章：其他磁铁",
+          "en_bytes": 3448,
+          "zh_bytes": 3115
+        },
+        {
+          "id": "19-part-iii-pullbacks-trends-converting-to-trading-ranges",
+          "file": "19-part-iii-pullbacks-trends-converting-to-trading-ranges.md",
+          "title_en": "Part III: Pullbacks: Trends Converting to Trading Ranges",
+          "title_zh": "第三部分　回撤：趋势转为震荡区间",
+          "en_bytes": 58944,
+          "zh_bytes": 46374
+        },
+        {
+          "id": "20-ch11-first-pullback-sequence-bar-minor-trend-line-moving-average-moving-average-gap-m",
+          "file": "20-ch11-first-pullback-sequence-bar-minor-trend-line-moving-average-moving-average-gap-m.md",
+          "title_en": "Chapter 11: First Pullback Sequence: Bar, Minor Trend Line, Moving Average, Moving Average Gap, Major Trend Line",
+          "title_zh": "第11章　第一次回撤序列：K线、次要趋势线、均线、均线缺口、主要趋势线",
+          "en_bytes": 16638,
+          "zh_bytes": 13297
+        },
+        {
+          "id": "21-ch12-double-top-bear-flags-and-double-bottom-bull-flags",
+          "file": "21-ch12-double-top-bear-flags-and-double-bottom-bull-flags.md",
+          "title_en": "Chapter 12: Double Top Bear Flags and Double Bottom Bull Flags",
+          "title_zh": "第12章　双顶空头旗形与双底多头旗形",
+          "en_bytes": 36877,
+          "zh_bytes": 29223
+        },
+        {
+          "id": "22-ch13-twenty-gap-bars",
+          "file": "22-ch13-twenty-gap-bars.md",
+          "title_en": "Chapter 13: Twenty Gap Bars",
+          "title_zh": "第 13 章：二十缺口K线",
+          "en_bytes": 10071,
+          "zh_bytes": 8735
+        },
+        {
+          "id": "23-ch14-first-moving-average-gap-bars",
+          "file": "23-ch14-first-moving-average-gap-bars.md",
+          "title_en": "Chapter 14: First Moving Average Gap Bars",
+          "title_zh": "第 14 章：第一根均线缺口K线",
+          "en_bytes": 6579,
+          "zh_bytes": 5466
+        },
+        {
+          "id": "24-ch15-key-inflection-times-of-the-day-that-set-up-breakouts-and-reversals",
+          "file": "24-ch15-key-inflection-times-of-the-day-that-set-up-breakouts-and-reversals.md",
+          "title_en": "Chapter 15: Key Inflection Times of the Day That Set Up Breakouts and Reversals",
+          "title_zh": "第 15 章：酝酿突破与反转的日内关键转折时点",
+          "en_bytes": 9041,
+          "zh_bytes": 7441
+        },
+        {
+          "id": "25-ch16-counting-the-legs-of-trends-and-trading-ranges",
+          "file": "25-ch16-counting-the-legs-of-trends-and-trading-ranges.md",
+          "title_en": "Chapter 16: Counting the Legs of Trends and Trading Ranges",
+          "title_zh": "第 16 章：数趋势与震荡区间的腿数",
+          "en_bytes": 5766,
+          "zh_bytes": 4754
+        },
+        {
+          "id": "26-ch17-bar-counting-high-and-low-1-2-3-and-4-patterns-and-abc-corrections",
+          "file": "26-ch17-bar-counting-high-and-low-1-2-3-and-4-patterns-and-abc-corrections.md",
+          "title_en": "Chapter 17: Bar Counting: High and Low 1, 2, 3, and 4 Patterns and ABC Corrections",
+          "title_zh": "第17章　K线计数：High 与 Low 1、2、3、4 形态与 ABC 调整",
+          "en_bytes": 96225,
+          "zh_bytes": 77299
+        },
+        {
+          "id": "27-ch18-wedge-and-other-three-push-pullbacks",
+          "file": "27-ch18-wedge-and-other-three-push-pullbacks.md",
+          "title_en": "Chapter 18: Wedge and Other Three-Push Pullbacks",
+          "title_zh": "第18章　楔形与其他三推回撤",
+          "en_bytes": 16073,
+          "zh_bytes": 13166
+        },
+        {
+          "id": "28-ch19-dueling-lines-wedge-pullback-to-the-trend-line",
+          "file": "28-ch19-dueling-lines-wedge-pullback-to-the-trend-line.md",
+          "title_en": "Chapter 19: Dueling Lines: Wedge Pullback to the Trend Line",
+          "title_zh": "第 19 章：对决线：回撤到趋势线的楔形",
+          "en_bytes": 6585,
+          "zh_bytes": 5352
+        },
+        {
+          "id": "29-ch20-reversal-patterns-double-tops-and-bottoms-and-head-and-shoulders-tops-and-bottom",
+          "file": "29-ch20-reversal-patterns-double-tops-and-bottoms-and-head-and-shoulders-tops-and-bottom.md",
+          "title_en": "Chapter 20: “Reversal” Patterns: Double Tops and Bottoms and Head and Shoulders Tops and Bottoms",
+          "title_zh": "第 20 章：「反转」形态：双顶与双底、头肩顶与头肩底",
+          "en_bytes": 8841,
+          "zh_bytes": 6829
+        },
+        {
+          "id": "30-part-iv-trading-ranges",
+          "file": "30-part-iv-trading-ranges.md",
+          "title_en": "Part IV: Trading Ranges",
+          "title_zh": "第四部分 震荡区间",
+          "en_bytes": 101243,
+          "zh_bytes": 80322
+        },
+        {
+          "id": "31-ch21-example-of-how-to-trade-a-trading-range",
+          "file": "31-ch21-example-of-how-to-trade-a-trading-range.md",
+          "title_en": "Chapter 21: Example of How to Trade a Trading Range",
+          "title_zh": "第21章　如何交易震荡区间的例子",
+          "en_bytes": 24478,
+          "zh_bytes": 19454
+        },
+        {
+          "id": "32-ch22-tight-trading-ranges",
+          "file": "32-ch22-tight-trading-ranges.md",
+          "title_en": "Chapter 22: Tight Trading Ranges",
+          "title_zh": "第22章 窄幅震荡区间",
+          "en_bytes": 61750,
+          "zh_bytes": 49206
+        },
+        {
+          "id": "33-ch23-triangles",
+          "file": "33-ch23-triangles.md",
+          "title_en": "Chapter 23: Triangles",
+          "title_zh": "第 23 章：三角形",
+          "en_bytes": 11200,
+          "zh_bytes": 9208
+        },
+        {
+          "id": "34-part-v-orders-and-trade-management",
+          "file": "34-part-v-orders-and-trade-management.md",
+          "title_en": "Part V: Orders and Trade Management",
+          "title_zh": "第五部分：订单与交易管理",
+          "en_bytes": 361,
+          "zh_bytes": 284
+        },
+        {
+          "id": "35-ch24-scalping-swinging-trading-and-investing",
+          "file": "35-ch24-scalping-swinging-trading-and-investing.md",
+          "title_en": "Chapter 24: Scalping, Swinging, Trading, and Investing",
+          "title_zh": "第24章 剥头皮、波段交易、交易与投资",
+          "en_bytes": 49472,
+          "zh_bytes": 37458
+        },
+        {
+          "id": "36-ch25-mathematics-of-trading-should-i-take-this-trade-will-i-make-money-if-i-take-this",
+          "file": "36-ch25-mathematics-of-trading-should-i-take-this-trade-will-i-make-money-if-i-take-this.md",
+          "title_en": "Chapter 25: Mathematics of Trading: Should I Take This Trade? Will I Make Money If I Take This Trade?",
+          "title_zh": "第25章 交易的数学：我该做这笔交易吗？做了会赚钱吗？",
+          "en_bytes": 140086,
+          "zh_bytes": 105301
+        },
+        {
+          "id": "37-ch26-need-two-reasons-to-take-a-trade",
+          "file": "37-ch26-need-two-reasons-to-take-a-trade.md",
+          "title_en": "Chapter 26: Need Two Reasons to Take a Trade",
+          "title_zh": "第26章　需要两个理由才做一笔交易",
+          "en_bytes": 13282,
+          "zh_bytes": 10892
+        },
+        {
+          "id": "38-ch27-entering-on-stops",
+          "file": "38-ch27-entering-on-stops.md",
+          "title_en": "Chapter 27: Entering on Stops",
+          "title_zh": "第 27 章：用止损单入场",
+          "en_bytes": 1834,
+          "zh_bytes": 1559
+        },
+        {
+          "id": "39-ch28-entering-on-limits",
+          "file": "39-ch28-entering-on-limits.md",
+          "title_en": "Chapter 28: Entering on Limits",
+          "title_zh": "第28章 限价单入场",
+          "en_bytes": 64721,
+          "zh_bytes": 53559
+        },
+        {
+          "id": "40-ch29-protective-and-trailing-stops",
+          "file": "40-ch29-protective-and-trailing-stops.md",
+          "title_en": "Chapter 29: Protective and Trailing Stops",
+          "title_zh": "第29章 保护性止损与移动止损",
+          "en_bytes": 46453,
+          "zh_bytes": 37401
+        },
+        {
+          "id": "41-ch30-profit-taking-and-profit-targets",
+          "file": "41-ch30-profit-taking-and-profit-targets.md",
+          "title_en": "Chapter 30: Profit Taking and Profit Targets",
+          "title_zh": "第30章　获利了结与止盈目标",
+          "en_bytes": 18473,
+          "zh_bytes": 14041
+        },
+        {
+          "id": "42-ch31-scaling-into-and-out-of-a-trade",
+          "file": "42-ch31-scaling-into-and-out-of-a-trade.md",
+          "title_en": "Chapter 31: Scaling Into and Out of a Trade",
+          "title_zh": "第31章 分批加仓与分批减仓",
+          "en_bytes": 44380,
+          "zh_bytes": 36006
+        },
+        {
+          "id": "43-ch32-getting-trapped-in-or-out-of-a-trade",
+          "file": "43-ch32-getting-trapped-in-or-out-of-a-trade.md",
+          "title_en": "Chapter 32: Getting Trapped In or Out of a Trade",
+          "title_zh": "第 32 章：被困进场或出场",
+          "en_bytes": 5581,
+          "zh_bytes": 4596
+        },
+        {
+          "id": "44-about-the-author",
+          "file": "44-about-the-author.md",
+          "title_en": "About the Author",
+          "title_zh": "关于作者",
+          "en_bytes": 677,
+          "zh_bytes": 656
+        },
+        {
+          "id": "45-about-the-website",
+          "file": "45-about-the-website.md",
+          "title_en": "About the Website",
+          "title_zh": "关于网站",
+          "en_bytes": 329,
+          "zh_bytes": 280
+        },
+        {
+          "id": "46-index",
+          "file": "46-index.md",
+          "title_en": "Index",
+          "title_zh": "索引",
+          "en_bytes": 15157,
+          "zh_bytes": 16970
+        }
+      ]
     }
   ]
 }
