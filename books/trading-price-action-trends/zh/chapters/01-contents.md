@@ -3,7 +3,6 @@
 <!-- Source PDF pages 9–12 -->
 <!-- Contents -->
 
-
 <!-- PDF page 9 -->
 
 致谢
@@ -31,12 +30,7 @@ K线基础：信号K线、入场K线、交易形态与蜡烛图形态
 K线收盘的重要性
 第9章
 交易所交易基金与反向图表
-vii
-
-
-<!-- PDF page 10 -->
-
-viii
+vii <!-- PDF page 10 --> viii
 目录
 第10章
 第二次入场
@@ -71,12 +65,7 @@ viii
 第22章
 趋势型震荡日
 第23章
-开盘即趋势与小回撤趋势
-
-
-<!-- PDF page 11 -->
-
-ix
+开盘即趋势与小回撤趋势 <!-- PDF page 11 --> ix
 第24章
 反转日
 第25章
@@ -86,6 +75,5 @@ ix
 关于作者
 关于网站
 索引
-
 
 <!-- PDF page 12: no extractable text (likely figure-only) -->

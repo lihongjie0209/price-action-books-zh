@@ -31,7 +31,7 @@
     "4.11": "assets/figures/fig_4_11.png",
     "4.12": "assets/figures/fig_4_12.png",
     "4.13": "assets/figures/fig_4_13.png",
-    "4.14": "assets/figures/fig_4_14.png",
+    "4.14": "assets/figures/fig_4_14.webp",
     "4.15": "assets/figures/fig_4_15.png",
     "4.16": "assets/figures/fig_4_16.png",
     "4.17": "assets/figures/fig_4_17.png",
@@ -40,7 +40,7 @@
     "5.3": "assets/figures/fig_5_3.png",
     "5.4": "assets/figures/fig_5_4.png",
     "5.5": "assets/figures/fig_5_5.png",
-    "5.6": "assets/figures/fig_5_6.png",
+    "5.6": "assets/figures/fig_5_6.webp",
     "5.7": "assets/figures/fig_5_7.png",
     "5.8": "assets/figures/fig_5_8.png",
     "5.9": "assets/figures/fig_5_9.png",
@@ -53,7 +53,7 @@
     "7.1": "assets/figures/fig_7_1.png",
     "7.2": "assets/figures/fig_7_2.png",
     "7.3": "assets/figures/fig_7_3.png",
-    "7.4": "assets/figures/fig_7_4.png",
+    "7.4": "assets/figures/fig_7_4.webp",
     "7.5": "assets/figures/fig_7_5.png",
     "7.6": "assets/figures/fig_7_6.png",
     "7.7": "assets/figures/fig_7_7.png",
@@ -129,7 +129,7 @@
     "19.8": "assets/figures/fig_19_8.png",
     "19.9": "assets/figures/fig_19_9.png",
     "20.1": "assets/figures/fig_20_1.png",
-    "20.2": "assets/figures/fig_20_2.png",
+    "20.2": "assets/figures/fig_20_2.webp",
     "21.1": "assets/figures/fig_21_1.png",
     "21.2": "assets/figures/fig_21_2.png",
     "21.3": "assets/figures/fig_21_3.png",
@@ -164,7 +164,7 @@
     "24.9": "assets/figures/fig_24_9.png",
     "24.10": "assets/figures/fig_24_10.png",
     "24.11": "assets/figures/fig_24_11.png",
-    "24.12": "assets/figures/fig_24_12.png",
+    "24.12": "assets/figures/fig_24_12.webp",
     "24.13": "assets/figures/fig_24_13.png",
     "24.14": "assets/figures/fig_24_14.png",
     "24.15": "assets/figures/fig_24_15.png",
@@ -177,5 +177,37 @@
     "24.22": "assets/figures/fig_24_22.png",
     "24.23": "assets/figures/fig_24_23.png",
     "24.24": "assets/figures/fig_24_24.png"
+  },
+  "figure_meta": {
+    "4.14": {
+      "page": 172,
+      "kind": "embedded-remap",
+      "width": 550,
+      "height": 300
+    },
+    "5.6": {
+      "page": 189,
+      "kind": "embedded-remap",
+      "width": 550,
+      "height": 309
+    },
+    "7.4": {
+      "page": 219,
+      "kind": "embedded-remap",
+      "width": 550,
+      "height": 422
+    },
+    "20.2": {
+      "page": 392,
+      "kind": "embedded-remap",
+      "width": 438,
+      "height": 803
+    },
+    "24.12": {
+      "page": 483,
+      "kind": "embedded-remap",
+      "width": 550,
+      "height": 307
+    }
   }
 }

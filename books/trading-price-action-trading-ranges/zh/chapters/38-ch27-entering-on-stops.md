@@ -2,7 +2,6 @@
 
 <!-- Source PDF pages 533–534 -->
 
-
 <!-- PDF page 533 -->
 
 第 27 章
@@ -11,8 +10,6 @@
 图 27.1 需要 6 tick 的运动才能赚到 4 tick
 
 ![图 27.1](../../assets/figures/fig_27_1.webp)
-
-
 
 <!-- PDF page 534 -->
 

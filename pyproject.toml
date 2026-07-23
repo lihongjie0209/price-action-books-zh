@@ -4,6 +4,8 @@ version = "0.1.0"
 description = "Brooks price action book translations tooling (pyvips figure optimize)"
 requires-python = ">=3.11"
 dependencies = [
+  "pillow>=12.3.0",
+  "pymupdf>=1.28.0",
   "pyvips>=2.2.0",
 ]
 
