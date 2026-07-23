@@ -1388,6 +1388,643 @@
           "zh_bytes": 16970
         }
       ]
+    },
+    {
+      "id": "trading-price-action-reversals",
+      "slug": "trading-price-action-reversals",
+      "title_en": "Trading Price Action REVERSALS",
+      "title_zh": "交易价格行为：反转",
+      "author": "Al Brooks",
+      "series": "Brooks Trading Course books",
+      "description_zh": "Al Brooks《Trading Price Action REVERSALS》简体中文译本。趋势反转、日内交易、开盘区间与最佳交易。",
+      "description_en": "Simplified Chinese translation of Al Brooks Trading Price Action REVERSALS.",
+      "path": "books/trading-price-action-reversals",
+      "default_lang": "zh",
+      "chapter_count": 38,
+      "figure_count": 177,
+      "glossary": "books/trading-price-action-reversals/glossary/glossary.md",
+      "toc": [
+        {
+          "type": "group",
+          "id": "front",
+          "title_zh": "前言",
+          "title_en": "Front Matter",
+          "children": [
+            {
+              "type": "page",
+              "id": "01-acknowledgments",
+              "file": "01-acknowledgments.md",
+              "title_zh": "致谢",
+              "title_en": "Acknowledgments"
+            },
+            {
+              "type": "page",
+              "id": "02-list-of-terms-used-in-this-book",
+              "file": "02-list-of-terms-used-in-this-book.md",
+              "title_zh": "本书所用术语表",
+              "title_en": "List of Terms Used in This Book"
+            },
+            {
+              "type": "page",
+              "id": "03-introduction",
+              "file": "03-introduction.md",
+              "title_zh": "导论",
+              "title_en": "Introduction"
+            },
+            {
+              "type": "page",
+              "id": "04-how-to-read-these-books",
+              "file": "04-how-to-read-these-books.md",
+              "title_zh": "如何阅读这些书",
+              "title_en": "HOW TO READ THESE BOOKS"
+            },
+            {
+              "type": "page",
+              "id": "05-signs-of-strength-trends-breakouts-reversal-bars-and-reversals",
+              "file": "05-signs-of-strength-trends-breakouts-reversal-bars-and-reversals.md",
+              "title_zh": "强度迹象：趋势、突破、反转 K 线与反转",
+              "title_en": "SIGNS OF STRENGTH: TRENDS, BREAKOUTS, REVERSAL BARS, AND REVERSALS"
+            },
+            {
+              "type": "page",
+              "id": "06-bar-counting-basics-high-1-high-2-low-1-low-2",
+              "file": "06-bar-counting-basics-high-1-high-2-low-1-low-2.md",
+              "title_zh": "K 线计数基础：High 1、High 2、Low 1、Low 2",
+              "title_en": "BAR COUNTING BASICS: HIGH 1, HIGH 2, LOW 1, LOW 2"
+            }
+          ]
+        },
+        {
+          "type": "group",
+          "id": "part-i",
+          "title_zh": "第一部分　趋势反转",
+          "title_en": "Part I · Trend Reversals",
+          "children": [
+            {
+              "type": "page",
+              "id": "07-part-i-trend-reversals-a-trend-becoming-an-opposite-trend",
+              "file": "07-part-i-trend-reversals-a-trend-becoming-an-opposite-trend.md",
+              "title_zh": "第一部分：趋势反转：趋势变成相反趋势",
+              "title_en": "Part I: Trend Reversals: A Trend Becoming an Opposite Trend"
+            },
+            {
+              "type": "page",
+              "id": "08-ch01-example-of-how-to-trade-a-reversal",
+              "file": "08-ch01-example-of-how-to-trade-a-reversal.md",
+              "title_zh": "第 1 章：如何交易反转的例子",
+              "title_en": "Chapter 1: Example of How to Trade a Reversal"
+            },
+            {
+              "type": "page",
+              "id": "09-ch02-signs-of-strength-in-a-reversal",
+              "file": "09-ch02-signs-of-strength-in-a-reversal.md",
+              "title_zh": "第 2 章：反转中的强度迹象",
+              "title_en": "Chapter 2: Signs of Strength in a Reversal"
+            },
+            {
+              "type": "page",
+              "id": "10-ch03-major-trend-reversal",
+              "file": "10-ch03-major-trend-reversal.md",
+              "title_zh": "第 3 章：主要趋势反转",
+              "title_en": "Chapter 3: Major Trend Reversal"
+            },
+            {
+              "type": "page",
+              "id": "11-ch04-climactic-reversals-a-spike-followed-by-a-spike-in-the-opposite-direction",
+              "file": "11-ch04-climactic-reversals-a-spike-followed-by-a-spike-in-the-opposite-direction.md",
+              "title_zh": "第 4 章：高潮反转：尖峰后跟随相反方向的尖峰",
+              "title_en": "Chapter 4: Climactic Reversals: A Spike Followed by a Spike in the Opposite Direction"
+            },
+            {
+              "type": "page",
+              "id": "12-ch05-wedges-and-other-three-push-reversal-patterns",
+              "file": "12-ch05-wedges-and-other-three-push-reversal-patterns.md",
+              "title_zh": "第 5 章：楔形与其他三推反转形态",
+              "title_en": "Chapter 5: Wedges and Other Three-Push Reversal Patterns"
+            },
+            {
+              "type": "page",
+              "id": "13-ch06-expanding-triangles",
+              "file": "13-ch06-expanding-triangles.md",
+              "title_zh": "第 6 章：扩散三角形",
+              "title_en": "Chapter 6: Expanding Triangles"
+            },
+            {
+              "type": "page",
+              "id": "14-ch07-final-flags",
+              "file": "14-ch07-final-flags.md",
+              "title_zh": "第 7 章：最后旗形",
+              "title_en": "Chapter 7: Final Flags"
+            },
+            {
+              "type": "page",
+              "id": "15-ch08-double-top-and-bottom-pullbacks",
+              "file": "15-ch08-double-top-and-bottom-pullbacks.md",
+              "title_zh": "第 8 章：双顶与双底回撤",
+              "title_en": "Chapter 8: Double Top and Bottom Pullbacks"
+            },
+            {
+              "type": "page",
+              "id": "16-ch09-failures",
+              "file": "16-ch09-failures.md",
+              "title_zh": "第 9 章：失败",
+              "title_en": "Chapter 9: Failures"
+            },
+            {
+              "type": "page",
+              "id": "17-ch10-huge-volume-reversals-on-daily-charts",
+              "file": "17-ch10-huge-volume-reversals-on-daily-charts.md",
+              "title_zh": "第 10 章：日线图上的巨量反转",
+              "title_en": "Chapter 10: Huge Volume Reversals on Daily Charts"
+            }
+          ]
+        },
+        {
+          "type": "group",
+          "id": "part-ii",
+          "title_zh": "第二部分　日内交易",
+          "title_en": "Part II · Day Trading",
+          "children": [
+            {
+              "type": "page",
+              "id": "18-part-ii-day-trading",
+              "file": "18-part-ii-day-trading.md",
+              "title_zh": "第二部分：日内交易",
+              "title_en": "Part II: Day Trading"
+            },
+            {
+              "type": "page",
+              "id": "19-ch11-key-times-of-the-day",
+              "file": "19-ch11-key-times-of-the-day.md",
+              "title_zh": "第 11 章：一天中的关键时段",
+              "title_en": "Chapter 11: Key Times of the Day"
+            },
+            {
+              "type": "page",
+              "id": "20-ch12-markets",
+              "file": "20-ch12-markets.md",
+              "title_zh": "第 12 章：市场",
+              "title_en": "Chapter 12: Markets"
+            },
+            {
+              "type": "page",
+              "id": "21-ch13-time-frames-and-chart-types",
+              "file": "21-ch13-time-frames-and-chart-types.md",
+              "title_zh": "第 13 章：时间框架与图表类型",
+              "title_en": "Chapter 13: Time Frames and Chart Types"
+            },
+            {
+              "type": "page",
+              "id": "22-ch14-globex-premarket-postmarket-and-overnight-market",
+              "file": "22-ch14-globex-premarket-postmarket-and-overnight-market.md",
+              "title_zh": "第 14 章：Globex、盘前、盘后与隔夜市场",
+              "title_en": "Chapter 14: Globex, Premarket, Postmarket, and Overnight Market"
+            },
+            {
+              "type": "page",
+              "id": "23-ch15-always-in",
+              "file": "23-ch15-always-in.md",
+              "title_zh": "第 15 章：始终持仓",
+              "title_en": "Chapter 15: Always In"
+            },
+            {
+              "type": "page",
+              "id": "24-ch16-extreme-scalping",
+              "file": "24-ch16-extreme-scalping.md",
+              "title_zh": "第 16 章：极端剥头皮",
+              "title_en": "Chapter 16: Extreme Scalping"
+            }
+          ]
+        },
+        {
+          "type": "group",
+          "id": "part-iii",
+          "title_zh": "第三部分　第一小时（开盘区间）",
+          "title_en": "Part III · Opening Range",
+          "children": [
+            {
+              "type": "page",
+              "id": "25-part-iii-the-first-hour-the-opening-range",
+              "file": "25-part-iii-the-first-hour-the-opening-range.md",
+              "title_zh": "第三部分：第一个小时（开盘区间）",
+              "title_en": "Part III: The First Hour (The Opening Range)"
+            },
+            {
+              "type": "page",
+              "id": "26-ch17-patterns-related-to-the-premarket",
+              "file": "26-ch17-patterns-related-to-the-premarket.md",
+              "title_zh": "第 17 章：与盘前相关的形态",
+              "title_en": "Chapter 17: Patterns Related to the Premarket"
+            },
+            {
+              "type": "page",
+              "id": "27-ch18-patterns-related-to-yesterday-breakouts-breakout-pullbacks-and-failed-breakouts",
+              "file": "27-ch18-patterns-related-to-yesterday-breakouts-breakout-pullbacks-and-failed-breakouts.md",
+              "title_zh": "第 18 章：与昨日相关的形态：突破、突破回撤与失败突破",
+              "title_en": "Chapter 18: Patterns Related to Yesterday: Breakouts, Breakout Pullbacks, and Failed Breakouts"
+            },
+            {
+              "type": "page",
+              "id": "28-ch19-opening-patterns-and-reversals",
+              "file": "28-ch19-opening-patterns-and-reversals.md",
+              "title_zh": "第 19 章：开盘形态与反转",
+              "title_en": "Chapter 19: Opening Patterns and Reversals"
+            },
+            {
+              "type": "page",
+              "id": "29-ch20-gap-openings-reversals-and-continuations",
+              "file": "29-ch20-gap-openings-reversals-and-continuations.md",
+              "title_zh": "第 20 章：跳空开盘：反转与延续",
+              "title_en": "Chapter 20: Gap Openings: Reversals and Continuations"
+            }
+          ]
+        },
+        {
+          "type": "group",
+          "id": "part-iv",
+          "title_zh": "第四部分　综合运用",
+          "title_en": "Part IV · Putting It All Together",
+          "children": [
+            {
+              "type": "page",
+              "id": "30-part-iv-putting-it-all-together",
+              "file": "30-part-iv-putting-it-all-together.md",
+              "title_zh": "第四部分：融会贯通",
+              "title_en": "Part IV: Putting It All Together"
+            },
+            {
+              "type": "page",
+              "id": "31-ch21-detailed-day-trading-examples",
+              "file": "31-ch21-detailed-day-trading-examples.md",
+              "title_zh": "第 21 章：详细日内交易例子",
+              "title_en": "Chapter 21: Detailed Day Trading Examples"
+            },
+            {
+              "type": "page",
+              "id": "32-ch22-daily-weekly-and-monthly-charts",
+              "file": "32-ch22-daily-weekly-and-monthly-charts.md",
+              "title_zh": "第 22 章：日线、周线与月线图",
+              "title_en": "Chapter 22: Daily, Weekly, and Monthly Charts"
+            },
+            {
+              "type": "page",
+              "id": "33-ch23-options",
+              "file": "33-ch23-options.md",
+              "title_zh": "第 23 章：期权",
+              "title_en": "Chapter 23: Options"
+            },
+            {
+              "type": "page",
+              "id": "34-ch24-the-best-trades-putting-it-all-together",
+              "file": "34-ch24-the-best-trades-putting-it-all-together.md",
+              "title_zh": "第 24 章：最佳交易：综合运用",
+              "title_en": "Chapter 24: The Best Trades: Putting It All Together"
+            },
+            {
+              "type": "page",
+              "id": "35-ch25-trading-guidelines",
+              "file": "35-ch25-trading-guidelines.md",
+              "title_zh": "第 25 章：交易指引",
+              "title_en": "Chapter 25: Trading Guidelines"
+            }
+          ]
+        },
+        {
+          "type": "group",
+          "id": "back",
+          "title_zh": "附录",
+          "title_en": "Back Matter",
+          "children": [
+            {
+              "type": "page",
+              "id": "36-about-the-author",
+              "file": "36-about-the-author.md",
+              "title_zh": "关于作者",
+              "title_en": "About the Author"
+            },
+            {
+              "type": "page",
+              "id": "37-about-the-website",
+              "file": "37-about-the-website.md",
+              "title_zh": "关于网站",
+              "title_en": "About the Website"
+            },
+            {
+              "type": "page",
+              "id": "38-index",
+              "file": "38-index.md",
+              "title_zh": "索引",
+              "title_en": "Index"
+            }
+          ]
+        }
+      ],
+      "chapters": [
+        {
+          "id": "01-acknowledgments",
+          "file": "01-acknowledgments.md",
+          "title_en": "Acknowledgments",
+          "title_zh": "致谢",
+          "en_bytes": 1474,
+          "zh_bytes": 1184
+        },
+        {
+          "id": "02-list-of-terms-used-in-this-book",
+          "file": "02-list-of-terms-used-in-this-book.md",
+          "title_en": "List of Terms Used in This Book",
+          "title_zh": "本书所用术语表",
+          "en_bytes": 37767,
+          "zh_bytes": 34090
+        },
+        {
+          "id": "03-introduction",
+          "file": "03-introduction.md",
+          "title_en": "Introduction",
+          "title_zh": "导论",
+          "en_bytes": 70153,
+          "zh_bytes": 46970
+        },
+        {
+          "id": "04-how-to-read-these-books",
+          "file": "04-how-to-read-these-books.md",
+          "title_en": "HOW TO READ THESE BOOKS",
+          "title_zh": "如何阅读这些书",
+          "en_bytes": 4532,
+          "zh_bytes": 3939
+        },
+        {
+          "id": "05-signs-of-strength-trends-breakouts-reversal-bars-and-reversals",
+          "file": "05-signs-of-strength-trends-breakouts-reversal-bars-and-reversals.md",
+          "title_en": "SIGNS OF STRENGTH: TRENDS, BREAKOUTS, REVERSAL BARS, AND REVERSALS",
+          "title_zh": "强度迹象：趋势、突破、反转 K 线与反转",
+          "en_bytes": 17341,
+          "zh_bytes": 14725
+        },
+        {
+          "id": "06-bar-counting-basics-high-1-high-2-low-1-low-2",
+          "file": "06-bar-counting-basics-high-1-high-2-low-1-low-2.md",
+          "title_en": "BAR COUNTING BASICS: HIGH 1, HIGH 2, LOW 1, LOW 2",
+          "title_zh": "K 线计数基础：High 1、High 2、Low 1、Low 2",
+          "en_bytes": 2899,
+          "zh_bytes": 2506
+        },
+        {
+          "id": "07-part-i-trend-reversals-a-trend-becoming-an-opposite-trend",
+          "file": "07-part-i-trend-reversals-a-trend-becoming-an-opposite-trend.md",
+          "title_en": "Part I: Trend Reversals: A Trend Becoming an Opposite Trend",
+          "title_zh": "第一部分：趋势反转：趋势变成相反趋势",
+          "en_bytes": 108873,
+          "zh_bytes": 86898
+        },
+        {
+          "id": "08-ch01-example-of-how-to-trade-a-reversal",
+          "file": "08-ch01-example-of-how-to-trade-a-reversal.md",
+          "title_en": "Chapter 1: Example of How to Trade a Reversal",
+          "title_zh": "第 1 章：如何交易反转的例子",
+          "en_bytes": 14066,
+          "zh_bytes": 11607
+        },
+        {
+          "id": "09-ch02-signs-of-strength-in-a-reversal",
+          "file": "09-ch02-signs-of-strength-in-a-reversal.md",
+          "title_en": "Chapter 2: Signs of Strength in a Reversal",
+          "title_zh": "第 2 章：反转中的强度迹象",
+          "en_bytes": 8447,
+          "zh_bytes": 7120
+        },
+        {
+          "id": "10-ch03-major-trend-reversal",
+          "file": "10-ch03-major-trend-reversal.md",
+          "title_en": "Chapter 3: Major Trend Reversal",
+          "title_zh": "第 3 章：主要趋势反转",
+          "en_bytes": 66957,
+          "zh_bytes": 52457
+        },
+        {
+          "id": "11-ch04-climactic-reversals-a-spike-followed-by-a-spike-in-the-opposite-direction",
+          "file": "11-ch04-climactic-reversals-a-spike-followed-by-a-spike-in-the-opposite-direction.md",
+          "title_en": "Chapter 4: Climactic Reversals: A Spike Followed by a Spike in the Opposite Direction",
+          "title_zh": "第 4 章：高潮反转：尖峰后跟随相反方向的尖峰",
+          "en_bytes": 89174,
+          "zh_bytes": 70666
+        },
+        {
+          "id": "12-ch05-wedges-and-other-three-push-reversal-patterns",
+          "file": "12-ch05-wedges-and-other-three-push-reversal-patterns.md",
+          "title_en": "Chapter 5: Wedges and Other Three-Push Reversal Patterns",
+          "title_zh": "第 5 章：楔形与其他三推反转形态",
+          "en_bytes": 60876,
+          "zh_bytes": 46057
+        },
+        {
+          "id": "13-ch06-expanding-triangles",
+          "file": "13-ch06-expanding-triangles.md",
+          "title_en": "Chapter 6: Expanding Triangles",
+          "title_zh": "第 6 章：扩散三角形",
+          "en_bytes": 10345,
+          "zh_bytes": 8853
+        },
+        {
+          "id": "14-ch07-final-flags",
+          "file": "14-ch07-final-flags.md",
+          "title_en": "Chapter 7: Final Flags",
+          "title_zh": "第 7 章：最后旗形",
+          "en_bytes": 56240,
+          "zh_bytes": 43894
+        },
+        {
+          "id": "15-ch08-double-top-and-bottom-pullbacks",
+          "file": "15-ch08-double-top-and-bottom-pullbacks.md",
+          "title_en": "Chapter 8: Double Top and Bottom Pullbacks",
+          "title_zh": "第 8 章：双顶与双底回撤",
+          "en_bytes": 15128,
+          "zh_bytes": 12496
+        },
+        {
+          "id": "16-ch09-failures",
+          "file": "16-ch09-failures.md",
+          "title_en": "Chapter 9: Failures",
+          "title_zh": "第 9 章：失败",
+          "en_bytes": 48813,
+          "zh_bytes": 40134
+        },
+        {
+          "id": "17-ch10-huge-volume-reversals-on-daily-charts",
+          "file": "17-ch10-huge-volume-reversals-on-daily-charts.md",
+          "title_en": "Chapter 10: Huge Volume Reversals on Daily Charts",
+          "title_zh": "第 10 章：日线图上的巨量反转",
+          "en_bytes": 5002,
+          "zh_bytes": 4149
+        },
+        {
+          "id": "18-part-ii-day-trading",
+          "file": "18-part-ii-day-trading.md",
+          "title_en": "Part II: Day Trading",
+          "title_zh": "第二部分：日内交易",
+          "en_bytes": 4226,
+          "zh_bytes": 3480
+        },
+        {
+          "id": "19-ch11-key-times-of-the-day",
+          "file": "19-ch11-key-times-of-the-day.md",
+          "title_en": "Chapter 11: Key Times of the Day",
+          "title_zh": "第 11 章：一天中的关键时段",
+          "en_bytes": 18482,
+          "zh_bytes": 15388
+        },
+        {
+          "id": "20-ch12-markets",
+          "file": "20-ch12-markets.md",
+          "title_en": "Chapter 12: Markets",
+          "title_zh": "第 12 章：市场",
+          "en_bytes": 3724,
+          "zh_bytes": 3270
+        },
+        {
+          "id": "21-ch13-time-frames-and-chart-types",
+          "file": "21-ch13-time-frames-and-chart-types.md",
+          "title_en": "Chapter 13: Time Frames and Chart Types",
+          "title_zh": "第 13 章：时间框架与图表类型",
+          "en_bytes": 19076,
+          "zh_bytes": 16120
+        },
+        {
+          "id": "22-ch14-globex-premarket-postmarket-and-overnight-market",
+          "file": "22-ch14-globex-premarket-postmarket-and-overnight-market.md",
+          "title_en": "Chapter 14: Globex, Premarket, Postmarket, and Overnight Market",
+          "title_zh": "第 14 章：Globex、盘前、盘后与隔夜市场",
+          "en_bytes": 5105,
+          "zh_bytes": 4203
+        },
+        {
+          "id": "23-ch15-always-in",
+          "file": "23-ch15-always-in.md",
+          "title_en": "Chapter 15: Always In",
+          "title_zh": "第 15 章：始终持仓",
+          "en_bytes": 56635,
+          "zh_bytes": 43857
+        },
+        {
+          "id": "24-ch16-extreme-scalping",
+          "file": "24-ch16-extreme-scalping.md",
+          "title_en": "Chapter 16: Extreme Scalping",
+          "title_zh": "第 16 章：极端剥头皮",
+          "en_bytes": 40968,
+          "zh_bytes": 28631
+        },
+        {
+          "id": "25-part-iii-the-first-hour-the-opening-range",
+          "file": "25-part-iii-the-first-hour-the-opening-range.md",
+          "title_en": "Part III: The First Hour (The Opening Range)",
+          "title_zh": "第三部分：第一个小时（开盘区间）",
+          "en_bytes": 56877,
+          "zh_bytes": 44486
+        },
+        {
+          "id": "26-ch17-patterns-related-to-the-premarket",
+          "file": "26-ch17-patterns-related-to-the-premarket.md",
+          "title_en": "Chapter 17: Patterns Related to the Premarket",
+          "title_zh": "第 17 章：与盘前相关的形态",
+          "en_bytes": 4510,
+          "zh_bytes": 3585
+        },
+        {
+          "id": "27-ch18-patterns-related-to-yesterday-breakouts-breakout-pullbacks-and-failed-breakouts",
+          "file": "27-ch18-patterns-related-to-yesterday-breakouts-breakout-pullbacks-and-failed-breakouts.md",
+          "title_en": "Chapter 18: Patterns Related to Yesterday: Breakouts, Breakout Pullbacks, and Failed Breakouts",
+          "title_zh": "第 18 章：与昨日相关的形态：突破、突破回撤与失败突破",
+          "en_bytes": 24820,
+          "zh_bytes": 20379
+        },
+        {
+          "id": "28-ch19-opening-patterns-and-reversals",
+          "file": "28-ch19-opening-patterns-and-reversals.md",
+          "title_en": "Chapter 19: Opening Patterns and Reversals",
+          "title_zh": "第 19 章：开盘形态与反转",
+          "en_bytes": 37583,
+          "zh_bytes": 16716
+        },
+        {
+          "id": "29-ch20-gap-openings-reversals-and-continuations",
+          "file": "29-ch20-gap-openings-reversals-and-continuations.md",
+          "title_en": "Chapter 20: Gap Openings: Reversals and Continuations",
+          "title_zh": "第 20 章：跳空开盘：反转与延续",
+          "en_bytes": 8095,
+          "zh_bytes": 6415
+        },
+        {
+          "id": "30-part-iv-putting-it-all-together",
+          "file": "30-part-iv-putting-it-all-together.md",
+          "title_en": "Part IV: Putting It All Together",
+          "title_zh": "第四部分：融会贯通",
+          "en_bytes": 782,
+          "zh_bytes": 653
+        },
+        {
+          "id": "31-ch21-detailed-day-trading-examples",
+          "file": "31-ch21-detailed-day-trading-examples.md",
+          "title_en": "Chapter 21: Detailed Day Trading Examples",
+          "title_zh": "第 21 章：详细日内交易例子",
+          "en_bytes": 15556,
+          "zh_bytes": 13187
+        },
+        {
+          "id": "32-ch22-daily-weekly-and-monthly-charts",
+          "file": "32-ch22-daily-weekly-and-monthly-charts.md",
+          "title_en": "Chapter 22: Daily, Weekly, and Monthly Charts",
+          "title_zh": "第 22 章：日线、周线与月线图",
+          "en_bytes": 24517,
+          "zh_bytes": 19852
+        },
+        {
+          "id": "33-ch23-options",
+          "file": "33-ch23-options.md",
+          "title_en": "Chapter 23: Options",
+          "title_zh": "第 23 章：期权",
+          "en_bytes": 55045,
+          "zh_bytes": 43481
+        },
+        {
+          "id": "34-ch24-the-best-trades-putting-it-all-together",
+          "file": "34-ch24-the-best-trades-putting-it-all-together.md",
+          "title_en": "Chapter 24: The Best Trades: Putting It All Together",
+          "title_zh": "第 24 章：最佳交易：综合运用",
+          "en_bytes": 163290,
+          "zh_bytes": 129643
+        },
+        {
+          "id": "35-ch25-trading-guidelines",
+          "file": "35-ch25-trading-guidelines.md",
+          "title_en": "Chapter 25: Trading Guidelines",
+          "title_zh": "第 25 章：交易指引",
+          "en_bytes": 35687,
+          "zh_bytes": 28457
+        },
+        {
+          "id": "36-about-the-author",
+          "file": "36-about-the-author.md",
+          "title_en": "About the Author",
+          "title_zh": "关于作者",
+          "en_bytes": 679,
+          "zh_bytes": 664
+        },
+        {
+          "id": "37-about-the-website",
+          "file": "37-about-the-website.md",
+          "title_en": "About the Website",
+          "title_zh": "关于网站",
+          "en_bytes": 332,
+          "zh_bytes": 277
+        },
+        {
+          "id": "38-index",
+          "file": "38-index.md",
+          "title_en": "Index",
+          "title_zh": "索引",
+          "en_bytes": 13352,
+          "zh_bytes": 13427
+        }
+      ]
     }
   ]
 }
