@@ -1,15 +1,19 @@
 #!/usr/bin/env python3
 """Extract figure images from a Brooks book PDF with reliable Figure-label mapping.
 
+Writes **lossless PNG** only. Do **not** post-process with lossy WebP — chart
+axis/bar labels become unreadable.
+
 Fixes the common bug of binding a figure caption on a text-only page to a
 full-page screenshot. Strategy:
 
-1. Extract all sufficiently large embedded images per PDF page.
+1. Extract all sufficiently large embedded images per PDF page via
+   ``extract_image`` (raw) when the colorspace is normal RGB/gray.
 2. Parse EN full_book.md for Figure X.Y mentions per page.
 3. For each figure label, score candidate pages (mention page ±1, ±2):
    - Prefer pages with real embedded chart images (size/aspect filters).
    - Prefer landscape chart-like images over portrait full-page text renders.
-   - Use full-page render only as last resort when no embedded image exists nearby.
+   - Use full-page / clip render only as last resort (needed for Separation/Black).
 4. Write fig_{label}.png and figures_manifest.json.
 
 Usage:
@@ -48,21 +52,54 @@ def extract_page_images(doc: fitz.Document, fig_dir: Path) -> dict[int, list[dic
         for j, img in enumerate(page.get_images(full=True)):
             xref = img[0]
             try:
-                pix = fitz.Pixmap(doc, xref)
-                w, h = pix.width, pix.height
+                # Prefer extract_image (preserves JPEG/PNG payload). Pixmap on
+                # Separation(Black)/odd DeviceGray often washes out labels.
+                info = doc.extract_image(xref)
+                w, h = info["width"], info["height"]
                 if w < MIN_W or h < MIN_H or w * h < MIN_PIXELS:
                     continue
                 aspect = max(w / h, h / w)
                 if aspect > MAX_ASPECT:
                     continue
-                if pix.n - pix.alpha < 3:
-                    pix = fitz.Pixmap(fitz.csRGB, pix)
-                if pix.alpha:
-                    pix = fitz.Pixmap(pix, 0)
-                fname = f"_emb_p{page_num:03d}_{j:02d}.png"
-                path = fig_dir / fname
-                pix.save(str(path))
-                # Chart heuristic: larger area better; mildly prefer landscape (typical charts)
+                raw = info["image"]
+                ext = (info.get("ext") or "png").lower()
+                # Decode with Pillow when available for a true RGB PNG on disk
+                path = fig_dir / f"_emb_p{page_num:03d}_{j:02d}.png"
+                try:
+                    from PIL import Image
+                    import io
+
+                    im = Image.open(io.BytesIO(raw))
+                    # Low-range gray embeds (common in TRENDS Separation/Black)
+                    # are unusable — skip so page-render fallback can win later.
+                    if im.mode == "L":
+                        lo, hi = im.getextrema()
+                        if hi - lo < 100:
+                            continue
+                    if im.mode in ("P", "PA"):
+                        im = im.convert("RGBA")
+                    if im.mode in ("RGBA", "LA"):
+                        bg = Image.new("RGB", im.size, (255, 255, 255))
+                        bg.paste(im, mask=im.split()[-1])
+                        im = bg
+                    elif im.mode != "RGB":
+                        im = im.convert("RGB")
+                    im.save(path, format="PNG", compress_level=3)
+                    w, h = im.size
+                except Exception:
+                    # Fall back to writing raw payload if PNG; else Pixmap RGB
+                    if ext in ("png", "jpg", "jpeg"):
+                        path = fig_dir / f"_emb_p{page_num:03d}_{j:02d}.{ext if ext != 'jpeg' else 'jpg'}"
+                        path.write_bytes(raw)
+                    else:
+                        pix = fitz.Pixmap(doc, xref)
+                        if pix.n - pix.alpha < 3:
+                            pix = fitz.Pixmap(fitz.csRGB, pix)
+                        if pix.alpha:
+                            pix = fitz.Pixmap(pix, 0)
+                        path = fig_dir / f"_emb_p{page_num:03d}_{j:02d}.png"
+                        pix.save(str(path))
+                        w, h = pix.width, pix.height
                 landscape_bonus = 1.15 if w >= h else 1.0
                 score = w * h * landscape_bonus
                 found.append(

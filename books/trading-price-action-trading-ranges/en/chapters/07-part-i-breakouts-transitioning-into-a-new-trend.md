@@ -575,7 +575,7 @@ of a bear flag. The bears saw the spike as a great opportunity to add to their
 shorts at a brief, high price, which represented correctly value to them.
 Figure PI.1 New Highs Find New Buyers, Profit Takers, and Shorts
 
-![Figure PI.1](../../assets/figures/fig_PI_1.webp)
+![Figure PI.1](../../assets/figures/fig_PI_1.png)
 
 
 
@@ -671,7 +671,7 @@ inside bar with limit orders, whereas others bought above it and above bar 6
 with stop orders.
 Figure PI.2 Low-Volume Bull Breakout in a Bear Trend
 
-![Figure PI.2](../../assets/figures/fig_PI_2.webp)
+![Figure PI.2](../../assets/figures/fig_PI_2.png)
 
 
 

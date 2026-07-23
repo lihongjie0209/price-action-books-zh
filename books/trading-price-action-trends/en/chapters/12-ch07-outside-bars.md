@@ -130,7 +130,7 @@ price action to develop.
 
 Figure 7.1
 
-![Figure 7.1](../../assets/figures/fig_7_1.webp)
+![Figure 7.1](../../assets/figures/fig_7_1.png)
 
 OUTSIDE BARS
 FIGURE 7.1
@@ -166,7 +166,7 @@ also a 20 gap bars short setup.
 
 Figure 7.2
 
-![Figure 7.2](../../assets/figures/fig_7_2.webp)
+![Figure 7.2](../../assets/figures/fig_7_2.png)
 
 OUTSIDE BARS
 FIGURE 7.2
@@ -211,7 +211,7 @@ possible trend reversal.
 
 Figure 7.3
 
-![Figure 7.3](../../assets/figures/fig_7_3.webp)
+![Figure 7.3](../../assets/figures/fig_7_3.png)
 
 OUTSIDE BARS
 FIGURE 7.3
@@ -311,7 +311,7 @@ doji bar before it.
 PRICE ACTION
 Figure 7.4
 
-![Figure 7.4](../../assets/figures/fig_7_4.webp)
+![Figure 7.4](../../assets/figures/fig_7_4.png)
 
 FIGURE 7.4
 An Outside Bar as an Entry Bar

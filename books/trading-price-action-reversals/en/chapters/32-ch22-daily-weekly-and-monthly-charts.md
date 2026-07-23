@@ -93,7 +93,7 @@ and then take profits on the test back down. Bulls will usually buy again there
 for a scalp.
 FIGURE 22.1 Price Action Has Not Changed over Time
 
-![Figure 22.1](../../assets/figures/fig_22_1.webp)
+![Figure 22.1](../../assets/figures/fig_22_1.png)
 
 Price action is the cumulative result of a large number of traders acting
 independently for countless reasons to make as much money as they can.
@@ -143,7 +143,7 @@ Bar 19 was the test of the bar 15 low and was a double bottom bull flag.
 Bar 20 was a higher low pullback in the reversal up.
 FIGURE 22.2 Gap Pullbacks
 
-![Figure 22.2](../../assets/figures/fig_22_2.webp)
+![Figure 22.2](../../assets/figures/fig_22_2.png)
 
 
 
@@ -165,7 +165,7 @@ and a bear trend channel overshoot and reversal up. This was a great long entry
 with a protective stop below bar 6. This 62 cent risk led to a several-dollar gain.
 FIGURE 22.3 The Weekly SPY
 
-![Figure 22.3](../../assets/figures/fig_22_3.webp)
+![Figure 22.3](../../assets/figures/fig_22_3.png)
 
 
 
@@ -235,7 +235,7 @@ soon fail, because the measured move is the minimum needed, and many firms
 will feel that the market is strong enough to go well beyond.
 FIGURE 22.4 Monthly Gold Wedge Channel
 
-![Figure 22.4](../../assets/figures/fig_22_4.webp)
+![Figure 22.4](../../assets/figures/fig_22_4.png)
 
 
 
@@ -255,7 +255,7 @@ likely, there will be an upside breakout of the wedge top and a measured move
 up.
 FIGURE 22.5 Monthly Dollar Index Futures
 
-![Figure 22.5](../../assets/figures/fig_22_5.webp)
+![Figure 22.5](../../assets/figures/fig_22_5.png)
 
 
 
@@ -325,7 +325,7 @@ Even if the market does go up, the odds favor that it will stall around the bar
 11 high and form a larger trading range.
 FIGURE 22.6 Round Numbers Can Be Support and Resistance
 
-![Figure 22.6](../../assets/figures/fig_22_6.webp)
+![Figure 22.6](../../assets/figures/fig_22_6.png)
 
 
 
@@ -352,7 +352,7 @@ close of that day. Double top shorts around bar 13 succeeded in driving AAPL
 below $300, but the buyers came back and formed the bar 14 double bottom.
 FIGURE 22.7 The Daily and Monthly Charts Can Be in Opposite Trends
 
-![Figure 22.7](../../assets/figures/fig_22_7.webp)
+![Figure 22.7](../../assets/figures/fig_22_7.png)
 
 
 
@@ -389,7 +389,7 @@ on.
 
 FIGURE 22.8 News Can Move a Stock
 
-![Figure 22.8](../../assets/figures/fig_22_8.webp)
+![Figure 22.8](../../assets/figures/fig_22_8.png)
 
 As shown in Figure 22.8, Dendreon Corporation (DNDN) had sharp moves up
 and down due to news releases about its prostate cancer drug. It jumped 800

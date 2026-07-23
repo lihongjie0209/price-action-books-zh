@@ -533,7 +533,7 @@ to offer proﬁtable trading opportunities.
 COMMON TREND PATTERNS
 Figure 21.1
 
-![Figure 21.1](../../assets/figures/fig_21_1.webp)
+![Figure 21.1](../../assets/figures/fig_21_1.png)
 
 FIGURE 21.1
 Three Pushes in a Spike and Channel
@@ -645,7 +645,7 @@ the wedge bear ﬂag.
 
 Figure 21.2
 
-![Figure 21.2](../../assets/figures/fig_21_2.webp)
+![Figure 21.2](../../assets/figures/fig_21_2.png)
 
 SPIKE AND CHANNEL TREND
 FIGURE 21.2
@@ -758,7 +758,7 @@ wedges and they should all be considered to be variants.
 COMMON TREND PATTERNS
 Figure 21.3
 
-![Figure 21.3](../../assets/figures/fig_21_3.webp)
+![Figure 21.3](../../assets/figures/fig_21_3.png)
 
 FIGURE 21.3
 Spike and Channel Trends Are Common
@@ -798,7 +798,7 @@ start of the bear channel.
 COMMON TREND PATTERNS
 Figure 21.4
 
-![Figure 21.4](../../assets/figures/fig_21_4.webp)
+![Figure 21.4](../../assets/figures/fig_21_4.png)
 
 FIGURE 21.4
 Steep, Parabolic Micro Channel
@@ -885,7 +885,7 @@ take proﬁts on their shorts and the bulls would reestablish their longs.
 
 Figure 21.5
 
-![Figure 21.5](../../assets/figures/fig_21_5.webp)
+![Figure 21.5](../../assets/figures/fig_21_5.png)
 
 SPIKE AND CHANNEL TREND
 FIGURE 21.5
@@ -908,7 +908,7 @@ have been a ﬁnal ﬂag on a higher time frame.
 COMMON TREND PATTERNS
 Figure 21.6
 
-![Figure 21.6](../../assets/figures/fig_21_6.webp)
+![Figure 21.6](../../assets/figures/fig_21_6.png)
 
 FIGURE 21.6
 Steep Channels Are Spikes
@@ -935,7 +935,7 @@ trend from the open bull trend day.
 
 Figure 21.7
 
-![Figure 21.7](../../assets/figures/fig_21_7.webp)
+![Figure 21.7](../../assets/figures/fig_21_7.png)
 
 SPIKE AND CHANNEL TREND
 FIGURE 21.7
@@ -969,7 +969,7 @@ will also ﬁnd many more trading opportunities.
 COMMON TREND PATTERNS
 Figure 21.8
 
-![Figure 21.8](../../assets/figures/fig_21_8.webp)
+![Figure 21.8](../../assets/figures/fig_21_8.png)
 
 FIGURE 21.8
 Consecutive Climaxes
@@ -1075,7 +1075,7 @@ the high of bar 7, projecting that number of points up from the bar 7 high.
 
 Figure 21.9
 
-![Figure 21.9](../../assets/figures/fig_21_9.webp)
+![Figure 21.9](../../assets/figures/fig_21_9.png)
 
 SPIKE AND CHANNEL TREND
 FIGURE 21.9
@@ -1143,7 +1143,7 @@ down after just a one-bar bull breakout.
 
 Figure 21.10
 
-![Figure 21.10](../../assets/figures/fig_21_10.webp)
+![Figure 21.10](../../assets/figures/fig_21_10.png)
 
 SPIKE AND CHANNEL TREND
 FIGURE 21.10

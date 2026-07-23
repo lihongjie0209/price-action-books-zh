@@ -199,7 +199,7 @@ the three bull trend bars.
 PRICE ACTION
 Figure 4.1
 
-![Figure 4.1](../../assets/figures/fig_4_1.webp)
+![Figure 4.1](../../assets/figures/fig_4_1.png)
 
 FIGURE 4.1
 A Typical Buy Signal Bar

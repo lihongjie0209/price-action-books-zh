@@ -638,7 +638,7 @@ sustain its unusual behavior longer than you can sustain your account.
 
 Figure PI.1
 
-![Figure PI.1](../../assets/figures/fig_PI_1.webp)
+![Figure PI.1](../../assets/figures/fig_PI_1.png)
 
 PRICE ACTION
 FIGURE PI.1 Two-Legged Pullbacks

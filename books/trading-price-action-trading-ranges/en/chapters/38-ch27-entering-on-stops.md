@@ -24,7 +24,7 @@ entry bar. Otherwise, keep the stop above the signal bar until after the
 market begins to move strongly in your direction.
 Figure 27.1 Need a Six-Tick Move to Make Four Ticks
 
-![Figure 27.1](../../assets/figures/fig_27_1.webp)
+![Figure 27.1](../../assets/figures/fig_27_1.png)
 
 
 

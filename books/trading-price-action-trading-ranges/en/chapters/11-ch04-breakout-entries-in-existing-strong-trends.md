@@ -70,7 +70,7 @@ them to exit their first entry at breakeven and to exit their higher entry with
 a profit.
 Figure 4.1 Strong Breakouts Have Many Consecutive Strong Trend Bars
 
-![Figure 4.1](../../assets/figures/fig_4_1.webp)
+![Figure 4.1](../../assets/figures/fig_4_1.png)
 
 
 
@@ -157,7 +157,7 @@ was the end of the final flag in the bull trend, and the reversal at bar 16 was
 from a new extreme (a higher high).
 Figure 4.2 A Strong Trend Usually Has Follow-Through on the Next Day
 
-![Figure 4.2](../../assets/figures/fig_4_2.webp)
+![Figure 4.2](../../assets/figures/fig_4_2.png)
 
 As shown in Figure 4.2, yesterday (only the final hour is visible) was a
 strong trend from the open bull trend day, so the odds were high that there

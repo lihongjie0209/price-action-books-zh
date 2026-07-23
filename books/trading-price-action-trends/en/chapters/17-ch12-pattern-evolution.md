@@ -79,7 +79,7 @@ bar 15.
 PRICE ACTION
 Figure 12.2
 
-![Figure 12.2](../../assets/figures/fig_12_2.webp)
+![Figure 12.2](../../assets/figures/fig_12_2.png)
 
 FIGURE 12.2
 Breakout Mode in the First Hour

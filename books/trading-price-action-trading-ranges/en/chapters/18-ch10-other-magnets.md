@@ -60,7 +60,7 @@ stock quickly moves from $50 to $88, it will likely try to test $100
 and usually go to $105 or $110 before pulling back.
 Figure 10.1 Big Trend Bar Extremes Are Magnets
 
-![Figure 10.1](../../assets/figures/fig_10_1.webp)
+![Figure 10.1](../../assets/figures/fig_10_1.png)
 
 
 

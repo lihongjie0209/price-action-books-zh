@@ -53,7 +53,7 @@ spike and channel together will be only the first leg down, and traders will
 be reluctant to buy heavily until after they see at least one more leg down.
 Figure 16.1 Two-Legged Moves
 
-![Figure 16.1](../../assets/figures/fig_16_1.webp)
+![Figure 16.1](../../assets/figures/fig_16_1.png)
 
 In Figure 16.1, the bear trend down to bar 6 occurred in two legs and the
 second leg subdivided into two smaller legs. The move up to bar 9 was also
@@ -77,7 +77,7 @@ buy back their positions from the failed low 2 off the bar 15 short setup. Bar
 up from bar 16 also contributed to the bull breakout.
 Figure 16.2 Double Top Bear Flag
 
-![Figure 16.2](../../assets/figures/fig_16_2.webp)
+![Figure 16.2](../../assets/figures/fig_16_2.png)
 
 Apple (AAPL) was a well-behaved stock on the 5 minute chart shown in
 Figure 16.2. It formed a double top bear flag at bar 2 (1 cent below the high
@@ -95,7 +95,7 @@ of the trend with limited risk. Four bars after bar 2 set up a double top
 pullback short.
 Figure 16.3 Wedge Top
 
-![Figure 16.3](../../assets/figures/fig_16_3.webp)
+![Figure 16.3](../../assets/figures/fig_16_3.png)
 
 In Figure 16.3, the SPY had a wedge top created by bars 4, 6, and 10, which
 is usually followed by a two-legged sideways to down correction. There

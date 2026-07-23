@@ -77,7 +77,7 @@ your read.
 
 Figure 20.1
 
-![Figure 20.1](../../assets/figures/fig_20_1.webp)
+![Figure 20.1](../../assets/figures/fig_20_1.png)
 
 TWO LEGS
 FIGURE 20.1

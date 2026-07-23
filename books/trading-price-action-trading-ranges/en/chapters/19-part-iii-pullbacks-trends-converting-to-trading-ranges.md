@@ -687,7 +687,7 @@ the trend is strong, it is often better to enter at the market than to wait for 
 pullback.
 Figure PIII.1 Pullbacks Begin with Reversals
 
-![Figure PIII.1](../../assets/figures/fig_PIII_1.webp)
+![Figure PIII.1](../../assets/figures/fig_PIII_1.png)
 
 
 
@@ -778,7 +778,7 @@ breakout pullback buy setup at the moving average in a bull trend, or in a
 bull leg in a developing trading range.
 Figure PIII.2 Every Pullback Begins with a Reversal
 
-![Figure PIII.2](../../assets/figures/fig_PIII_2.webp)
+![Figure PIII.2](../../assets/figures/fig_PIII_2.png)
 
 Every pullback begins with some kind of reversal setup. The reversal is
 needed for many with-trend traders to begin to take profits, and for
@@ -831,7 +831,7 @@ traders believed that the day was a strong bull trend day and they bought at
 and below the low of bar 26.
 Figure PIII.3 Breakout Pullbacks
 
-![Figure PIII.3](../../assets/figures/fig_PIII_3.webp)
+![Figure PIII.3](../../assets/figures/fig_PIII_3.png)
 
 When a channel is steep, it is better not to enter a reversal trade on the
 breakout through the trend line and instead wait to see if there is a breakout

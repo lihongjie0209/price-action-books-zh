@@ -39,7 +39,7 @@ only the day session have to be aware that the moving average is often unreliabl
 for the first hour or so.
 FIGURE 17.1 The Globex and Day Session Usually Give Related Signals
 
-![Figure 17.1](../../assets/figures/fig_17_1.webp)
+![Figure 17.1](../../assets/figures/fig_17_1.png)
 
 
 
@@ -62,7 +62,7 @@ trader will not be quick enough to take all of the available trades and will mak
 mistakes in order placement.
 FIGURE 17.2 The Moving Average Is Different on the Globex
 
-![Figure 17.2](../../assets/figures/fig_17_2.webp)
+![Figure 17.2](../../assets/figures/fig_17_2.png)
 
 
 

@@ -543,7 +543,7 @@ panic, and instead fade likely climaxes. Most breakouts fail, and sometimes the
 strongest breakout attempts are the most likely to fail.
 FIGURE 4.1 Late Acceleration Can Be Exhaustion
 
-![Figure 4.1](../../assets/figures/fig_4_1.webp)
+![Figure 4.1](../../assets/figures/fig_4_1.png)
 
 
 
@@ -623,7 +623,7 @@ bull trend bars, and traders never saw the market as having flipped to always-in
 long.
 FIGURE 4.2 Spike Up but Channel Down
 
-![Figure 4.2](../../assets/figures/fig_4_2.webp)
+![Figure 4.2](../../assets/figures/fig_4_2.png)
 
 Sometimes the market will have a spike up and then a spike down. This is
 usually followed by a trading range as the bulls and bears fight to form a
@@ -648,7 +648,7 @@ As a general rule, big up + big down = confusion = trading range, at least for a
 while, as was the case after the bar 1 bear reversal bar and buy climax.
 FIGURE 4.3 Spike Up and Down in One Bar
 
-![Figure 4.3](../../assets/figures/fig_4_3.webp)
+![Figure 4.3](../../assets/figures/fig_4_3.png)
 
 A large bar with a large tail on top is a spike up and a spike down, but in a single
 bar.
@@ -692,7 +692,7 @@ reversal. The break has to be strong before traders will believe that the bulls 
 be able to sustain a strong move up.
 FIGURE 4.4 After a Climax, the Channel Direction Can Be Unclear for a While
 
-![Figure 4.4](../../assets/figures/fig_4_4.webp)
+![Figure 4.4](../../assets/figures/fig_4_4.png)
 
 After a buy climax (a spike up and then a spike down, sometimes within a single
 bar), there will often be a bull channel that fails, and then the market will form a
@@ -764,7 +764,7 @@ a large, two-day expanding triangle bottom. Bar 13 also overshot three smaller
 trend channel lines created by the channel down from bar 7.
 FIGURE 4.5 Opposite Trend Bars Create a Climactic Reversal
 
-![Figure 4.5](../../assets/figures/fig_4_5.webp)
+![Figure 4.5](../../assets/figures/fig_4_5.png)
 
 A trend bar in one direction followed by another in the opposite direction is a
 climactic reversal, and the channel that follows can be in either direction since
@@ -834,7 +834,7 @@ to bar 28). Because it unfolded over so many bars, the pattern was probably
 easier to see on a higher time frame chart.
 FIGURE 4.6 V Tops and Bottoms Are Rare
 
-![Figure 4.6](../../assets/figures/fig_4_6.webp)
+![Figure 4.6](../../assets/figures/fig_4_6.png)
 
 V bottoms and inverted V tops that reverse the market without first having a
 significant pullback are rare. Most spikes fail to immediately reverse the market,
@@ -883,7 +883,7 @@ and took profits on bar 5, as evidenced by the tail at its bottom and the small 
 body.
 FIGURE 4.7 V Bottoms Are Rare but Strong
 
-![Figure 4.7](../../assets/figures/fig_4_7.webp)
+![Figure 4.7](../../assets/figures/fig_4_7.png)
 
 
 
@@ -988,7 +988,7 @@ small individual traders, because they are responsible for less than 5 percent o
 the volume at major turning points.
 FIGURE 4.8 Spike Pullbacks Are More Common Than Spike Reversals
 
-![Figure 4.8](../../assets/figures/fig_4_8.webp)
+![Figure 4.8](../../assets/figures/fig_4_8.png)
 
 
 
@@ -1017,7 +1017,7 @@ it was likely to be tested.
 Bar 7 was a new swing low, but not a spike, so it did not have to be tested.
 FIGURE 4.9 Spike Pullbacks Usually Don’t Get Tested
 
-![Figure 4.9](../../assets/figures/fig_4_9.webp)
+![Figure 4.9](../../assets/figures/fig_4_9.png)
 
 
 
@@ -1088,7 +1088,7 @@ trend reversal. It turned out to be the start of a large trading range that cont
 to the end of the chart.
 FIGURE 4.10 Test of a Bull Spike
 
-![Figure 4.10](../../assets/figures/fig_4_10.webp)
+![Figure 4.10](../../assets/figures/fig_4_10.png)
 
 
 
@@ -1101,7 +1101,7 @@ bullish, the bears still could not put two consecutive closes below the moving
 average. This chart was going up, but its strength was deceptive.
 FIGURE 4.11 Inverted V Top
 
-![Figure 4.11](../../assets/figures/fig_4_11.webp)
+![Figure 4.11](../../assets/figures/fig_4_11.png)
 
 As shown in Figure 4.11, this bar 2 climactic opening reversal (inverted V top)
 
@@ -1129,7 +1129,7 @@ flag reversal from the one-bar final flag that followed bar 1. The bodies of bar
 and the doji that followed formed an ii with the body of the bull bar before bar 2.
 FIGURE 4.12 Climactic Reversal with More Reasons to Reverse
 
-![Figure 4.12](../../assets/figures/fig_4_12.webp)
+![Figure 4.12](../../assets/figures/fig_4_12.png)
 
 Climactic reversals are more reliable when other factors are involved. As shown
 in Figure 4.12, the 5 minute Oil Service HOLDRS (OIH) had a climactic
@@ -1149,7 +1149,7 @@ was a variant of a one-bar final flag. It was probably a small final flag on a
 smaller time frame chart.
 FIGURE 4.13 Don’t Buy Tests of a Bear Trend Channel Line
 
-![Figure 4.13](../../assets/figures/fig_4_13.webp)
+![Figure 4.13](../../assets/figures/fig_4_13.png)
 
 Countertrend traders are always drawing trend channel lines, hoping for an
 overshoot and a reversal that will allow for at least a scalp and preferably a twolegged countertrend move. When a channel is steep, it is a losing strategy to buy
@@ -1196,7 +1196,7 @@ Finally, it was a consecutive sell climax and its body was the largest bear body
 of the selloff, which is common at the end of consecutive sell climaxes.
 FIGURE 4.14 Increased Slope Usually Means Climactic Emotion
 
-![Figure 4.14](../../assets/figures/fig_4_14.webp)
+![Figure 4.14](../../assets/figures/fig_4_14.png)
 
 
 
@@ -1208,7 +1208,7 @@ emotional traders have exited, there is neither anyone left to exit nor anyone
 willing to enter the trend until there is a pullback. The move up from bar 8 in
 Figure 4.15 was steeper than the bull trend before it, and the entire bull trend
 
-![Figure 4.15](../../assets/figures/fig_4_15.webp)
+![Figure 4.15](../../assets/figures/fig_4_15.png)
 
 ended with the gap up bear reversal at bar 10.
 The move down from bar 13 was steeper than the bear channel before it, and
@@ -1301,7 +1301,7 @@ of trending trading ranges, which is common in strong trends, and it prevented
 an exhaustive climactic reversal.
 FIGURE 4.16 Too Many Trend Channel Lines
 
-![Figure 4.16](../../assets/figures/fig_4_16.webp)
+![Figure 4.16](../../assets/figures/fig_4_16.png)
 
 
 
@@ -1327,7 +1327,7 @@ bear channel, smart traders are buying only below bars and not above; they are
 much more interested in shorting, and look to short above prior bars, not below.
 FIGURE 4.17 Volume at Reversals Is Not Particularly Helpful
 
-![Figure 4.17](../../assets/figures/fig_4_17.webp)
+![Figure 4.17](../../assets/figures/fig_4_17.png)
 
 
 

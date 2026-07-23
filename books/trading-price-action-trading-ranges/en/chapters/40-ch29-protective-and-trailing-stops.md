@@ -395,7 +395,7 @@ assume that the market will only trade at any price if there is both an
 institution willing to sell there and another willing to buy there.
 Figure 29.1 The Initial Stop Is Just beyond the Signal Bar
 
-![Figure 29.1](../../assets/figures/fig_29_1.webp)
+![Figure 29.1](../../assets/figures/fig_29_1.png)
 
 The initial stop is one tick beyond the signal bar in Figure 29.1. Once the
 entry bar closes, move the stop to one tick beyond the entry bar if the bar is
@@ -516,7 +516,7 @@ high. So once the market rallied above the bar 13 swing high, the trader
 could move the protective stop up to just below the bar 14 higher low.
 Figure 29.2 Trailing Stops in a Strong Bull Trend
 
-![Figure 29.2](../../assets/figures/fig_29_2.webp)
+![Figure 29.2](../../assets/figures/fig_29_2.png)
 
 
 
@@ -597,7 +597,7 @@ their protective stops to no worse than breakeven once the market has
 reached halfway to their profit targets.
 Figure 29.3 Reward Often Equals Risk
 
-![Figure 29.3](../../assets/figures/fig_29_3.webp)
+![Figure 29.3](../../assets/figures/fig_29_3.png)
 
 The market often rewards traders with as many ticks of profit as it forces
 them to risk. In general, it is risky to buy above large signal bars in a bear
@@ -675,7 +675,7 @@ trapping out impatient weak shorts, but it did not get above the entry bar or
 the signal bar.
 Figure 29.4 The Stop Size Is Often Set by the First Trade of the Day
 
-![Figure 29.4](../../assets/figures/fig_29_4.webp)
+![Figure 29.4](../../assets/figures/fig_29_4.png)
 
 
 
@@ -705,7 +705,7 @@ constantly adjusting your stops, targets, and position sizes all day, and end
 up missing trades or making mistakes.
 Figure 29.5 Don't Tighten Stops Too Soon
 
-![Figure 29.5](../../assets/figures/fig_29_5.webp)
+![Figure 29.5](../../assets/figures/fig_29_5.png)
 
 
 

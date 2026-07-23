@@ -81,7 +81,7 @@ probability of a reward that is at least as large as the risk is often 70 percen
 more. If it fails, trade in the opposite direction.
 FIGURE 8.1 Double Bottom Pullback in the Monthly SPY
 
-![Figure 8.1](../../assets/figures/fig_8_1.webp)
+![Figure 8.1](../../assets/figures/fig_8_1.png)
 
 
 
@@ -118,7 +118,7 @@ buyers again.
 
 FIGURE 8.2 Bear Flag as a Double Bottom Pullback
 
-![Figure 8.2](../../assets/figures/fig_8_2.webp)
+![Figure 8.2](../../assets/figures/fig_8_2.png)
 
 Sometimes a bear flag can be a double bottom pullback buy setup. In Figure 8.2,
 the two-bar reversal at bar 1 was at the end of a large second leg down on the
@@ -145,7 +145,7 @@ from the bar 5 bull spike. Bar 6 was also a higher low major trend reversal, thr
 pushes down from bar 5, and a one-bar final flag reversal (from 2 bars earlier).
 FIGURE 8.3 Weak Double Bottom Pullback
 
-![Figure 8.3](../../assets/figures/fig_8_3.webp)
+![Figure 8.3](../../assets/figures/fig_8_3.png)
 
 
 
@@ -197,7 +197,7 @@ sideways and, as expected, eventually broke out in the direction of the trend th
 preceded it.
 FIGURE 8.4 Double Bottom and Top Pullbacks
 
-![Figure 8.4](../../assets/figures/fig_8_4.webp)
+![Figure 8.4](../../assets/figures/fig_8_4.png)
 
 As shown in Figure 8.4, the Emini today had both double bottom and top
 pullback reversals. Bars 1 and 2 formed a double bottom, although at first glance

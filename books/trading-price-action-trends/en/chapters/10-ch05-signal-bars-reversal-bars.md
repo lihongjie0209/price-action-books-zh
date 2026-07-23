@@ -239,7 +239,7 @@ fail and the bear trend will resume, as it did here.
 PRICE ACTION
 Figure 5.2
 
-![Figure 5.2](../../assets/figures/fig_5_2.webp)
+![Figure 5.2](../../assets/figures/fig_5_2.png)
 
 FIGURE 5.2
 Reversal Bar with Big Tail and Small Body
@@ -288,7 +288,7 @@ market rallied in a bull channel into the close.
 PRICE ACTION
 Figure 5.3
 
-![Figure 5.3](../../assets/figures/fig_5_3.webp)
+![Figure 5.3](../../assets/figures/fig_5_3.png)
 
 FIGURE 5.3
 Reversal Bars Can Be Unconventional

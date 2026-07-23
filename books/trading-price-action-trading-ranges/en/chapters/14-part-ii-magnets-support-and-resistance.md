@@ -419,7 +419,7 @@ strong trends end exactly at, or within a tick, of a significant measured
 move target, as the price gets vacuumed to the magnet.
 Figure PII.1 Dow Jones Industrial Average Monthly Chart
 
-![Figure PII.1](../../assets/figures/fig_PII_1.webp)
+![Figure PII.1](../../assets/figures/fig_PII_1.png)
 
 
 
@@ -457,7 +457,7 @@ with bar 11, but the market went sideways and soon broke above that
 resistance.
 Figure PII.2 Support Can Become Resistance, and Resistance Can Become
 
-![Figure PII.2](../../assets/figures/fig_PII_2.webp)
+![Figure PII.2](../../assets/figures/fig_PII_2.png)
 
 Support
 Support became resistance and resistance became support in the 5 minute

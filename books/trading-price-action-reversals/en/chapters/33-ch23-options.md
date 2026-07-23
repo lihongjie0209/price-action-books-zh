@@ -426,7 +426,7 @@ unexpected gifts, but rarely as much as a beginner might think is logical. When 
 does, it is almost always better to take the gift and then look for the next trade.
 FIGURE 23.1 Buy Calls during Bull Spikes
 
-![Figure 23.1](../../assets/figures/fig_23_1.webp)
+![Figure 23.1](../../assets/figures/fig_23_1.png)
 
 When a stock is in a strong bull spike, traders can buy calls or call spread. Many
 traders who buy calls in strong bulls prefer OTM strikes because the time decay
@@ -450,7 +450,7 @@ to keep the $12. This means that their net cost to buy the stock was 248, even i
 it never fell much below 260, and simply continued higher.
 FIGURE 23.2 Fade Stair Breakouts with Options
 
-![Figure 23.2](../../assets/figures/fig_23_2.webp)
+![Figure 23.2](../../assets/figures/fig_23_2.png)
 
 
 
@@ -482,7 +482,7 @@ not pressing their bets by shorting more on the breakout. This is a sign that th
 bear trend is transitioning into a two-sided market (a trading range).
 FIGURE 23.3 Fade Trading Range Extremes with Options
 
-![Figure 23.3](../../assets/figures/fig_23_3.webp)
+![Figure 23.3](../../assets/figures/fig_23_3.png)
 
 
 
@@ -550,7 +550,7 @@ low major trend reversal. The trader believes that the market is reversing up an
 is comfortable buying (being put the stock) if the market falls to a lower low.
 FIGURE 23.4 The SPY Is a Good Market for Options
 
-![Figure 23.4](../../assets/figures/fig_23_4.webp)
+![Figure 23.4](../../assets/figures/fig_23_4.png)
 
 
 
@@ -681,7 +681,7 @@ bar 42, expecting at least a 10-bar, two-legged correction that would likely fal
 below the moving average.
 FIGURE 23.5 Buy Calls on Pullbacks to the Moving Average in a Bull Trend
 
-![Figure 23.5](../../assets/figures/fig_23_5.webp)
+![Figure 23.5](../../assets/figures/fig_23_5.png)
 
 When the market is in a strong bull trend, as it was on the 60 minute FCX chart
 shown in Figure 23.5, traders could buy calls on each poke below the moving
@@ -711,7 +711,7 @@ call equal in price to the put (the call is usually much closer to the money tha
 the put).
 FIGURE 23.6 Buying Calls for a Day Trade
 
-![Figure 23.6](../../assets/figures/fig_23_6.webp)
+![Figure 23.6](../../assets/figures/fig_23_6.png)
 
 If you don't follow a stock closely but notice a strong bull spike after a big gap
 up on the 5 minute chart (see Figure 23.6), you can buy calls and hold them until
@@ -720,7 +720,7 @@ price of the underlying at the time that you bought the calls and then exit with
 limit order with a small profit. Otherwise, exit the calls just before the close.
 FIGURE 23.7 Day Trade Runaway Trends with Options
 
-![Figure 23.7](../../assets/figures/fig_23_7.webp)
+![Figure 23.7](../../assets/figures/fig_23_7.png)
 
 
 
@@ -760,7 +760,7 @@ was likely little left to be gained from this position, and holding it into the 
 day would have been a distraction from day trading.
 FIGURE 23.8 In Volatile Intraday Moves, Consider Options
 
-![Figure 23.8](../../assets/figures/fig_23_8.webp)
+![Figure 23.8](../../assets/figures/fig_23_8.png)
 
 The Dow Jones Industrial Average was down 700 points today (September 29,
 2008, shown in Figure 23.8) on the House of Representatives’ failure to pass a
@@ -810,7 +810,7 @@ so clearly the risk/reward ratio is poor when buying options when the VIX is
 high.
 FIGURE 23.9 AAPL Dropped on Earnings but Puts Did Not Rise
 
-![Figure 23.9](../../assets/figures/fig_23_9.webp)
+![Figure 23.9](../../assets/figures/fig_23_9.png)
 
 
 

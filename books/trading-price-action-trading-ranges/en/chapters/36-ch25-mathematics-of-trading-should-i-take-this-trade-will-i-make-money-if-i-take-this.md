@@ -1917,7 +1917,7 @@ comfortable with constantly changing probabilities and many probabilities
 coexisting, your chance of success is much greater.
 Figure 25.1 As a Spike Grows, So Does the Profit Target
 
-![Figure 25.1](../../assets/figures/fig_25_1.webp)
+![Figure 25.1](../../assets/figures/fig_25_1.png)
 
 
 
@@ -1946,7 +1946,7 @@ of those bars. If you did, you would be locking in at least a small profit
 while still being in a good position to make a large profit.
 Figure 25.2 Look for Brief Moments of Higher Probability
 
-![Figure 25.2](../../assets/figures/fig_25_2.webp)
+![Figure 25.2](../../assets/figures/fig_25_2.png)
 
 
 
@@ -2074,7 +2074,7 @@ profitable trader's equation, because the probability would likely still be
 around 60 percent.
 Figure 25.3 Scalpers Often Miss Trends When the Setups Are Not High
 
-![Figure 25.3](../../assets/figures/fig_25_3.webp)
+![Figure 25.3](../../assets/figures/fig_25_3.png)
 
 Probability
 Scalpers usually have a reward that is about equal to their risk, and this

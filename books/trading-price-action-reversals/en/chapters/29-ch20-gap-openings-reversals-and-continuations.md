@@ -74,7 +74,7 @@ several scalps before there is a setup that has a good chance of leading to a
 swing.
 FIGURE 20.1 A Gap Is Just a Spike
 
-![Figure 20.1](../../assets/figures/fig_20_1.webp)
+![Figure 20.1](../../assets/figures/fig_20_1.png)
 
 
 
@@ -86,7 +86,7 @@ the chart on the right, but that gap on the Dow Jones Industrial Average cash
 index on the left was just a large bull trend bar.
 FIGURE 20.2 A Gap Can Lead to a Trend Up or Down
 
-![Figure 20.2](../../assets/figures/fig_20_2.webp)
+![Figure 20.2](../../assets/figures/fig_20_2.png)
 
 
 

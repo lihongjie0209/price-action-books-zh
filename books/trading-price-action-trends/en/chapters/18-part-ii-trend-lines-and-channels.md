@@ -34,7 +34,7 @@ are initiating longs.
 TREND LINES AND CHANNELS
 Figure PII.1
 
-![Figure PII.1](../../assets/figures/fig_PII_1.webp)
+![Figure PII.1](../../assets/figures/fig_PII_1.png)
 
 FIGURE PII.1
 Lines Highlight Trends

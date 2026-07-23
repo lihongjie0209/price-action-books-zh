@@ -666,7 +666,7 @@ protective stop is smaller. Similarly, in a bear trend, traders often put their
 protective stops above the most recent lower high and short on pullbacks.
 Figure 28.1 Limit Order Entries
 
-![Figure 28.1](../../assets/figures/fig_28_1.webp)
+![Figure 28.1](../../assets/figures/fig_28_1.png)
 
 The chart in Figure 28.1 shows several examples of good trades with limit
 order entries. The move up to bar 3 was strong and the market was pausing
@@ -793,7 +793,7 @@ there would be follow-through, and as soon as bar 18 opened, they placed
 limit orders to buy at the close of the prior bar (the bear trend bar).
 Figure 28.2 Limit Order Entries on Quiet Days
 
-![Figure 28.2](../../assets/figures/fig_28_2.webp)
+![Figure 28.2](../../assets/figures/fig_28_2.png)
 
 
 
@@ -918,7 +918,7 @@ risk). Entering on pullbacks to reduce risk is an approach used by many
 traders and has a strong trader's equation.
 Figure 28.3 Limit Order Setups
 
-![Figure 28.3](../../assets/figures/fig_28_3.webp)
+![Figure 28.3](../../assets/figures/fig_28_3.png)
 
 This 60 minute chart of the SPY presented in Figure 28.3 shows many
 examples where institutions and traders almost certainly entered on limit or
@@ -994,7 +994,7 @@ raised their stops to below the bar 10 low. The sell-off to bar 12 was sharp,
 but held above the stop.
 Figure 28.4 Fading Tests of Lines with Limit Orders
 
-![Figure 28.4](../../assets/figures/fig_28_4.webp)
+![Figure 28.4](../../assets/figures/fig_28_4.png)
 
 
 
@@ -1047,7 +1047,7 @@ would be eager to get short, and the next logical entry was on a stop below
 bar 15.
 Figure 28.5 Trend Channel Lines Trap Early Bulls into Losses in a Strong
 
-![Figure 28.5](../../assets/figures/fig_28_5.webp)
+![Figure 28.5](../../assets/figures/fig_28_5.png)
 
 Bear Trend
 

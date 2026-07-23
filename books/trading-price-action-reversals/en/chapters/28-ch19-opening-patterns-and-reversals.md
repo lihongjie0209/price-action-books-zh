@@ -271,7 +271,7 @@ wait until after the breakout and enter on a failed breakout or a breakout
 pullback, just as they would with any trading range.
 FIGURE 19.1 Measured Move after Breakout of Small Opening Range
 
-![Figure 19.1](../../assets/figures/fig_19_1.webp)
+![Figure 19.1](../../assets/figures/fig_19_1.png)
 
 When the opening range is about half the size of the range of recent days, the
 market usually has a breakout of the opening range and an attempt to
@@ -332,7 +332,7 @@ selling, and this reversed the market back down to a new low of the day, often
 creating a bear trend day.
 FIGURE 19.2 The Size of the Opening Range Is Important
 
-![Figure 19.2](../../assets/figures/fig_19_2.webp)
+![Figure 19.2](../../assets/figures/fig_19_2.png)
 
 As shown in Figure 19.2, the size of the opening range often gives a clue to what
 will happen later in the day. The opening range on this 5 minute chart of
@@ -381,7 +381,7 @@ sell setups, and this was strong evidence that the market was likely to go up,
 especially on a day with a large gap up.
 FIGURE 19.3 Breakout Pullbacks on the Open
 
-![Figure 19.3](../../assets/figures/fig_19_3.webp)
+![Figure 19.3](../../assets/figures/fig_19_3.png)
 
 As shown in Figure 19.3, Google (GOOG) had several breakout pullbacks on the
 opens of these four days. Bar 1 was a low 2 short at the steep moving average
@@ -403,7 +403,7 @@ earlier) that also was the first pullback after the breakout above yesterday's h
 This could have turned into a trend from the open day.
 FIGURE 19.4 Early Failed Breakouts
 
-![Figure 19.4](../../assets/figures/fig_19_4.webp)
+![Figure 19.4](../../assets/figures/fig_19_4.png)
 
 As shown in Figure 19.4, Apple (AAPL) had several failed breakouts on the
 open during these three days, and they led to opening reversals. Bar 1 was a
@@ -439,7 +439,7 @@ of the lower high and they failed twice. When the market tries to do something
 twice and it fails both times, it usually will go in the opposite direction.
 FIGURE 19.5 Both a Gap Down and a Gap Up Can Lead to an Opening Rally
 
-![Figure 19.5](../../assets/figures/fig_19_5.webp)
+![Figure 19.5](../../assets/figures/fig_19_5.png)
 
 As shown in Figure 19.5, bar 4 was a strong bear reversal bar and a moving
 average test in a strong bear trend, setting up a breakout pullback short for the
@@ -486,7 +486,7 @@ below yesterday's low and a second attempt to reverse back up after gapping
 below yesterday's two-legged bear flag.
 FIGURE 19.6 Two-Legged Pullback after Gap Opening
 
-![Figure 19.6](../../assets/figures/fig_19_6.webp)
+![Figure 19.6](../../assets/figures/fig_19_6.png)
 
 
 
@@ -510,7 +510,7 @@ just a double top is irrelevant. What is important is that a trend often begins 
 reverses around 8:30 a.m.
 FIGURE 19.7 Double Bottom and Top Flags
 
-![Figure 19.7](../../assets/figures/fig_19_7.webp)
+![Figure 19.7](../../assets/figures/fig_19_7.png)
 
 
 
@@ -522,7 +522,7 @@ bar 2. Bars 6 and 7 formed a double top bear flag after the strong move down to
 bar 5.
 FIGURE 19.8 Two Failed Attempts and Then a Reversal
 
-![Figure 19.8](../../assets/figures/fig_19_8.webp)
+![Figure 19.8](../../assets/figures/fig_19_8.png)
 
 
 
@@ -557,7 +557,7 @@ opening range. However, the trader needs to be aware that the market often
 reverses around 8:30 a.m. PST, and be prepared to take the trade.
 FIGURE 19.9 Barbwire on the Open
 
-![Figure 19.9](../../assets/figures/fig_19_9.webp)
+![Figure 19.9](../../assets/figures/fig_19_9.png)
 
 As shown in Figure 19.9, some days open with a flat moving average, big
 overlapping bars, and just no safe setups (no small bars near the top or bottom

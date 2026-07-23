@@ -117,7 +117,7 @@ recognize the pattern as a reversal, and all of these patterns are reversal patt
 PRICE ACTION
 Figure 3.1
 
-![Figure 3.1](../../assets/figures/fig_3_1.webp)
+![Figure 3.1](../../assets/figures/fig_3_1.png)
 
 FIGURE 3.1
 Breakouts, Trading Ranges, and Tests

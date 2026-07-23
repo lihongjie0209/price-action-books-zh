@@ -12,7 +12,7 @@ This chapter provides many detailed examples of reasonable day trades that
 incorporate the fundamental ideas from all three books.
 FIGURE 21.1 T-Note 10,000-Share Chart
 
-![Figure 21.1](../../assets/figures/fig_21_1.webp)
+![Figure 21.1](../../assets/figures/fig_21_1.png)
 
 Figure 21.1 is a 10-Year U.S. Treasury Note Futures chart based on 10,000
 shares per bar. Each bar closed as soon as the volume in the bar passed 10,000
@@ -87,7 +87,7 @@ of the short going very far was small. Most traders saw the reversal as much
 stronger than the short setup.
 FIGURE 21.2 Strong Open in the EUR/USD
 
-![Figure 21.2](../../assets/figures/fig_21_2.webp)
+![Figure 21.2](../../assets/figures/fig_21_2.png)
 
 As shown in Figure 21.2, the 5 minute EUR/USD (forex) reversed down at bar 2
 after a new high. This bull leg had strong momentum, as evidenced by eight bars
@@ -152,7 +152,7 @@ wedge channel up to bar 15. The large bear trend bar trapped bears into shorts
 and trapped weak bulls out of longs.
 FIGURE 21.3 Soybeans Buy Climax on the Open
 
-![Figure 21.3](../../assets/figures/fig_21_3.webp)
+![Figure 21.3](../../assets/figures/fig_21_3.png)
 
 As shown in Figure 21.3, the 5 minute chart of soybeans had a buy climax on the
 open and then a small final flag, and later a wedge bear flag and a large second
@@ -185,7 +185,7 @@ would have exited below the bar 12 bear trend bar. It was also a breakout
 pullback short setup. Bar 13 was a breakout pullback short entry.
 FIGURE 21.4 Crude Oil Wedge Top
 
-![Figure 21.4](../../assets/figures/fig_21_4.webp)
+![Figure 21.4](../../assets/figures/fig_21_4.png)
 
 As shown in Figure 21.4, the 5 minute chart of crude oil had a wedge top and
 then a lower high. Bar 1 was a high 1 breakout pullback from the breakout of the
@@ -213,7 +213,7 @@ second push up was the bar after bar 6.
 
 FIGURE 21.5 Scalps on a 1 Minute Chart
 
-![Figure 21.5](../../assets/figures/fig_21_5.webp)
+![Figure 21.5](../../assets/figures/fig_21_5.png)
 
 Figure 21.5 is a 1 minute chart showing many price action scalps in the first 90
 minutes. The next chart is a close-up of this area. It is virtually impossible for
@@ -222,7 +222,7 @@ but the chart illustrates that price action analysis works even on the 1 minute
 level.
 FIGURE 21.6 Scalps on the Open on a 1 Minute Chart
 
-![Figure 21.6](../../assets/figures/fig_21_6.webp)
+![Figure 21.6](../../assets/figures/fig_21_6.png)
 
 Figure 21.6 is a close-up of the 1 minute Emini's first 90 minutes, highlighting
 price action scalp setups. The numbering is the same as on the prior chart.

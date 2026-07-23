@@ -91,7 +91,7 @@ price that both the bulls and the bears see as a good price at which to initiate
 positions.
 Figure 9.1 Earlier Entry Points Are Targets for Pullbacks
 
-![Figure 9.1](../../assets/figures/fig_9_1.webp)
+![Figure 9.1](../../assets/figures/fig_9_1.png)
 
 The monthly chart of the SPY (an exchange-traded fund that is comparable
 to the Emini) had a strong bull trend that ended in 2000, but there were

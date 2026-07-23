@@ -36,7 +36,7 @@ to reverse.
 PRICE ACTION
 Figure 10.1
 
-![Figure 10.1](../../assets/figures/fig_10_1.webp)
+![Figure 10.1](../../assets/figures/fig_10_1.png)
 
 FIGURE 10.1
 Second Entries
@@ -59,7 +59,7 @@ from some type of micro double bottom, like bar 18 and the bar before bar 17.
 
 Figure 10.2
 
-![Figure 10.2](../../assets/figures/fig_10_2.webp)
+![Figure 10.2](../../assets/figures/fig_10_2.png)
 
 SECOND ENTRIES
 FIGURE 10.2

@@ -134,7 +134,7 @@ and evolves into some other pattern. They are discussed more in the chapter
 on trend reversal patterns in book 3.
 Figure 23.1 There Are Many Ways to Draw Triangles
 
-![Figure 23.1](../../assets/figures/fig_23_1.webp)
+![Figure 23.1](../../assets/figures/fig_23_1.png)
 
 Most traders think of a triangle as simply a trading range that has three or
 more pushes up or down. If it starts to have more than five pushes, most
@@ -161,7 +161,7 @@ down. The high of the doji bar after bar 18, the bull bar after bar 19, and bar
 from the bar 22 breakout above the triangle.
 Figure 23.2 Triangles
 
-![Figure 23.2](../../assets/figures/fig_23_2.webp)
+![Figure 23.2](../../assets/figures/fig_23_2.png)
 
 The daily chart of Intel (INTC) presented in Figure 23.2 had many
 triangles, which are rarely ever perfect. Triangle A was a rising wedge. The

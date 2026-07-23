@@ -16,7 +16,7 @@
 
 图 16.1 极端剥头皮
 
-![图 16.1](../../assets/figures/fig_16_1.webp)
+![图 16.1](../../assets/figures/fig_16_1.png)
 
 <!-- PDF page 321 -->
 

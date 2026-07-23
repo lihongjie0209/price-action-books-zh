@@ -309,7 +309,7 @@ market, and maybe take a break before looking to go short.
 
 Figure 18.1
 
-![Figure 18.1](../../assets/figures/fig_18_1.webp)
+![Figure 18.1](../../assets/figures/fig_18_1.png)
 
 EXAMPLE OF HOW TO TRADE A TREND
 FIGURE 18.1

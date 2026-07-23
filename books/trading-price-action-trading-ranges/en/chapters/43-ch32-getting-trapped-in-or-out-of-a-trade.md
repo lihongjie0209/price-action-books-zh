@@ -29,7 +29,7 @@ that their customers want them to fill. High-frequency trading (HFT) firms,
 however, try to capitalize on any small move.
 Figure 32.1 Trapped Traders
 
-![Figure 32.1](../../assets/figures/fig_32_1.webp)
+![Figure 32.1](../../assets/figures/fig_32_1.png)
 
 
 

@@ -565,7 +565,7 @@ will often be large enough that you can make as much as you do on a
 routine trade using your full position size.
 Figure 2.1 Breakouts Happen Many Times Every Day
 
-![Figure 2.1](../../assets/figures/fig_2_1.webp)
+![Figure 2.1](../../assets/figures/fig_2_1.png)
 
 
 
@@ -717,7 +717,7 @@ bears decided that there was no longer enough strength to stay short and
 they bought back their shorts (short covering) into the close.
 Figure 2.2 Flags Can Break Out in the Less Likely Direction
 
-![Figure 2.2](../../assets/figures/fig_2_2.webp)
+![Figure 2.2](../../assets/figures/fig_2_2.png)
 
 Flags can sometimes break out in the unexpected direction and lead to
 measured moves. In Figure 2.2, there was a failed wedge bear flag that
@@ -756,7 +756,7 @@ tail on the top of the bar. Also, those bulls will not likely look to buy again
 for at least a few bars.
 Figure 2.3 Small Breakout Bar
 
-![Figure 2.3](../../assets/figures/fig_2_3.webp)
+![Figure 2.3](../../assets/figures/fig_2_3.png)
 
 As shown in Figure 2.3, although big breakout bars like bars 3 and 19 often
 lead to big trends, sometimes a small breakout bar like bar 12 can be the

@@ -676,7 +676,7 @@ bull channel? If so, this is a high probability swing (and scalp) short.
 
 FIGURE PIII.1 Failed Early Reversal
 
-![Figure PIII.1](../../assets/figures/fig_PIII_1.webp)
+![Figure PIII.1](../../assets/figures/fig_PIII_1.png)
 
 The market often abruptly reverses after the first few bars, but always be
 prepared for the reversal to fail and set up a breakout pullback. As shown in
@@ -716,7 +716,7 @@ created a double top bear flag and breakout pullback short, with an entry below
 the bar 4 two-bar reversal.
 FIGURE PIII.2 The First Few Bars Can Set the Tone
 
-![Figure PIII.2](../../assets/figures/fig_PIII_2.webp)
+![Figure PIII.2](../../assets/figures/fig_PIII_2.png)
 
 As shown in Figure PIII.2, the price action in the first several bars often
 foreshadows what happens later. The rally from the open to the bar before bar 4
@@ -780,7 +780,7 @@ Bar 12 was a high 2 buy for a second larger leg up, which also had two
 smaller legs.
 FIGURE PIII.3 Don't Scalp Stocks with Small Ranges
 
-![Figure PIII.3](../../assets/figures/fig_PIII_3.webp)
+![Figure PIII.3](../../assets/figures/fig_PIII_3.png)
 
 Traders should not often scalp stocks with average daily ranges under a dollar,
 but price action entries still work. As shown in Figure PIII.3, Intel (INTC) had
@@ -803,7 +803,7 @@ bottom usually gets tested, as it did here.
 
 FIGURE PIII.4 Early Barbwire Often Leads to a Trading Range Day
 
-![Figure PIII.4](../../assets/figures/fig_PIII_4.webp)
+![Figure PIII.4](../../assets/figures/fig_PIII_4.png)
 
 Barbwire type (tight trading range with big tails and big bars) of trading with
 prominent tails, overlapping bars, and many reversals for the first 90 minutes of

@@ -311,1459 +311,1611 @@
   "figure_meta": {
     "1.1": {
       "page": 94,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 299,
       "mentions": [
         94,
         95
-      ]
+      ],
+      "bytes": 78075
     },
     "1.2": {
       "page": 100,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 299,
       "mentions": [
         100,
         101
-      ]
+      ],
+      "bytes": 82476
     },
     "10.1": {
       "page": 220,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 307,
       "mentions": [
         220,
         221
-      ]
+      ],
+      "bytes": 85147
     },
     "11.1": {
       "page": 253,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 308,
       "mentions": [
         252,
         253,
         266
-      ]
+      ],
+      "bytes": 77960
     },
     "11.2": {
       "page": 255,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 299,
       "mentions": [
         255
-      ]
+      ],
+      "bytes": 126381
     },
     "12.1": {
       "page": 261,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 307,
       "mentions": [
         260
-      ]
+      ],
+      "bytes": 71269
     },
     "12.2": {
       "page": 262,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 304,
       "mentions": [
         261,
         262
-      ]
+      ],
+      "bytes": 90861
     },
     "12.3": {
       "page": 263,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 304,
       "mentions": [
         262
-      ]
+      ],
+      "bytes": 73690
     },
     "12.4": {
       "page": 263,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 304,
       "mentions": [
         263
-      ]
+      ],
+      "bytes": 73690
     },
     "12.5": {
       "page": 265,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 305,
       "mentions": [
         264,
         265
-      ]
+      ],
+      "bytes": 57497
     },
     "12.6": {
       "page": 266,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 302,
       "mentions": [
         266,
         267
-      ]
+      ],
+      "bytes": 110791
     },
     "12.7": {
       "page": 270,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 301,
       "mentions": [
         270,
         271
-      ]
+      ],
+      "bytes": 96309
     },
     "13.1": {
       "page": 275,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 297,
       "mentions": [
         273,
         274
-      ]
+      ],
+      "bytes": 72777
     },
     "13.2": {
       "page": 275,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 297,
       "mentions": [
         275
-      ]
+      ],
+      "bytes": 72777
     },
     "14.1": {
       "page": 278,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 435,
       "mentions": [
         278,
         279
-      ]
+      ],
+      "bytes": 140657
     },
     "14.2": {
       "page": 278,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 435,
       "mentions": [
         280
-      ]
+      ],
+      "bytes": 140657
     },
     "15.1": {
       "page": 283,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 306,
       "mentions": [
         282
-      ]
+      ],
+      "bytes": 99663
     },
     "15.2": {
       "page": 284,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 301,
       "mentions": [
         283
-      ]
+      ],
+      "bytes": 103514
     },
     "15.3": {
       "page": 287,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 409,
       "mentions": [
         284,
         285
-      ]
+      ],
+      "bytes": 128941
     },
     "16.1": {
       "page": 288,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 409,
       "mentions": [
         287
-      ]
+      ],
+      "bytes": 94429
     },
     "16.2": {
       "page": 288,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 409,
       "mentions": [
         288
-      ]
+      ],
+      "bytes": 94429
     },
     "16.3": {
       "page": 288,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 409,
       "mentions": [
         289
-      ]
+      ],
+      "bytes": 94429
     },
     "17.1": {
       "page": 310,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 307,
       "mentions": [
         307,
         309
-      ]
+      ],
+      "bytes": 102000
     },
     "17.10": {
       "page": 325,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 299,
       "mentions": [
         325,
         326
-      ]
+      ],
+      "bytes": 82756
     },
     "17.11": {
       "page": 329,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 359,
       "mentions": [
         327,
         328
-      ]
+      ],
+      "bytes": 69864
     },
     "17.12": {
       "page": 332,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 307,
       "mentions": [
         329,
         331
-      ]
+      ],
+      "bytes": 92500
     },
     "17.13": {
       "page": 332,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 307,
       "mentions": [
         332
-      ]
+      ],
+      "bytes": 92500
     },
     "17.2": {
       "page": 312,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 393,
       "mentions": [
         310
-      ]
+      ],
+      "bytes": 107329
     },
     "17.3": {
       "page": 312,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 393,
       "mentions": [
         311,
         312
-      ]
+      ],
+      "bytes": 107329
     },
     "17.4": {
       "page": 316,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 303,
       "mentions": [
         315,
         316
-      ]
+      ],
+      "bytes": 95129
     },
     "17.5": {
       "page": 318,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 307,
       "mentions": [
         317,
         318
-      ]
+      ],
+      "bytes": 87277
     },
     "17.6": {
       "page": 319,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 309,
       "mentions": [
         318,
         319
-      ]
+      ],
+      "bytes": 97829
     },
     "17.7": {
       "page": 322,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 461,
       "mentions": [
         320,
         321
-      ]
+      ],
+      "bytes": 111531
     },
     "17.8": {
       "page": 322,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 461,
       "mentions": [
         321,
         322
-      ]
+      ],
+      "bytes": 111531
     },
     "17.9": {
       "page": 322,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 461,
       "mentions": [
         323,
         324
-      ]
+      ],
+      "bytes": 111531
     },
     "18.1": {
       "page": 335,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 481,
       "mentions": [
         335
-      ]
+      ],
+      "bytes": 171136
     },
     "18.2": {
       "page": 335,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 481,
       "mentions": [
         336
-      ]
+      ],
+      "bytes": 171136
     },
     "18.3": {
       "page": 335,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 481,
       "mentions": [
         337
-      ]
+      ],
+      "bytes": 171136
     },
     "18.4": {
       "page": 335,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 481,
       "mentions": [
         169,
         337,
         338
-      ]
+      ],
+      "bytes": 171136
     },
     "18.5": {
       "page": 340,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 321,
       "mentions": [
         338,
         339
-      ]
+      ],
+      "bytes": 78278
     },
     "18.6": {
       "page": 340,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 321,
       "mentions": [
         339,
         340
-      ]
+      ],
+      "bytes": 78278
     },
     "18.7": {
       "page": 341,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 297,
       "mentions": [
         340,
         341
-      ]
+      ],
+      "bytes": 97909
     },
     "18.8": {
       "page": 342,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 299,
       "mentions": [
         341,
         342
-      ]
+      ],
+      "bytes": 85386
     },
     "18.9": {
       "page": 343,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 299,
       "mentions": [
         342,
         343
-      ]
+      ],
+      "bytes": 101595
     },
     "19.1": {
       "page": 346,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 307,
       "mentions": [
         345,
         346
-      ]
+      ],
+      "bytes": 119750
     },
     "19.2": {
       "page": 347,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 298,
       "mentions": [
         346
-      ]
+      ],
+      "bytes": 91029
     },
     "19.3": {
       "page": 347,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 298,
       "mentions": [
         347
-      ]
+      ],
+      "bytes": 91029
     },
     "2.1": {
       "page": 117,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 307,
       "mentions": [
         116,
         117
-      ]
+      ],
+      "bytes": 83563
     },
     "2.2": {
       "page": 122,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 299,
       "mentions": [
         121
-      ]
+      ],
+      "bytes": 79282
     },
     "2.3": {
       "page": 122,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 299,
       "mentions": [
         122
-      ]
+      ],
+      "bytes": 79282
     },
     "20.1": {
       "page": 349,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 299,
       "mentions": [
         349
-      ]
+      ],
+      "bytes": 59183
     },
     "20.2": {
       "page": 351,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 299,
       "mentions": [
         350,
         351
-      ]
+      ],
+      "bytes": 58537
     },
     "20.3": {
       "page": 352,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 299,
       "mentions": [
         352
-      ]
+      ],
+      "bytes": 64866
     },
     "21.1": {
       "page": 400,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 299,
       "mentions": [
         400
-      ]
+      ],
+      "bytes": 95820
     },
     "22.1": {
       "page": 422,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 376,
       "mentions": [
         421,
         422
-      ]
+      ],
+      "bytes": 84579
     },
     "22.10": {
       "page": 435,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 439,
       "mentions": [
         434,
         435
-      ]
+      ],
+      "bytes": 168106
     },
     "22.11": {
       "page": 435,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 439,
       "mentions": [
         436,
         437
-      ]
+      ],
+      "bytes": 168106
     },
     "22.12": {
       "page": 438,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 326,
       "mentions": [
         438
-      ]
+      ],
+      "bytes": 92099
     },
     "22.2": {
       "page": 423,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 385,
       "mentions": [
         423
-      ]
+      ],
+      "bytes": 84409
     },
     "22.3": {
       "page": 425,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 381,
       "mentions": [
         425,
         426
-      ]
+      ],
+      "bytes": 117832
     },
     "22.4": {
       "page": 425,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 381,
       "mentions": [
         427
-      ]
+      ],
+      "bytes": 117832
     },
     "22.5": {
       "page": 430,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 402,
       "mentions": [
         428
-      ]
+      ],
+      "bytes": 131847
     },
     "22.6": {
       "page": 431,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 442,
       "mentions": [
         429,
         430,
         431
-      ]
+      ],
+      "bytes": 140669
     },
     "22.7": {
       "page": 431,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 442,
       "mentions": [
         431
-      ]
+      ],
+      "bytes": 140669
     },
     "22.8": {
       "page": 433,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 440,
       "mentions": [
         432,
         433
-      ]
+      ],
+      "bytes": 148355
     },
     "22.9": {
       "page": 435,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 439,
       "mentions": [
         433,
         434
-      ]
+      ],
+      "bytes": 168106
     },
     "23.1": {
       "page": 443,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 301,
       "mentions": [
         442,
         443
-      ]
+      ],
+      "bytes": 64122
     },
     "23.2": {
       "page": 443,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 301,
       "mentions": [
         443
-      ]
+      ],
+      "bytes": 64122
     },
     "24.1": {
       "page": 462,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 451,
       "mentions": [
         461,
         462
-      ]
+      ],
+      "bytes": 128924
     },
     "24.2": {
       "page": 462,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 451,
       "mentions": [
         463
-      ]
+      ],
+      "bytes": 128924
     },
     "25.1": {
       "page": 517,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 313,
       "mentions": [
         516,
         517
-      ]
+      ],
+      "bytes": 146094
     },
     "25.2": {
       "page": 518,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 299,
       "mentions": [
         517,
         518
-      ]
+      ],
+      "bytes": 98745
     },
     "25.3": {
       "page": 521,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 301,
       "mentions": [
         521
-      ]
+      ],
+      "bytes": 107568
     },
     "26.1": {
       "page": 526,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 668,
       "height": 368,
       "mentions": [
         526
-      ]
+      ],
+      "bytes": 181455
     },
     "26.2": {
       "page": 526,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 668,
       "height": 368,
       "mentions": [
         527
-      ]
+      ],
+      "bytes": 181455
     },
     "26.3": {
       "page": 528,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 354,
       "mentions": [
         527,
         528
-      ]
+      ],
+      "bytes": 120092
     },
     "26.4": {
       "page": 530,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 667,
       "height": 363,
       "mentions": [
         529
-      ]
+      ],
+      "bytes": 132777
     },
     "26.5": {
       "page": 530,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 667,
       "height": 363,
       "mentions": [
         530
-      ]
+      ],
+      "bytes": 132777
     },
     "26.6": {
       "page": 530,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 667,
       "height": 363,
       "mentions": [
         531
-      ]
+      ],
+      "bytes": 132777
     },
     "27.1": {
       "page": 534,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 497,
       "mentions": [
         533,
         534
-      ]
+      ],
+      "bytes": 120444
     },
     "28.1": {
       "page": 552,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 299,
       "mentions": [
         552
-      ]
+      ],
+      "bytes": 108012
     },
     "28.2": {
       "page": 556,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 300,
       "mentions": [
         555,
         556
-      ]
+      ],
+      "bytes": 90364
     },
     "28.3": {
       "page": 559,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 300,
       "mentions": [
         559
-      ]
+      ],
+      "bytes": 125433
     },
     "28.4": {
       "page": 562,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 668,
       "height": 363,
       "mentions": [
         561,
         562
-      ]
+      ],
+      "bytes": 123145
     },
     "28.5": {
       "page": 562,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 668,
       "height": 363,
       "mentions": [
         563,
         564
-      ]
+      ],
+      "bytes": 123145
     },
     "29.1": {
       "page": 575,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 409,
       "mentions": [
         575
-      ]
+      ],
+      "bytes": 145548
     },
     "29.2": {
       "page": 579,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 299,
       "mentions": [
         578,
         579
-      ]
+      ],
+      "bytes": 65339
     },
     "29.3": {
       "page": 583,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 353,
       "mentions": [
         581
-      ]
+      ],
+      "bytes": 119195
     },
     "29.4": {
       "page": 585,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 298,
       "mentions": [
         583,
         584
-      ]
+      ],
+      "bytes": 113113
     },
     "29.5": {
       "page": 585,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 298,
       "mentions": [
         584
-      ]
+      ],
+      "bytes": 113113
     },
     "3.1": {
       "page": 127,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 299,
       "mentions": [
         126
-      ]
+      ],
+      "bytes": 86314
     },
     "3.2": {
       "page": 127,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 299,
       "mentions": [
         127
-      ]
+      ],
+      "bytes": 86314
     },
     "3.3": {
       "page": 130,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 390,
       "mentions": [
         130
-      ]
+      ],
+      "bytes": 90816
     },
     "30.1": {
       "page": 592,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 301,
       "mentions": [
         591,
         592
-      ]
+      ],
+      "bytes": 83843
     },
     "30.2": {
       "page": 593,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 301,
       "mentions": [
         593
-      ]
+      ],
+      "bytes": 89402
     },
     "31.1": {
       "page": 605,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 335,
       "mentions": [
         603
-      ]
+      ],
+      "bytes": 130260
     },
     "31.2": {
       "page": 605,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 335,
       "mentions": [
         604,
         605
-      ]
+      ],
+      "bytes": 130260
     },
     "31.3": {
       "page": 608,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 300,
       "mentions": [
         607
-      ]
+      ],
+      "bytes": 86936
     },
     "31.4": {
       "page": 608,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 300,
       "mentions": [
         608
-      ]
+      ],
+      "bytes": 86936
     },
     "31.5": {
       "page": 611,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 301,
       "mentions": [
         610
-      ]
+      ],
+      "bytes": 106370
     },
     "31.6": {
       "page": 611,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 301,
       "mentions": [
         611
-      ]
+      ],
+      "bytes": 106370
     },
     "31.7": {
       "page": 615,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 301,
       "mentions": [
         614
-      ]
+      ],
+      "bytes": 99700
     },
     "31.8": {
       "page": 615,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 301,
       "mentions": [
         615,
         616
-      ]
+      ],
+      "bytes": 99700
     },
     "32.1": {
       "page": 619,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 301,
       "mentions": [
         618,
         619
-      ]
+      ],
+      "bytes": 110005
     },
     "4.1": {
       "page": 136,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 307,
       "mentions": [
         135,
         136
-      ]
+      ],
+      "bytes": 85010
     },
     "4.2": {
       "page": 138,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 307,
       "mentions": [
         138
-      ]
+      ],
+      "bytes": 86769
     },
     "5.1": {
       "page": 148,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 299,
       "mentions": [
         147
-      ]
+      ],
+      "bytes": 92293
     },
     "5.10": {
       "page": 158,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 299,
       "mentions": [
         158
-      ]
+      ],
+      "bytes": 101351
     },
     "5.2": {
       "page": 148,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 299,
       "mentions": [
         148
-      ]
+      ],
+      "bytes": 92293
     },
     "5.3": {
       "page": 151,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 471,
       "mentions": [
         150,
         151
-      ]
+      ],
+      "bytes": 90955
     },
     "5.4": {
       "page": 151,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 471,
       "mentions": [
         151,
         152
-      ]
+      ],
+      "bytes": 90955
     },
     "5.5": {
       "page": 151,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 471,
       "mentions": [
         153
-      ]
+      ],
+      "bytes": 90955
     },
     "5.6": {
       "page": 154,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 363,
       "mentions": [
         154
-      ]
+      ],
+      "bytes": 99328
     },
     "5.7": {
       "page": 157,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 306,
       "mentions": [
         156
-      ]
+      ],
+      "bytes": 73285
     },
     "5.8": {
       "page": 157,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 306,
       "mentions": [
         156,
         157
-      ]
+      ],
+      "bytes": 73285
     },
     "5.9": {
       "page": 158,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 299,
       "mentions": [
         157,
         158
-      ]
+      ],
+      "bytes": 101351
     },
     "6.1": {
       "page": 170,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 298,
       "mentions": [
         169,
         170
-      ]
+      ],
+      "bytes": 90213
     },
     "6.2": {
       "page": 172,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 299,
       "mentions": [
         171
-      ]
+      ],
+      "bytes": 85936
     },
     "6.3": {
       "page": 172,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 299,
       "mentions": [
         172
-      ]
+      ],
+      "bytes": 85936
     },
     "6.4": {
       "page": 175,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 299,
       "mentions": [
         175,
         176
-      ]
+      ],
+      "bytes": 101225
     },
     "6.5": {
       "page": 179,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 299,
       "mentions": [
         178,
         179
-      ]
+      ],
+      "bytes": 74705
     },
     "7.1": {
       "page": 201,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 306,
       "mentions": [
         200,
         201
-      ]
+      ],
+      "bytes": 72761
     },
     "7.2": {
       "page": 202,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 299,
       "mentions": [
         201,
         202
-      ]
+      ],
+      "bytes": 84306
     },
     "7.3": {
       "page": 204,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 305,
       "mentions": [
         203,
         204
-      ]
+      ],
+      "bytes": 70881
     },
     "7.4": {
       "page": 205,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 299,
       "mentions": [
         204,
         205
-      ]
+      ],
+      "bytes": 93828
     },
     "7.5": {
       "page": 206,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 301,
       "mentions": [
         205,
         206
-      ]
+      ],
+      "bytes": 82425
     },
     "8.1": {
       "page": 210,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 306,
       "mentions": [
         209
-      ]
+      ],
+      "bytes": 86877
     },
     "8.2": {
       "page": 210,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 306,
       "mentions": [
         209,
         210
-      ]
+      ],
+      "bytes": 86877
     },
     "8.3": {
       "page": 212,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 311,
       "mentions": [
         211
-      ]
+      ],
+      "bytes": 120163
     },
     "8.4": {
       "page": 213,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 307,
       "mentions": [
         212
-      ]
+      ],
+      "bytes": 128799
     },
     "8.5": {
       "page": 213,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 307,
       "mentions": [
         213,
         214
-      ]
+      ],
+      "bytes": 128799
     },
     "9.1": {
       "page": 217,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 299,
       "mentions": [
         217
-      ]
+      ],
+      "bytes": 87152
     },
     "I.1": {
       "page": 40,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 308,
       "mentions": [
         39
-      ]
+      ],
+      "bytes": 131847
     },
     "I.2": {
       "page": 54,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 311,
       "mentions": [
         52
-      ]
+      ],
+      "bytes": 111886
     },
     "I.3": {
       "page": 54,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 311,
       "mentions": [
         53,
         54
-      ]
+      ],
+      "bytes": 111886
     },
     "I.4": {
       "page": 60,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 262,
       "mentions": [
         59,
         60
-      ]
+      ],
+      "bytes": 50976
     },
     "PI.1": {
       "page": 89,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 299,
       "mentions": [
         88,
         89
-      ]
+      ],
+      "bytes": 83452
     },
     "PI.2": {
       "page": 92,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 290,
       "mentions": [
         91,
         92
-      ]
+      ],
+      "bytes": 106449
     },
     "PII.1": {
       "page": 191,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 301,
       "mentions": [
         190,
         191
-      ]
+      ],
+      "bytes": 93747
     },
     "PII.2": {
       "page": 192,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 299,
       "mentions": [
         192
-      ]
+      ],
+      "bytes": 89448
     },
     "PIII.1": {
       "page": 240,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 292,
       "mentions": [
         239,
         240
-      ]
+      ],
+      "bytes": 101994
     },
     "PIII.2": {
       "page": 244,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 299,
       "mentions": [
         242,
         243
-      ]
+      ],
+      "bytes": 97129
     },
     "PIII.3": {
       "page": 244,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 299,
       "mentions": [
         244
-      ]
+      ],
+      "bytes": 97129
     },
     "PIV.1": {
       "page": 378,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 299,
       "mentions": [
         377,
         378
-      ]
+      ],
+      "bytes": 132659
     },
     "PIV.2": {
       "page": 379,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 299,
       "mentions": [
         379
-      ]
+      ],
+      "bytes": 89441
     },
     "PIV.3": {
       "page": 383,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 299,
       "mentions": [
         382,
         383
-      ]
+      ],
+      "bytes": 111688
     },
     "PIV.4": {
       "page": 385,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 307,
       "mentions": [
         384,
         385
-      ]
+      ],
+      "bytes": 69904
     },
     "PIV.5": {
       "page": 386,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 307,
       "mentions": [
         385,
         386
-      ]
+      ],
+      "bytes": 76728
     },
     "PIV.6": {
       "page": 387,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 307,
       "mentions": [
         386,
         387
-      ]
+      ],
+      "bytes": 103452
     },
     "PIV.7": {
       "page": 390,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 458,
       "mentions": [
         388,
         389
-      ]
+      ],
+      "bytes": 170225
     },
     "PIV.8": {
       "page": 390,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 458,
       "mentions": [
         390,
         391
-      ]
+      ],
+      "bytes": 170225
     },
     "PIV.9": {
       "page": 390,
-      "kind": "embedded",
+      "kind": "embedded-raw",
       "width": 550,
       "height": 458,
       "mentions": [
         392,
         393,
         395
-      ]
+      ],
+      "bytes": 170225
     }
   },
-  "embedded_pages": 154
+  "note": "Lossless PNG from PDF extract_image (no WebP/lossy optimize)"
 }

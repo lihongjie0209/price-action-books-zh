@@ -62,7 +62,7 @@ line (the top of the bear channel).
 
 Figure 26.1
 
-![Figure 26.1](../../assets/figures/fig_26_1.webp)
+![Figure 26.1](../../assets/figures/fig_26_1.png)
 
 STAIRS: BROAD CHANNEL TREND
 FIGURE 26.1
@@ -120,7 +120,7 @@ and the bear trend resumed.
 
 Figure 26.2
 
-![Figure 26.2](../../assets/figures/fig_26_2.webp)
+![Figure 26.2](../../assets/figures/fig_26_2.png)
 
 STAIRS: BROAD CHANNEL TREND
 FIGURE 26.2
@@ -144,7 +144,7 @@ bar 3 or maybe bar 1 low).
 COMMON TREND PATTERNS
 Figure 26.3
 
-![Figure 26.3](../../assets/figures/fig_26_3.webp)
+![Figure 26.3](../../assets/figures/fig_26_3.png)
 
 FIGURE 26.3
 Shrinking Stairs

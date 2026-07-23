@@ -477,7 +477,7 @@ in book 2.
 TREND LINES AND CHANNELS
 Figure 15.1
 
-![Figure 15.1](../../assets/figures/fig_15_1.webp)
+![Figure 15.1](../../assets/figures/fig_15_1.png)
 
 FIGURE 15.1
 Nested Channels
@@ -514,7 +514,7 @@ they were also micro channels.
 TREND LINES AND CHANNELS
 Figure 15.2
 
-![Figure 15.2](../../assets/figures/fig_15_2.webp)
+![Figure 15.2](../../assets/figures/fig_15_2.png)
 
 FIGURE 15.2
 Failed Channel Breakouts
@@ -580,7 +580,7 @@ up to bar 22.
 TREND LINES AND CHANNELS
 Figure 15.3
 
-![Figure 15.3](../../assets/figures/fig_15_3.webp)
+![Figure 15.3](../../assets/figures/fig_15_3.png)
 
 FIGURE 15.3
 Bull Channels in Bull and Bear Markets
@@ -609,7 +609,7 @@ happened here.
 
 Figure 15.4
 
-![Figure 15.4](../../assets/figures/fig_15_4.webp)
+![Figure 15.4](../../assets/figures/fig_15_4.png)
 
 CHANNELS
 FIGURE 15.4
@@ -672,7 +672,7 @@ did here.
 
 Figure 15.5
 
-![Figure 15.5](../../assets/figures/fig_15_5.webp)
+![Figure 15.5](../../assets/figures/fig_15_5.png)
 
 CHANNELS
 FIGURE 15.5
@@ -736,7 +736,7 @@ correction to the moving average at bar 15.
 
 Figure 15.6
 
-![Figure 15.6](../../assets/figures/fig_15_6.webp)
+![Figure 15.6](../../assets/figures/fig_15_6.png)
 
 CHANNELS
 FIGURE 15.6
@@ -836,7 +836,7 @@ and lows and might have been in the early stages of a bear trend.
 TREND LINES AND CHANNELS
 Figure 15.7
 
-![Figure 15.7](../../assets/figures/fig_15_7.webp)
+![Figure 15.7](../../assets/figures/fig_15_7.png)
 
 FIGURE 15.7
 Channels Are Always Trying to Reverse
@@ -939,7 +939,7 @@ reasons that line up in the same direction, the more likely the market will tren
 
 Figure 15.8
 
-![Figure 15.8](../../assets/figures/fig_15_8.webp)
+![Figure 15.8](../../assets/figures/fig_15_8.png)
 
 CHANNELS
 FIGURE 15.8

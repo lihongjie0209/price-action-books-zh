@@ -192,7 +192,7 @@ traders to always use a protective stop that is actually in the market, it is
 also better to use a profit-taking limit order that is always in the market.
 Figure 30.1 Pullbacks End at a Confluence of Support Types
 
-![Figure 30.1](../../assets/figures/fig_30_1.webp)
+![Figure 30.1](../../assets/figures/fig_30_1.png)
 
 
 
@@ -230,7 +230,7 @@ so much of the trading is done by computers and they have to rely on math
 for their decision making.
 Figure 30.2 Buying Pullbacks in a Bull Trend
 
-![Figure 30.2](../../assets/figures/fig_30_2.webp)
+![Figure 30.2](../../assets/figures/fig_30_2.png)
 
 Buying pullbacks in the Euro FX Currency Futures (or the forex equivalent,
 the EUR/USD) is a reliable approach to trading. In the Euro, if traders

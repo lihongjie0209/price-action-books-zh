@@ -278,7 +278,7 @@ which makes the market one-sided in your direction and should lead to at least a
 scalp and usually a two-legged move.
 FIGURE 9.1 Small False Breakouts
 
-![Figure 9.1](../../assets/figures/fig_9_1.webp)
+![Figure 9.1](../../assets/figures/fig_9_1.png)
 
 
 
@@ -301,7 +301,7 @@ the market is in a bull trend, traders instead will buy on a stop above the top 
 the range, since they expect another leg up.
 FIGURE 9.2 One-Tick Traps in the Emini
 
-![Figure 9.2](../../assets/figures/fig_9_2.webp)
+![Figure 9.2](../../assets/figures/fig_9_2.png)
 
 
 
@@ -346,7 +346,7 @@ A high 2 is also a buy signal in a trading range, but only at the bottom of the
 range, not this close to the top.
 FIGURE 9.3 Breakouts beyond Signal and Entry Bar Protective Stops
 
-![Figure 9.3](../../assets/figures/fig_9_3.webp)
+![Figure 9.3](../../assets/figures/fig_9_3.png)
 
 Look at what happened in Figure 9.3 as the market broke through the horizontal
 lines, which were one tick beyond signal and entry bars and were likely places
@@ -371,7 +371,7 @@ signal or entry bar and the second one being the bar that came back to that leve
 but failed to reach the protective stops.
 FIGURE 9.4 Failed Profit Targets
 
-![Figure 9.4](../../assets/figures/fig_9_4.webp)
+![Figure 9.4](../../assets/figures/fig_9_4.png)
 
 When the market hits a profit-taking limit order price and then pulls back, most
 traders would not have their limit orders filled. When the market then stalls or
@@ -411,7 +411,7 @@ from above the bar 23 buy signal at one tick below the bear bar that formed two
 bars after bar 24.
 FIGURE 9.5 Trading Range Breakouts Usually Fail
 
-![Figure 9.5](../../assets/figures/fig_9_5.webp)
+![Figure 9.5](../../assets/figures/fig_9_5.png)
 
 When there is strong two-sided trading, breakouts above swing highs and below
 swing lows usually fail.
@@ -461,7 +461,7 @@ of a wedge bull flag, and bar 14 was the bottom of an expanding triangle bull
 flag.
 FIGURE 9.6 Failed Breakouts in AMZN
 
-![Figure 9.6](../../assets/figures/fig_9_6.webp)
+![Figure 9.6](../../assets/figures/fig_9_6.png)
 
 
 
@@ -479,7 +479,7 @@ failed to break out of the top and instead formed a double top with bar 6, and t
 market sold off into the close.
 FIGURE 9.7 Trading Range Breakouts Usually Fail
 
-![Figure 9.7](../../assets/figures/fig_9_7.webp)
+![Figure 9.7](../../assets/figures/fig_9_7.png)
 
 
 
@@ -499,7 +499,7 @@ bar 3 never had a breakout pullback to give the bulls a low-risk long, so the on
 trade was the second-entry short.
 FIGURE 9.8 Trapping Traders out of Good Trades
 
-![Figure 9.8](../../assets/figures/fig_9_8.webp)
+![Figure 9.8](../../assets/figures/fig_9_8.png)
 
 
 
@@ -525,7 +525,7 @@ would have chased the market up, entering late, thereby adding fuel to the
 upswing.
 FIGURE 9.9 Double Tops and Bottoms in the First Hour
 
-![Figure 9.9](../../assets/figures/fig_9_9.webp)
+![Figure 9.9](../../assets/figures/fig_9_9.png)
 
 
 
@@ -548,7 +548,7 @@ have been better to wait for a second entry, despite bar 9 being a higher low
 The breakout pullback at bar 10 was a perfect second entry.
 FIGURE 9.10 Failed Double Bottom Bull Flag
 
-![Figure 9.10](../../assets/figures/fig_9_10.webp)
+![Figure 9.10](../../assets/figures/fig_9_10.png)
 
 
 
@@ -562,7 +562,7 @@ below bar 5, one or two ticks below the bar 4 low, on the close of the bar that
 broke below bar 4, or on the close of the next bar, which was a strong followthrough bar.
 FIGURE 9.11 Most Head and Shoulders Patterns Fail
 
-![Figure 9.11](../../assets/figures/fig_9_11.webp)
+![Figure 9.11](../../assets/figures/fig_9_11.png)
 
 As shown in Figure 9.11, bars 5 and 11 were right shoulders of head and
 shoulders bottoms, most of which fail, as they did here (bars 1 and 9 were the
@@ -586,7 +586,7 @@ The bar 11 right shoulder was a buy, but again the breakeven stop would have
 been hit.
 FIGURE 9.12 Two-Legged Test of Trend Extreme
 
-![Figure 9.12](../../assets/figures/fig_9_12.webp)
+![Figure 9.12](../../assets/figures/fig_9_12.png)
 
 As shown in Figure 9.12, the selloffs to bar 2 and to bar 6 broke major trend
 lines, so, in each case, a two-legged test of the prior high should set up a good
@@ -624,7 +624,7 @@ bar 9 or above the bar after bar 9, relying on bar 9 being a bull trend bar and
 therefore a good long signal bar.
 FIGURE 9.13 Five-Tick Failure
 
-![Figure 9.13](../../assets/figures/fig_9_13.webp)
+![Figure 9.13](../../assets/figures/fig_9_13.png)
 
 
 
@@ -639,7 +639,7 @@ bar 3). The bulls were looking for reasons to buy, and the failed short scalp wa
 the final thing that they were hoping to find.
 FIGURE 9.14 Failed Signals in QQQ
 
-![Figure 9.14](../../assets/figures/fig_9_14.webp)
+![Figure 9.14](../../assets/figures/fig_9_14.png)
 
 
 
@@ -657,7 +657,7 @@ attitude and continue to take entries, preferably swinging at least part of your
 position.
 FIGURE 9.15 Switch to a Smaller Target
 
-![Figure 9.15](../../assets/figures/fig_9_15.webp)
+![Figure 9.15](../../assets/figures/fig_9_15.png)
 
 
 
@@ -672,7 +672,7 @@ scalp, traders would likely have reduced their profit target to about 50 cents.
 They would have been able to take partial profits on this 61 cent drop.
 FIGURE 9.16 A Bear Spike Can Be a Buying Opportunity
 
-![Figure 9.16](../../assets/figures/fig_9_16.webp)
+![Figure 9.16](../../assets/figures/fig_9_16.png)
 
 As shown in Figure 9.16, NetApp Inc. (NTAP) went on sale twice during this
 bull trend on the daily chart, and traders bought the markdown aggressively. Just
@@ -700,7 +700,7 @@ usually looks, and the bears bought back their shorts. Their buying, combined
 with the bulls buying here, led to the new trend high.
 FIGURE 9.17 Most Trend Reversal Attempts Fail
 
-![Figure 9.17](../../assets/figures/fig_9_17.webp)
+![Figure 9.17](../../assets/figures/fig_9_17.png)
 
 When a bull trend is strong like it was on the 60 minute chart of the SPY shown
 in Figure 9.17, it has inertia and will resist attempts to end. Overly eager bears
@@ -723,7 +723,7 @@ have a huge overnight risk, they could buy calls at the bottom of each bear spik
 and take profits on each new high a few days later.
 FIGURE 9.18 Failures Can Sometimes Be a Sign of Strength
 
-![Figure 9.18](../../assets/figures/fig_9_18.webp)
+![Figure 9.18](../../assets/figures/fig_9_18.png)
 
 
 
@@ -768,7 +768,7 @@ The low 1 after the bar 15 bottom failed to lead to a new bear low and was a
 sign that the reversal up was strong.
 FIGURE 9.19 Just Missing a Target and Then Reaching It
 
-![Figure 9.19](../../assets/figures/fig_9_19.webp)
+![Figure 9.19](../../assets/figures/fig_9_19.png)
 
 When there is a fairly obvious measured move target and the market comes close
 enough to be within its magnetic pull, but not close enough for traders to believe

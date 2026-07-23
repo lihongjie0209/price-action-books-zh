@@ -85,7 +85,7 @@ Buying a bear close at the start of a strong bull swing.
 Selling a bull close at the start of a strong bear swing.
 Figure 21.1 Fading Extremes for Scalps in Trading Ranges
 
-![Figure 21.1](../../assets/figures/fig_21_1.webp)
+![Figure 21.1](../../assets/figures/fig_21_1.png)
 
 There are many ways to trade a trading range day like the one in QQQ
 shown in Figure 21.1, but, in general, traders should look to fade the

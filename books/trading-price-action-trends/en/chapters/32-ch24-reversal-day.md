@@ -48,7 +48,7 @@ range days. The opposite is true for bear trends on the open that reverse into r
 
 Figure 24.1
 
-![Figure 24.1](../../assets/figures/fig_24_1.webp)
+![Figure 24.1](../../assets/figures/fig_24_1.png)
 
 REVERSAL DAY
 FIGURE 24.1
@@ -117,7 +117,7 @@ hinting that a bear trend might be underway.
 
 Figure 24.2
 
-![Figure 24.2](../../assets/figures/fig_24_2.webp)
+![Figure 24.2](../../assets/figures/fig_24_2.png)
 
 REVERSAL DAY
 FIGURE 24.2
@@ -183,7 +183,7 @@ strength by the bulls.
 
 Figure 24.3
 
-![Figure 24.3](../../assets/figures/fig_24_3.webp)
+![Figure 24.3](../../assets/figures/fig_24_3.png)
 
 REVERSAL DAY
 FIGURE 24.3

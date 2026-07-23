@@ -15,7 +15,7 @@
 
 图 9.1
 
-![图 9.1](../../assets/figures/fig_9_1.webp)
+![图 9.1](../../assets/figures/fig_9_1.png)
 
 图 9.1
 Emini 与 SPY 相似
@@ -25,7 +25,7 @@ Emini 与 SPY 相似
 
 图 9.2
 
-![图 9.2](../../assets/figures/fig_9_2.webp)
+![图 9.2](../../assets/figures/fig_9_2.png)
 
 交易所交易基金与反向图表
 图 9.2

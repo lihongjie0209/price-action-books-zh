@@ -15,10 +15,10 @@
 
 ## 润色
 - 剥离常见 PDF 运行页眉（PRICE ACTION、PART/CHAPTER 装饰行、FIGURE 等）
-- 图注统一为「图 x.x」，并注入 WebP 图引用
+- 图注统一为「图 x.x」，并注入 PNG 图引用
 
 ## 图片
-- 从 PDF 映射 Figure 标签 → `assets/figures/fig_*.webp`（约 152 张，pyvips 压缩）
+- 从 PDF 映射 Figure 标签 → `assets/figures/fig_*.png`（约 152 张，pyvips 压缩）
 - EN/ZH 各约 155 处图片引用
 
 ## 结论
@@ -37,7 +37,7 @@
 
 ### 插图
 - Markdown `![...](...)` 解析目标文件：**missing=0**（三本合计）。
-- RANGES `13-ch06-gaps.md`：补注入图 6.1–6.5 与 图 18.4 的 WebP 引用（资产已有、MD 此前缺失）。
+- RANGES `13-ch06-gaps.md`：补注入图 6.1–6.5 与 图 18.4 的 PNG 引用（资产已有、MD 此前缺失）。
 - REVERSALS：重绑疑似整页文字截图为嵌入式图表（landscape）：`fig_4_14`、`fig_5_6`、`fig_7_4`、`fig_20_2`、`fig_24_12`（自 PDF 嵌入图重抽）。
 - REVERSALS：ZH「图 19.10」在 EN/PDF 无对应编号，已改为无图题散文；记为残留说明而非虚构插图。
 

@@ -356,7 +356,7 @@ turns up, the market is likely in a bull channel, and channels can last for many
 bars.
 FIGURE 7.1 Final Flag Reversal
 
-![Figure 7.1](../../assets/figures/fig_7_1.webp)
+![Figure 7.1](../../assets/figures/fig_7_1.png)
 
 A sell climax that forms after a bear trend has gone on for a long time is often
 followed by a final flag reversal and at least a two-legged rally. In Figure 7.1, bar
@@ -390,7 +390,7 @@ again. This made the market one-sided, which usually leads to a rally that has a
 least 10 bars and two legs.
 FIGURE 7.2 Tight Trading Range as a Final Flag
 
-![Figure 7.2](../../assets/figures/fig_7_2.webp)
+![Figure 7.2](../../assets/figures/fig_7_2.png)
 
 A tight trading range after a rally often becomes the final bull flag. In Figure 7.2,
 the bar 4 breakout above the open was on strength, and led to the formation of a
@@ -493,7 +493,7 @@ the low 2 and were not willing to buy again for at least a couple more bars down
 With no one looking to buy, the market quickly fell for several bars.
 FIGURE 7.3 Triangle as a Final Flag
 
-![Figure 7.3](../../assets/figures/fig_7_3.webp)
+![Figure 7.3](../../assets/figures/fig_7_3.png)
 
 When the bullish momentum is exceptionally strong, it is better to look only for
 buy setups and not shorts until after there has been some significant sign of
@@ -536,7 +536,7 @@ out to the upside again or reversed down. If it broke to the upside, the tight
 trading range could have become the final flag.
 FIGURE 7.4 Final Flag, Then a Lower High
 
-![Figure 7.4](../../assets/figures/fig_7_4.webp)
+![Figure 7.4](../../assets/figures/fig_7_4.png)
 
 Sometimes a final flag breakout reverses at a lower high instead a higher high. In
 
@@ -597,7 +597,7 @@ before the large bar 1 sell climax. The bull trend bar breakout above the bear f
 at 8:05 a.m. PST completed the reversal.
 FIGURE 7.5 Final Flags Sometimes Reverse without First Breaking Out
 
-![Figure 7.5](../../assets/figures/fig_7_5.webp)
+![Figure 7.5](../../assets/figures/fig_7_5.png)
 
 Sometimes the final flag does not break out and instead just continues to pull
 back, eventually becoming a trend in the opposite direction. As shown in Figure
@@ -664,7 +664,7 @@ traders assumed that the bull premise was no longer valid and that the market
 would likely trade down for at least a couple of small legs.
 FIGURE 7.6 Bear Breakout of a Bull Final Flag
 
-![Figure 7.6](../../assets/figures/fig_7_6.webp)
+![Figure 7.6](../../assets/figures/fig_7_6.png)
 
 Sometimes traders want to buy a bull flag, but a buy setup never triggers and the
 market instead breaks to the downside. As shown in Figure 7.6, there was a
@@ -698,7 +698,7 @@ Bars 15, 17, and 20 formed a parabolic wedge top, which is a type of buy
 climax.
 FIGURE 7.7 Small Final Flag and Big Reversal
 
-![Figure 7.7](../../assets/figures/fig_7_7.webp)
+![Figure 7.7](../../assets/figures/fig_7_7.png)
 
 Small final flags can set up opening reversals. In Figure 7.7, bar 3 was a huge
 bear trend bar that followed three other strong bear trend bars after the market
@@ -730,7 +730,7 @@ targets included the bar 5 high, a test of the moving average, a measured move
 up based on the height of bar 5, and a new high of the day.
 FIGURE 7.8 Two-Bar Final Flag
 
-![Figure 7.8](../../assets/figures/fig_7_8.webp)
+![Figure 7.8](../../assets/figures/fig_7_8.png)
 
 A one-or two-bar final flag can lead to a big reversal, even after a strong bull
 spike. This is more likely on the open, when sharp reversals are common. In
@@ -756,7 +756,7 @@ Bar 7 reversed up from an inside bar, and that bar was the final flag of the
 selloff.
 FIGURE 7.9 Small Final Flags Commonly Evolve into Larger Final Flags
 
-![Figure 7.9](../../assets/figures/fig_7_9.webp)
+![Figure 7.9](../../assets/figures/fig_7_9.png)
 
 As shown in Figure 7.9, bar 2 was a successful short scalp from the breakout of
 the one-bar final flag that preceded it. The pattern then grew into a larger wedge
@@ -798,7 +798,7 @@ wedge than a triangle) and a continuation pattern, instead of a reversal pattern
 The market broke below the bar 4 low on the next day.
 FIGURE 7.10 Final Flags Do Not Have to Break Out in the With-Trend
 
-![Figure 7.10](../../assets/figures/fig_7_10.webp)
+![Figure 7.10](../../assets/figures/fig_7_10.png)
 
 Direction
 As shown in Figure 7.10, after the gap up and strong bull spike up to bar 5,
@@ -829,7 +829,7 @@ was followed by a trading range instead of a bull trend. Major trend reversals a
 more often followed by trading ranges instead of trends in the opposite direction.
 FIGURE 7.11 Small Final Flags after Climaxes
 
-![Figure 7.11](../../assets/figures/fig_7_11.webp)
+![Figure 7.11](../../assets/figures/fig_7_11.png)
 
 The monthly chart of the Dow Jones Industrial Average shown in Figure 7.11
 had many one-and two-bar final flags after climaxes. Some led to reversals, like

@@ -1114,7 +1114,7 @@ how minor, unless there is at least a double top or bottom, a micro double top o
 bottom, or a final flag.
 FIGURE PI.1 Dow Jones Industrials Monthly Chart
 
-![Figure PI.1](../../assets/figures/fig_PI_1.webp)
+![Figure PI.1](../../assets/figures/fig_PI_1.png)
 
 Most reversal patterns fail at least 80 percent of the time, and the large head and
 shoulders top on the monthly Dow Jones Industrials chart shown in Figure PI.1
@@ -1185,7 +1185,7 @@ most dramatic stock market event since the Great Depression. An event of that
 magnitude will make traders respect any technical pattern associated with it.
 FIGURE PI.2 Market Leaders Often Lead the S&P
 
-![Figure PI.2](../../assets/figures/fig_PI_2.webp)
+![Figure PI.2](../../assets/figures/fig_PI_2.png)
 
 Market leaders are called that because they often lead the overall market in time,
 and not just in price. In Figure PI.2, notice how the daily chart of AAPL in the
@@ -1215,7 +1215,7 @@ to take profits, buying back their shorts exactly where the bulls are buying the
 pullback.
 FIGURE PI.3 Reversals in the Daily Emini
 
-![Figure PI.3](../../assets/figures/fig_PI_3.webp)
+![Figure PI.3](../../assets/figures/fig_PI_3.png)
 
 When a chart discussion runs for multiple pages, remember that you can go to
 the Wiley website (www.wiley.com/go/tradingreversals) and either view the
@@ -1357,7 +1357,7 @@ bottom (bars 24, 25, 27, 30, and 33).
 
 FIGURE PI.4 Consecutive Buy Climaxes and Deep Corrections
 
-![Figure PI.4](../../assets/figures/fig_PI_4.webp)
+![Figure PI.4](../../assets/figures/fig_PI_4.png)
 
 A pullback in a bull trend is a smaller bear trend, as was the correction down to
 bar 16. The rally to bar 19 broke above the bear trend line and alerted traders to a
@@ -1479,7 +1479,7 @@ each leg would be about 10 bars or less on the 15 minute chart, which is not
 enough for traders to see the legs as new trends.
 FIGURE PI.5 Uncertainty as a Major Trend Reversal Sets Up
 
-![Figure PI.5](../../assets/figures/fig_PI_5.webp)
+![Figure PI.5](../../assets/figures/fig_PI_5.png)
 
 Since markets have inertia and tend to continue what they have been doing, most
 attempts at reversing a trend fail. Most reasonable major trend reversal setups

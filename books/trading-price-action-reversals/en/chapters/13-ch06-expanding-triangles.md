@@ -62,7 +62,7 @@ therefore a lower low major trend reversal buy setup. The rally to the first or
 second leg usually also breaks above some other major bear trend line.
 FIGURE 6.1 Expanding Triangle Bottom in the Emini
 
-![Figure 6.1](../../assets/figures/fig_6_1.webp)
+![Figure 6.1](../../assets/figures/fig_6_1.png)
 
 An expanding triangle bottom in a bear trend often later tries to become an
 expanding triangle bear flag. In Figure 6.1, the Emini ran up off an opening
@@ -93,7 +93,7 @@ original long entry above the bar 6 signal bar to the exact tick (a perfect brea
 test).
 FIGURE 6.2 Expanding Triangle Bottom Reversal
 
-![Figure 6.2](../../assets/figures/fig_6_2.webp)
+![Figure 6.2](../../assets/figures/fig_6_2.png)
 
 In an expanding triangle reversal pattern, the lows keep getting lower and the
 highs keep getting higher. Typically, there are five turns before the reversal, but
@@ -142,7 +142,7 @@ Instead of breakout failures, bars 12 and 13 were breakout pullbacks in a new
 bull trend.
 FIGURE 6.3 Second Entry in Expanding Triangle Reversal
 
-![Figure 6.3](../../assets/figures/fig_6_3.webp)
+![Figure 6.3](../../assets/figures/fig_6_3.png)
 
 
 

@@ -166,7 +166,7 @@ two pushes down, and the failed breakout is the final push down. The
 critical feature of any wedge is the three pushes, not a perfect wedge shape.
 Figure 12.1 Bull Flags
 
-![Figure 12.1](../../assets/figures/fig_12_1.webp)
+![Figure 12.1](../../assets/figures/fig_12_1.png)
 
 A with-trend bull flag sets up a long entry on a buy stop order at one tick
 above the high of the previous bar, and the initial protective stop is one tick
@@ -192,7 +192,7 @@ The minimum target after the breakout up or down is a measured move
 based on the height of the small trading range.
 Figure 12.2 Double Bottom Bull Flag
 
-![Figure 12.2](../../assets/figures/fig_12_2.webp)
+![Figure 12.2](../../assets/figures/fig_12_2.png)
 
 As shown in Figure 12.2, Goldman Sachs (GS) had a bull spike up from bar
 3 to bar 4 and then a pullback to bar 5. This was followed by a channel up
@@ -230,7 +230,7 @@ area, and instead might form a wedge bull flag with bars 5 and 7 being the first
 down. In fact, that is what happened, and GS gapped up on the following day.
 Figure 12.3 Double Bottom Bull Flags
 
-![Figure 12.3](../../assets/figures/fig_12_3.webp)
+![Figure 12.3](../../assets/figures/fig_12_3.png)
 
 Bars 2 and 3 and bars 5 and 6 formed double bottom bull flags in Figure
 12.3. Both bars 3 and 6 slightly undershot their first legs, but patterns are
@@ -259,7 +259,7 @@ a double bottom bull flag signal. The upside breakout went for an
 approximate measured move up.
 Figure 12.4 Head and Shoulders Top or Double Bottom
 
-![Figure 12.4](../../assets/figures/fig_12_4.webp)
+![Figure 12.4](../../assets/figures/fig_12_4.png)
 
 The daily chart of GS was forming either a head and shoulders bear flag or
 a possible double bottom pullback, as shown in Figure 12.4. The market
@@ -292,7 +292,7 @@ looking for higher prices after the possible bottom at bar 1 and the strong
 rally to bar 2, they bought the bar 4 double bottom bull flag.
 Figure 12.5 Failed Double Bottom
 
-![Figure 12.5](../../assets/figures/fig_12_5.webp)
+![Figure 12.5](../../assets/figures/fig_12_5.png)
 
 
 
@@ -340,13 +340,13 @@ bears would short below it because they would see it as a pullback from the
 bar 8 breakout.
 Compare this to Figure 11.1 in Chapter 11, where there was a similar
 
-![Figure 11.1](../../assets/figures/fig_11_1.webp)
+![Figure 11.1](../../assets/figures/fig_11_1.png)
 
 trading range after an early strong bear spike, but the potential trend
 resumption bear day failed and the market reversed up.
 Figure 12.6 Double Bottom Bull Flag and a Measured Move Up
 
-![Figure 12.6](../../assets/figures/fig_12_6.webp)
+![Figure 12.6](../../assets/figures/fig_12_6.png)
 
 A double bottom followed by a sharp move off the second low and then a
 pause after the breakout often leads to a very strong trend. Even though the
@@ -509,7 +509,7 @@ moving average, and then buy again above the first moving average gap bar below 
 moving average.
 Figure 12.7 Failed Double Bottom Breakout Is a Wedge Variant
 
-![Figure 12.7](../../assets/figures/fig_12_7.webp)
+![Figure 12.7](../../assets/figures/fig_12_7.png)
 
 If a double bottom bull flag breaks to the downside but immediately
 reverses back up, it becomes a variant of a wedge bull flag. In Figure 12.7,

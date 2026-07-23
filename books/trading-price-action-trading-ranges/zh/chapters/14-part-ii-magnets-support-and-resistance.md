@@ -72,7 +72,7 @@
 
 图 PII.1　道琼斯工业平均指数月线图
 
-![图 PII.1](../../assets/figures/fig_PII_1.webp)
+![图 PII.1](../../assets/figures/fig_PII_1.png)
 
 <!-- PDF page 191 -->
 
@@ -92,7 +92,7 @@ K线 15 高点接近基于 K线 12 到 K线 13 多头尖峰高度的等幅运动
 
 图 PII.2　支撑可变成阻力，阻力可变成支撑
 
-![图 PII.2](../../assets/figures/fig_PII_2.webp)
+![图 PII.2](../../assets/figures/fig_PII_2.png)
 
 在图 PII.2 所示的 5 分钟 Emini 图中，支撑变成阻力，阻力变成支撑。这对移动平均线与趋势线都成立。
 

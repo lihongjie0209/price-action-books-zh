@@ -400,7 +400,7 @@ range. In this case, the bulls who bought the breakout and were stopped out on
 the reversal will look to buy again only after a substantial pullback.
 FIGURE 5.1 Wedge Top
 
-![Figure 5.1](../../assets/figures/fig_5_1.webp)
+![Figure 5.1](../../assets/figures/fig_5_1.png)
 
 As shown in Figure 5.1, the 60 minute Emini had a wedge reversal top and then
 a smaller wedge pullback to a lower high or double top, followed by two legs
@@ -424,7 +424,7 @@ led to the channel was tested by the bar 20 selloff. The bull channel had three
 pushes and a wedge shape, which is common in spike and channel patterns.
 FIGURE 5.2 First-Hour Wedge
 
-![Figure 5.2](../../assets/figures/fig_5_2.webp)
+![Figure 5.2](../../assets/figures/fig_5_2.png)
 
 If a three-push move is too steep, it is usually not a good reversal pattern except
 sometimes in the first hour when it can create an opening reversal. As shown in
@@ -459,7 +459,7 @@ that double bottom. Bars 4 and 7 were two pushes down, and bar 9 was a third
 push down and therefore a reversal up, which is a variant of a wedge bottom.
 FIGURE 5.3 Shrinking Stairs
 
-![Figure 5.3](../../assets/figures/fig_5_3.webp)
+![Figure 5.3](../../assets/figures/fig_5_3.png)
 
 As shown in Figure 5.3, shrinking stairs, with each breakout extending less than
 the prior one, signal waning momentum and increase the odds that a profitable
@@ -497,7 +497,7 @@ Finally, it is a small final flag reversal (there was a two-bar bear flag before
 bull bar that followed bar 6.
 FIGURE 5.4 Wedge Lower High
 
-![Figure 5.4](../../assets/figures/fig_5_4.webp)
+![Figure 5.4](../../assets/figures/fig_5_4.png)
 
 The daily SPY topped in March 2000 and then there was a three-push rally to the
 bar 8 lower high, as shown in Figure 5.4. Bar 8 also formed a double top bear
@@ -522,7 +522,7 @@ Strong bulls did not appear until the double bottom pullback and higher low
 major trend reversal in early 2003.
 FIGURE 5.5 Wedge Lower High in the Dow
 
-![Figure 5.5](../../assets/figures/fig_5_5.webp)
+![Figure 5.5](../../assets/figures/fig_5_5.png)
 
 A wedge bear flag lower high in the daily Dow Jones Industrial Average
 following the break below the bull trend line led to the 1987 crash, as shown in
@@ -567,7 +567,7 @@ ranges and not actual reversals into opposite trends. This entire setup was simi
 to that at bar 7, which was followed by a big bear trend.
 FIGURE 5.6 Reversal Just Shy of Trend Channel Line
 
-![Figure 5.6](../../assets/figures/fig_5_6.webp)
+![Figure 5.6](../../assets/figures/fig_5_6.png)
 
 When there is urgency on the part of the bears, they will short aggressively just
 
@@ -610,7 +610,7 @@ bear trend bar. Always view every trend bar as a breakout, and realize that most
 breakout attempts fail.
 FIGURE 5.7 Parabolic Wedge
 
-![Figure 5.7](../../assets/figures/fig_5_7.webp)
+![Figure 5.7](../../assets/figures/fig_5_7.png)
 
 
 
@@ -656,7 +656,7 @@ Although the rally was not strong and the selloff to bar 8 was deep, the day was
 a bull trend day on the daily chart.
 FIGURE 5.8 Bull and Bear Parabolic Wedges
 
-![Figure 5.8](../../assets/figures/fig_5_8.webp)
+![Figure 5.8](../../assets/figures/fig_5_8.png)
 
 As shown in Figure 5.8, the chart on the left was in a trading range and triggered
 a low 2 short below bar 4. Most traders would not have shorted this weak setup,
@@ -780,7 +780,7 @@ limit orders as the market was selling off into the close on a bear day, the hig
 low signal bar never formed.
 FIGURE 5.9 Failed Wedge
 
-![Figure 5.9](../../assets/figures/fig_5_9.webp)
+![Figure 5.9](../../assets/figures/fig_5_9.png)
 
 When there is a bottom setup and the market goes sideways instead of up, the
 market is accepting the lower prices instead of rejecting them and therefore
@@ -804,7 +804,7 @@ the same number of points as there were from the top of the wedge just after bar
 1 to the bottom at the low of bar 3.
 FIGURE 5.10 Wedge That Is Too Tight
 
-![Figure 5.10](../../assets/figures/fig_5_10.webp)
+![Figure 5.10](../../assets/figures/fig_5_10.png)
 
 A wedge bottom that is in a tight channel in a bear trend and without prior bull
 strength is not a buy setup. As shown in Figure 5.10, the market was in a bear
@@ -838,7 +838,7 @@ bar 10 short was a double top with bar 8 and a 20 gap bar short setup, and it
 resulted in a trend-resumption bear trend down to the low of the day.
 FIGURE 5.11 Wedge but Tight Channel
 
-![Figure 5.11](../../assets/figures/fig_5_11.webp)
+![Figure 5.11](../../assets/figures/fig_5_11.png)
 
 A wedge bottom is not a buy signal when it is in a tight bear channel. As shown
 in Figure 5.11, bar 9 was a bear trend channel line overshoot reversal and a third
@@ -904,7 +904,7 @@ Incidentally, the three doji bars that formed the swing low before bar 2 created
 a micro wedge.
 FIGURE 5.12 Successive One-Tick Breakouts
 
-![Figure 5.12](../../assets/figures/fig_5_12.webp)
+![Figure 5.12](../../assets/figures/fig_5_12.png)
 
 One-tick breakouts can be important, especially if there are two in succession,
 because that creates a three-push pattern. In Figure 5.12, bar 4 was one tick

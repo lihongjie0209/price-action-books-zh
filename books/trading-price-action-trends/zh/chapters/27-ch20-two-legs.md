@@ -18,7 +18,7 @@
 
 图 20.1
 
-![图 20.1](../../assets/figures/fig_20_1.webp)
+![图 20.1](../../assets/figures/fig_20_1.png)
 
 两段式
 图 20.1

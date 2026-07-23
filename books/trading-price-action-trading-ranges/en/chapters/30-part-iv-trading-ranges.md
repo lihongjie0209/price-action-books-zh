@@ -930,7 +930,7 @@ fussy and take only reasonable entries, and never base any entry on the idea
 that the market is overdue for a good trade.
 Figure PIV.1 Most of the Bars on Any Chart Are within Trading Ranges
 
-![Figure PIV.1](../../assets/figures/fig_PIV_1.webp)
+![Figure PIV.1](../../assets/figures/fig_PIV_1.png)
 
 
 
@@ -972,7 +972,7 @@ soon afterward. The opposite is true of trading ranges in bear trends, where
 the final leg is usually a bull channel, which is a bear flag.
 Figure PIV.2 Multiple Early Reversals Often Lead to a Trading Range Day
 
-![Figure PIV.2](../../assets/figures/fig_PIV_2.webp)
+![Figure PIV.2](../../assets/figures/fig_PIV_2.png)
 
 Multiple reversals in the first couple of hours usually result in a trading
 range day. Big traders often come into the day expecting a trading range
@@ -1092,7 +1092,7 @@ are often not strong, but are still acceptable. At least it had a tail at the to
 small bull body, and a close in the middle.
 Figure PIV.3 Swing Trades in Trading Ranges
 
-![Figure PIV.3](../../assets/figures/fig_PIV_3.webp)
+![Figure PIV.3](../../assets/figures/fig_PIV_3.png)
 
 
 
@@ -1150,7 +1150,7 @@ followed by several bull trend bars, most bears would have stopped looking
 to short at that point.
 Figure PIV.4 Middle Third of the Range and of the Day
 
-![Figure PIV.4](../../assets/figures/fig_PIV_4.webp)
+![Figure PIV.4](../../assets/figures/fig_PIV_4.png)
 
 
 
@@ -1172,7 +1172,7 @@ price action, and on trading range days the best trades are fades of the highs
 and lows of the day, but this takes patience.
 Figure PIV.5 Spike Up and Then Down Usually Leads to a Trading Range
 
-![Figure PIV.5](../../assets/figures/fig_PIV_5.webp)
+![Figure PIV.5](../../assets/figures/fig_PIV_5.png)
 
 
 
@@ -1196,7 +1196,7 @@ single reversal bar on some higher time frame chart. It was followed by a
 trading range, which grew into a bull channel.
 Figure PIV.6 Pullbacks Can Grow into Trading Ranges
 
-![Figure PIV.6](../../assets/figures/fig_PIV_6.webp)
+![Figure PIV.6](../../assets/figures/fig_PIV_6.png)
 
 
 
@@ -1251,7 +1251,7 @@ That bear spike led to three pushes down and a wedge bear channel. Traders
 bought above bar 9 and on the breakout pullbacks at bars 10 and 12.
 Figure PIV.7 A Trading Range Can Be a Reversal Setup
 
-![Figure PIV.7](../../assets/figures/fig_PIV_7.webp)
+![Figure PIV.7](../../assets/figures/fig_PIV_7.png)
 
 
 
@@ -1303,7 +1303,7 @@ because all that matters is that you were aware of the possible reversal and loo
 reason to get long.
 Figure PIV.8 Buy Climax, Then Trading Range
 
-![Figure PIV.8](../../assets/figures/fig_PIV_8.webp)
+![Figure PIV.8](../../assets/figures/fig_PIV_8.png)
 
 The FOMC report was released at 11:15 a.m. PST, and the 5 minute Emini
 formed a large bull outside bar at bar 1 in Figure PIV.8, but its high was
@@ -1390,7 +1390,7 @@ which had a high probability of being followed by at least a two-legged rally, b
 instead there is just a two-legged sideways correction.
 Figure PIV.9 Trading Ranges Leading to Reversals
 
-![Figure PIV.9](../../assets/figures/fig_PIV_9.webp)
+![Figure PIV.9](../../assets/figures/fig_PIV_9.png)
 
 
 

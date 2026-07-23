@@ -15,7 +15,7 @@ However, if a trader learns to identify one that is likely to be successful, the
 trader's equation can be very strong.
 Figure 1.1 Breakouts Are Reliable Setups
 
-![Figure 1.1](../../assets/figures/fig_1_1.webp)
+![Figure 1.1](../../assets/figures/fig_1_1.png)
 
 When a chart discussion runs for multiple pages, remember that you can go
 to the Wiley website (www.wiley.com/go/tradingranges) and either view the
@@ -247,7 +247,7 @@ the terrible news, but the news is usually a one-day minor event and trivial
 compared to the sum of all of the fundamentals.
 Figure 1.2 Breakout Pullback
 
-![Figure 1.2](../../assets/figures/fig_1_2.webp)
+![Figure 1.2](../../assets/figures/fig_1_2.png)
 
 
 

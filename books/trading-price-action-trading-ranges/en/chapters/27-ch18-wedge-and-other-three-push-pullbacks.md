@@ -81,7 +81,7 @@ legs and whenever there is a third leg, traders wonder if the trend has
 reversed.
 Figure 18.1 Wedge Bear Flag and Expanding Triangle
 
-![Figure 18.1](../../assets/figures/fig_18_1.webp)
+![Figure 18.1](../../assets/figures/fig_18_1.png)
 
 A strong trend is often followed by a three-swing pullback that typically has
 low momentum. In Figure 18.1, bars 4, 6, and 8 are the tops of the three
@@ -101,7 +101,7 @@ signal bar and then trades through your buy stop), so there was no entry
 until the bar 10 breakout pullback the next day.
 Figure 18.2 Wedge Bear Flag
 
-![Figure 18.2](../../assets/figures/fig_18_2.webp)
+![Figure 18.2](../../assets/figures/fig_18_2.png)
 
 As shown in Figure 18.2, bars 9, 15, and 22 formed a large bear flag and
 formed the middle leg of a three-swing sequence in the 5 minute QQQQ,
@@ -132,7 +132,7 @@ seventh down bar in a row, other traders would have preferred to wait to
 buy above the bar 20 higher low.
 Figure 18.3 Gap Up and Wedge Bull Flag
 
-![Figure 18.3](../../assets/figures/fig_18_3.webp)
+![Figure 18.3](../../assets/figures/fig_18_3.png)
 
 As shown in Figure 18.3, the large gap up in Apple (AAPL) was effectively
 a steep bull leg (a bull spike). This was followed by three pullbacks, the
@@ -148,7 +148,7 @@ low of the last bar of yesterday to the high of the first bar of today). The mea
 could also be a leg 1 = leg 2 type, with bar 3 being the bottom of the second leg up.
 Figure 18.4 Wedge Bear Flag
 
-![Figure 18.4](../../assets/figures/fig_18_4.webp)
+![Figure 18.4](../../assets/figures/fig_18_4.png)
 
 
 
@@ -171,7 +171,7 @@ Bar 1 is an example of a one-bar island bottom, where there was an
 exhaustion gap before it and a breakout gap after it.
 Figure 18.5 Higher High Breakout Pullback from Wedge Bear Flag
 
-![Figure 18.5](../../assets/figures/fig_18_5.webp)
+![Figure 18.5](../../assets/figures/fig_18_5.png)
 
 
 
@@ -195,7 +195,7 @@ Look for short entries and don't worry too much about counting legs if those
 thoughts are giving you an excuse to avoid placing orders.
 Figure 18.6 Spike and Channel as Wedge Bull Flag
 
-![Figure 18.6](../../assets/figures/fig_18_6.webp)
+![Figure 18.6](../../assets/figures/fig_18_6.png)
 
 
 
@@ -222,7 +222,7 @@ tested the high of the opening rally where it formed a large double top bear
 flag, which led to a bear trend into the close.
 Figure 18.7 Wedge Flags
 
-![Figure 18.7](../../assets/figures/fig_18_7.webp)
+![Figure 18.7](../../assets/figures/fig_18_7.png)
 
 
 
@@ -251,7 +251,7 @@ Bar 9 formed a double top bear flag with the fourth bar before bar 6,
 which was the start of a bear channel after a bear spike.
 Figure 18.8 Three-Push Patterns
 
-![Figure 18.8](../../assets/figures/fig_18_8.webp)
+![Figure 18.8](../../assets/figures/fig_18_8.png)
 
 
 
@@ -280,7 +280,7 @@ the bottoms of bars 2 and 10 to highlight the wedge, and it is irrelevant that
 the bar 4 second push down was below the line.
 Figure 18.9 Failed Wedge Bull Flag
 
-![Figure 18.9](../../assets/figures/fig_18_9.webp)
+![Figure 18.9](../../assets/figures/fig_18_9.png)
 
 
 

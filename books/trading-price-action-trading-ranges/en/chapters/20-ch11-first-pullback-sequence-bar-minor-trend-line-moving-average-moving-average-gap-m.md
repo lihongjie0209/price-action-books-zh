@@ -214,7 +214,7 @@ setup near the top of the flag, your risk is small and the trade is worth
 taking.
 Figure 11.1 Subsequent Pullbacks Tend to Get Larger
 
-![Figure 11.1](../../assets/figures/fig_11_1.webp)
+![Figure 11.1](../../assets/figures/fig_11_1.png)
 
 
 
@@ -288,7 +288,7 @@ a higher price, and many bulls who will be confident enough to buy dips.
 This reduces the selling pressure and makes your short entry risky.
 Figure 11.2 Moving Average Pullbacks
 
-![Figure 11.2](../../assets/figures/fig_11_2.webp)
+![Figure 11.2](../../assets/figures/fig_11_2.png)
 
 The market reversed at the bar 1 lower low in Figure 11.2. There were
 several pullbacks to the 20-bar exponential moving average that led to new

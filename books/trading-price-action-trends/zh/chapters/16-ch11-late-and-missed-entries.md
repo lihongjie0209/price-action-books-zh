@@ -13,7 +13,7 @@
 
 图 11.1
 
-![图 11.1](../../assets/figures/fig_11_1.webp)
+![图 11.1](../../assets/figures/fig_11_1.png)
 
 图 11.1
 趋势中的连续趋势K线

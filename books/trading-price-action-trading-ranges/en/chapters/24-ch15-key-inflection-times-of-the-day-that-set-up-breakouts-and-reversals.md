@@ -46,7 +46,7 @@ entered on the breakout in the other direction. Most trading range days close
 somewhere in the middle.
 Figure 15.1 Late Stop Runs
 
-![Figure 15.1](../../assets/figures/fig_15_1.webp)
+![Figure 15.1](../../assets/figures/fig_15_1.png)
 
 In Figure 15.1 there are two 20 gap bar setups that formed on late stop runs.
 Bar 5 was the entry after the 11:25 a.m. PST stop run, and it was also a
@@ -82,7 +82,7 @@ On the second day the market tried to reverse up from a final bear flag at
 noon, but the reversal failed at the bar 10 moving average gap short setup.
 Figure 15.2 Late Bull Trap
 
-![Figure 15.2](../../assets/figures/fig_15_2.webp)
+![Figure 15.2](../../assets/figures/fig_15_2.png)
 
 On a bear trend from the open in Figure 15.2, followed by an inability to get
 above the moving average, traders were expecting an 11:30 a.m. PST bull
@@ -113,7 +113,7 @@ two-sided trading (large, overlapping bars with big tails), it resulted in a
 smaller leg than the sell-off at the open.
 Figure 15.3 Late Trap on Trading Range Day
 
-![Figure 15.3](../../assets/figures/fig_15_3.webp)
+![Figure 15.3](../../assets/figures/fig_15_3.png)
 
 There is often an 11:30 a.m. PST trap on trading range days as well (see
 Figure 15.3). Here, after spending a couple of hours in the upper half of the

@@ -408,7 +408,7 @@ bull trend and then there is a gap up that is followed by a gap down on the
 next bar or even a dozen bars later, the bars between the two gaps are
 considered to be the island top. Figure 18.4 (in Chapter 18) shows an
 
-![Figure 18.4](../../assets/figures/fig_18_4.webp)
+![Figure 18.4](../../assets/figures/fig_18_4.png)
 
 example of an island bottom on a daily chart.
 Whenever there is a channel and then a trend bar that closes beyond the
@@ -423,7 +423,7 @@ Breakout gaps are discussed further in the first book in Chapter 23 on
 trends from the open and in the third book in the chapter on gap openings.
 Figure 6.1 Many Types of Gaps on a Daily Chart
 
-![Figure 6.1](../../assets/figures/fig_6_1.webp)
+![Figure 6.1](../../assets/figures/fig_6_1.png)
 
 
 
@@ -476,7 +476,7 @@ it is usually not classified and most traders refer to it simply as a gap, like
 gaps 19, 20, 37, and 38.
 Figure 6.2 Trend Bars Are the Same as Gaps
 
-![Figure 6.2](../../assets/figures/fig_6_2.webp)
+![Figure 6.2](../../assets/figures/fig_6_2.png)
 
 Traditional gaps on intraday charts can usually be seen on 5 minute charts
 only if the volume is extremely light. Figure 6.2 shows two related
@@ -491,7 +491,7 @@ trend bars on the FAS chart were gaps on the RKH chart, demonstrating that
 a trend bar is a variant of a gap.
 Figure 6.3 Trend Bars Are Gaps
 
-![Figure 6.3](../../assets/figures/fig_6_3.webp)
+![Figure 6.3](../../assets/figures/fig_6_3.png)
 
 Intraday charts have their own versions of gaps. Every trend bar is a spike,
 a breakout, and a climax, and since every breakout is a variant of a gap,
@@ -613,7 +613,7 @@ Bars 37, 38, and 39 were bear gaps and signs of strength on the part of the
 bears (selling pressure).
 Figure 6.4 Intraday Gaps
 
-![Figure 6.4](../../assets/figures/fig_6_4.webp)
+![Figure 6.4](../../assets/figures/fig_6_4.png)
 
 
 
@@ -730,7 +730,7 @@ might be only about 40 percent, but the reward is many times the risk, so
 the trader's equation is very favorable.
 Figure 6.5 Gap between the Open of a Bar and the Close of the Prior Bar
 
-![Figure 6.5](../../assets/figures/fig_6_5.webp)
+![Figure 6.5](../../assets/figures/fig_6_5.png)
 
 
 

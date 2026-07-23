@@ -200,7 +200,7 @@ decision leading up to placing a trade, but it is an interesting observation.
 TREND LINES AND CHANNELS
 Figure 14.1
 
-![Figure 14.1](../../assets/figures/fig_14_1.webp)
+![Figure 14.1](../../assets/figures/fig_14_1.png)
 
 FIGURE 14.1
 Testing a Trend Channel Line
@@ -222,7 +222,7 @@ a best ﬁt, but these are usually not helpful in trading.
 
 Figure 14.2
 
-![Figure 14.2](../../assets/figures/fig_14_2.webp)
+![Figure 14.2](../../assets/figures/fig_14_2.png)
 
 TREND CHANNEL LINES
 FIGURE 14.2

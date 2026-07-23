@@ -284,7 +284,7 @@ stock will usually be back above the top of the bear spike, en route to a new
 high.
 Figure 5.1 A Late Breakout in a Trend Can Lead to Reversal or a New Leg
 
-![Figure 5.1](../../assets/figures/fig_5_1.webp)
+![Figure 5.1](../../assets/figures/fig_5_1.png)
 
 Sometimes a breakout at the end of a trend can be an exhaustive climax and
 lead to a reversal, and at other times it can be a breakout and lead to another
@@ -315,7 +315,7 @@ breaking the market above the wedge top. This bull spike was followed by a
 channel that tried to end at bar 21 but was able to extend up to bar 25.
 Figure 5.2 Breakout Pullbacks
 
-![Figure 5.2](../../assets/figures/fig_5_2.webp)
+![Figure 5.2](../../assets/figures/fig_5_2.png)
 
 As shown in Figure 5.2, bar 8 was a potential failed breakout but the
 breakout was strong, made up of three bear trend bars that covered most of
@@ -390,7 +390,7 @@ of the other fundamentals in the stock, and that it is just one bear bar in a
 strong bull trend.
 Figure 5.3 Breakout Tests
 
-![Figure 5.3](../../assets/figures/fig_5_3.webp)
+![Figure 5.3](../../assets/figures/fig_5_3.png)
 
 
 
@@ -412,7 +412,7 @@ low was the second attempt for the buyers to take control of the market in
 this price area and they succeeded, so there should be at least two legs up.
 Figure 5.4 Breakout Tests Can Hit Breakeven Stops
 
-![Figure 5.4](../../assets/figures/fig_5_4.webp)
+![Figure 5.4](../../assets/figures/fig_5_4.png)
 
 
 
@@ -460,7 +460,7 @@ bear trend that was in effect. Bar 10 was just another lower high test of the
 moving average that followed another lower low in a bear trend.
 Figure 5.5 A Breakout Pullback at a Top Can Be a Higher High
 
-![Figure 5.5](../../assets/figures/fig_5_5.webp)
+![Figure 5.5](../../assets/figures/fig_5_5.png)
 
 After a breakout from a wedge top, the pullback does not have to be a lower
 high. In Figure 5.5, there were two wedge tops that broke to the downside,
@@ -478,7 +478,7 @@ market fell into the lower range and did not immediately reverse back up,
 the next test point was the bottom of the lower range.
 Figure 5.6 Breakout Pullback Setups
 
-![Figure 5.6](../../assets/figures/fig_5_6.webp)
+![Figure 5.6](../../assets/figures/fig_5_6.png)
 
 GOOG formed a series of breakout pullback entries in the chart shown in
 Figure 5.6. The sharp rally off the open broke above the bar 1 swing high of
@@ -540,7 +540,7 @@ like bars 4, 7, 9, and 12.
 
 Figure 5.7 Failed Breakouts
 
-![Figure 5.7](../../assets/figures/fig_5_7.webp)
+![Figure 5.7](../../assets/figures/fig_5_7.png)
 
 As shown in Figure 5.7, there were several failed breakouts from bull and
 bear flags on this 60 minute chart of EWZ, the iShares MSCI Brazil Fund
@@ -552,7 +552,7 @@ after a lower low, like at bars 6, 11, and 13, or after a higher low, like at ba
 1, 8, and 14.
 Figure 5.8 Final Flag
 
-![Figure 5.8](../../assets/figures/fig_5_8.webp)
+![Figure 5.8](../../assets/figures/fig_5_8.png)
 
 
 
@@ -567,7 +567,7 @@ of bull strength. As discussed in the section on final flags in book 3, the
 breakout from the final bear flag does not have to fall below the bear low.
 Figure 5.9 Double Bottom
 
-![Figure 5.9](../../assets/figures/fig_5_9.webp)
+![Figure 5.9](../../assets/figures/fig_5_9.png)
 
 
 
@@ -587,7 +587,7 @@ positions. The first pullback was a high 1 at bar 4, well above the bar 2
 high.
 Figure 5.10 The Final Flag Slope Can Predict Slope of New Trend
 
-![Figure 5.10](../../assets/figures/fig_5_10.webp)
+![Figure 5.10](../../assets/figures/fig_5_10.png)
 
 Sometimes the slope of the final flag of a trend is about the same as the
 slope of the new trend after the reversal (see Figure 5.10). This 60 minute

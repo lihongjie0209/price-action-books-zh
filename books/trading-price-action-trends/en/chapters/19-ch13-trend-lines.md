@@ -67,7 +67,7 @@ a good signal bar for the reversal.
 
 Figure 13.1
 
-![Figure 13.1](../../assets/figures/fig_13_1.webp)
+![Figure 13.1](../../assets/figures/fig_13_1.png)
 
 TREND LINES
 FIGURE 13.1
@@ -125,7 +125,7 @@ old bull high by forming either a higher high as it did here, or a lower high.
 
 Figure 13.2
 
-![Figure 13.2](../../assets/figures/fig_13_2.webp)
+![Figure 13.2](../../assets/figures/fig_13_2.png)
 
 TREND LINES
 FIGURE 13.2
@@ -154,7 +154,7 @@ top of the 12-year-long trading range.
 TREND LINES AND CHANNELS
 Figure 13.3
 
-![Figure 13.3](../../assets/figures/fig_13_3.webp)
+![Figure 13.3](../../assets/figures/fig_13_3.png)
 
 FIGURE 13.3
 Trend Line Created as Parallel
@@ -188,7 +188,7 @@ pullback to the trend line was in the form of a wedge bear ﬂag created by bars
 TREND LINES AND CHANNELS
 Figure 13.4
 
-![Figure 13.4](../../assets/figures/fig_13_4.webp)
+![Figure 13.4](../../assets/figures/fig_13_4.png)
 
 FIGURE 13.4
 Trend Channel Line Creating a Channel
@@ -215,7 +215,7 @@ market might have been in the process of channeling down.
 
 Figure 13.5
 
-![Figure 13.5](../../assets/figures/fig_13_5.webp)
+![Figure 13.5](../../assets/figures/fig_13_5.png)
 
 TREND LINES
 FIGURE 13.5
@@ -234,7 +234,7 @@ companies in India.
 TREND LINES AND CHANNELS
 Figure 13.6
 
-![Figure 13.6](../../assets/figures/fig_13_6.webp)
+![Figure 13.6](../../assets/figures/fig_13_6.png)
 
 FIGURE 13.6
 Trend Channel Line Creating a Channel
@@ -282,7 +282,7 @@ The average daily range was about 20 points, so once the market got down to abou
 TREND LINES AND CHANNELS
 Figure 13.7
 
-![Figure 13.7](../../assets/figures/fig_13_7.webp)
+![Figure 13.7](../../assets/figures/fig_13_7.png)
 
 FIGURE 13.7
 Repeated Tests of a Trend Line

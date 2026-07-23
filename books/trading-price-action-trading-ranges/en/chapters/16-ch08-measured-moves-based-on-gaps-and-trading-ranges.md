@@ -80,7 +80,7 @@ guideline to keep you trading on the correct side of the market.
 
 Figure 8.1 Measuring Gap
 
-![Figure 8.1](../../assets/figures/fig_8_1.webp)
+![Figure 8.1](../../assets/figures/fig_8_1.png)
 
 The middle of a gap often leads to a measured move. In Figure 8.1, the
 Emini had a gap up at bar 3, above the bar 2 high of the previous day, and
@@ -100,7 +100,7 @@ were based on math. The news was just the excuse for the market to do
 what it was already going to do.
 Figure 8.2 Measuring Gaps
 
-![Figure 8.2](../../assets/figures/fig_8_2.webp)
+![Figure 8.2](../../assets/figures/fig_8_2.png)
 
 
 
@@ -136,7 +136,7 @@ line F target was exceeded just before the close.
 Incidentally, there was also a double top bear flag at bars 8 and 9.
 Figure 8.3 Profit Taking at Measured Move Targets
 
-![Figure 8.3](../../assets/figures/fig_8_3.webp)
+![Figure 8.3](../../assets/figures/fig_8_3.png)
 
 Apple (AAPL) was in a strong bull trend on the monthly chart shown in
 Figure 8.3. Whenever there is a trend, traders look for logical levels where
@@ -177,7 +177,7 @@ it is a clear measured move magnet, it is a logical area for both to be
 present.
 Figure 8.4 Measured Moves
 
-![Figure 8.4](../../assets/figures/fig_8_4.webp)
+![Figure 8.4](../../assets/figures/fig_8_4.png)
 
 As shown in Figure 8.4, the move down to the breakout pullback bear flag
 around bar 3 was steep, and a reasonable target for a measured move down
@@ -212,7 +212,7 @@ trade until the measured move is reached. At that point, consider a
 countertrend trade if there is a good setup.
 Figure 8.5 Measuring Gaps
 
-![Figure 8.5](../../assets/figures/fig_8_5.webp)
+![Figure 8.5](../../assets/figures/fig_8_5.png)
 
 
 

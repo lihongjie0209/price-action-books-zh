@@ -81,7 +81,7 @@ are considering is the close, which increases its importance.
 
 Figure 8.1
 
-![Figure 8.1](../../assets/figures/fig_8_1.webp)
+![Figure 8.1](../../assets/figures/fig_8_1.png)
 
 THE IMPORTANCE OF THE CLOSE OF THE BAR
 FIGURE 8.1

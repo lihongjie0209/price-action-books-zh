@@ -588,7 +588,7 @@ profit. Most result in trading ranges instead of opposite trends, but there is s
 chance of profitable swing trades.
 FIGURE 3.1 A Higher High Followed by a Lower High
 
-![Figure 3.1](../../assets/figures/fig_3_1.webp)
+![Figure 3.1](../../assets/figures/fig_3_1.png)
 
 
 
@@ -651,7 +651,7 @@ might short a 67 percent retracement, because then a test of the bar 9 low would
 create a reward that is twice as large as their risk.
 FIGURE 3.2 A Lower Low Followed by a Higher Low
 
-![Figure 3.2](../../assets/figures/fig_3_2.webp)
+![Figure 3.2](../../assets/figures/fig_3_2.png)
 
 
 
@@ -729,7 +729,7 @@ strong, this is an excellent setup for all traders, including beginners.
 
 FIGURE 3.3 A Trend Line Break Alone Does Not Make a Reversal
 
-![Figure 3.3](../../assets/figures/fig_3_3.webp)
+![Figure 3.3](../../assets/figures/fig_3_3.png)
 
 Just because there is a break of a bull trend line and then the market moves to a
 higher high, it is not always prudent to look for shorts. If there is a trend line
@@ -803,7 +803,7 @@ a trading range as it did here. Big up + big down = big confusion = trading
 range.
 FIGURE 3.4 If a Test Is Too Strong, Wait
 
-![Figure 3.4](../../assets/figures/fig_3_4.webp)
+![Figure 3.4](../../assets/figures/fig_3_4.png)
 
 If the test of the low has too much momentum, another leg down is more likely
 than a reversal up. In Figure 3.4, GS broke above the bear trend line A, but the
@@ -833,7 +833,7 @@ breakout to another bear leg.
 
 FIGURE 3.5 Don’t Look for Reversals on Smaller Time Frame Charts
 
-![Figure 3.5](../../assets/figures/fig_3_5.webp)
+![Figure 3.5](../../assets/figures/fig_3_5.png)
 
 When there is a strong trend, there will be many reversal attempts on the 3
 minute chart (see Figure 3.5) and far more on the 1 minute chart. Until there is a
@@ -877,7 +877,7 @@ after a strong bear spike to fail. He would have gone short on bar 1 as it moved
 above the high of the prior bar.
 FIGURE 3.6 Smaller Time Frames Are for With-Trend Trading Only
 
-![Figure 3.6](../../assets/figures/fig_3_6.webp)
+![Figure 3.6](../../assets/figures/fig_3_6.png)
 
 
 
@@ -909,7 +909,7 @@ was too strong for traders to be looking for longs. They should only have been
 shorting.
 FIGURE 3.7 Smaller Time Frame Reversals Are Losers
 
-![Figure 3.7](../../assets/figures/fig_3_7.webp)
+![Figure 3.7](../../assets/figures/fig_3_7.png)
 
 A 1 minute chart allows for smaller stops, but the reduced risk alone does not
 make a trade worth taking. Remember the trader’s equation. The chance of
@@ -924,7 +924,7 @@ place buy orders there, since the trapped shorts will push the market to your lo
 profit target as they buy back their losers.
 FIGURE 3.8 Micro Double Bottoms and Tops
 
-![Figure 3.8](../../assets/figures/fig_3_8.webp)
+![Figure 3.8](../../assets/figures/fig_3_8.png)
 
 
 

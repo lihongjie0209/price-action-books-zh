@@ -24,7 +24,7 @@ look at volume on intraday charts because of its unreliable predictive value on
 the 5 minute chart, which is the chart that you should mainly use for trading.
 FIGURE 10.1 Huge Volume Reversal
 
-![Figure 10.1](../../assets/figures/fig_10_1.webp)
+![Figure 10.1](../../assets/figures/fig_10_1.png)
 
 Sometimes markets reverse up on huge volume days. As shown in Figure 10.1,
 Lehman Brothers (LEH) opened with a huge gap down on bar 3 and then ran
@@ -51,7 +51,7 @@ attempt to defend the stops below it and form a double bottom. Months later,
 LEH went out of business.
 FIGURE 10.2 Huge Volume without a Reversal
 
-![Figure 10.2](../../assets/figures/fig_10_2.webp)
+![Figure 10.2](../../assets/figures/fig_10_2.png)
 
 Huge volume on a big down day does not guarantee a rally. As shown in Figure
 10.2, Bear Stearns (BSC) had a huge bear trend day on a Friday with volume

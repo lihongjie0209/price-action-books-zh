@@ -287,7 +287,7 @@ just manage one trade at a time, most traders should not scale in, even if the
 subsequent signals look good.
 Figure 31.1 Scaling In Is Not for Most Traders
 
-![Figure 31.1](../../assets/figures/fig_31_1.webp)
+![Figure 31.1](../../assets/figures/fig_31_1.png)
 
 A beginning trader should not scale into trades because it can increase his
 risk to beyond his comfort level, and any mistake can result in a huge loss.
@@ -324,7 +324,7 @@ Bars 20, 21, 22, and 23 had four valid buy setups, and all four could have
 been exited with a one-point profit on the bar 24 bull spike.
 Figure 31.2 Scaling into Longs
 
-![Figure 31.2](../../assets/figures/fig_31_2.webp)
+![Figure 31.2](../../assets/figures/fig_31_2.png)
 
 
 
@@ -409,7 +409,7 @@ after the pullback. The final exit would have been on bar 27 at $130.94, 84
 cents above the initial entry.
 Figure 31.3 Institutions Scale In as the Market Goes against Them
 
-![Figure 31.3](../../assets/figures/fig_31_3.webp)
+![Figure 31.3](../../assets/figures/fig_31_3.png)
 
 When institutions buy at the bottom of a trading range, they will then buy
 more on every little dip to defend their stops as they try to turn the market
@@ -442,7 +442,7 @@ range from 8:00 a.m. PST until 11:00 a.m. was sloping downward, which
 was a sign that the bears were strong.
 Figure 31.4 In Strong Bull Channels, Traders Scale In All the Way Up
 
-![Figure 31.4](../../assets/figures/fig_31_4.webp)
+![Figure 31.4](../../assets/figures/fig_31_4.png)
 
 When bulls are confident that the market is going higher and skeptical that
 there will soon be a pullback that would allow them to buy lower, they
@@ -496,7 +496,7 @@ have taken half off on the pause bar after the bull spike up to bar 20 and
 then moved the protective stop to breakeven on the balance.
 Figure 31.5 Scaling into a Pullback
 
-![Figure 31.5](../../assets/figures/fig_31_5.webp)
+![Figure 31.5](../../assets/figures/fig_31_5.png)
 
 When the moving average is steeply up, traders will buy a pullback to the
 moving average and scale in lower. In the chart shown in Figure 31.5,
@@ -532,7 +532,7 @@ higher entry, at the moving average, or on the test of the bar 9 original
 moving average entry price.
 Figure 31.6 Scaling In during Spikes
 
-![Figure 31.6](../../assets/figures/fig_31_6.webp)
+![Figure 31.6](../../assets/figures/fig_31_6.png)
 
 Traders can enter or scale in during the spike phases of trends. As shown in
 Figure 31.6, today opened with a large gap up, but the first two bars were
@@ -635,7 +635,7 @@ your usual two-contract size, there will be days when you can have five or
 more contracts on and make windfall profits.
 Figure 31.7 Scaling In during Channels
 
-![Figure 31.7](../../assets/figures/fig_31_7.webp)
+![Figure 31.7](../../assets/figures/fig_31_7.png)
 
 Traders will scale into countertrend positions when the market is forming
 channels, but this is reliable only as long as the day is not a strong trend
@@ -676,7 +676,7 @@ intervals, like part at breakeven and then more at one point and then two
 points higher.
 Figure 31.8 Entering Where Weak Traders Exit
 
-![Figure 31.8](../../assets/figures/fig_31_8.webp)
+![Figure 31.8](../../assets/figures/fig_31_8.png)
 
 The market often hits obvious protective stops to the tick and then reverses.
 If traders are just looking for a few major reversals a day, they have to be

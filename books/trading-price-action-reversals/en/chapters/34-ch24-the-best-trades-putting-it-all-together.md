@@ -1141,7 +1141,7 @@ trade and can make money by scalping, swinging, or doing some of both.
 
 FIGURE 24.1 Best Trades in a Strong Bull Trend
 
-![Figure 24.1](../../assets/figures/fig_24_1.webp)
+![Figure 24.1](../../assets/figures/fig_24_1.png)
 
 Once a trader believes that the market is always-in long, the best trade is almost
 always buying a pullback, especially near the moving average and when the
@@ -1216,7 +1216,7 @@ bar 10 had a bear body. Many traders would have swung part or all of the trade
 for a larger profit.
 FIGURE 24.2 Best Trades in the 10-Year U.S. Treasury Note Futures
 
-![Figure 24.2](../../assets/figures/fig_24_2.webp)
+![Figure 24.2](../../assets/figures/fig_24_2.png)
 
 The 10-Year U.S. Treasury Note Futures market is one of the best markets for
 entering on stops when there is a pullback in a clear always-in trend. As shown
@@ -1293,7 +1293,7 @@ probabilities perfectly, and they often reach 60 percent, giving traders a stron
 trader's equation.
 FIGURE 24.3 Best Trades on a EUR/USD Chart
 
-![Figure 24.3](../../assets/figures/fig_24_3.webp)
+![Figure 24.3](../../assets/figures/fig_24_3.png)
 
 As shown in Figure 24.3, the 5 minute EUR/USD forex chart, once the market is
 clearly always-in long or short, traders look to enter on pullbacks. The first two
@@ -1367,7 +1367,7 @@ flag, and a failed lower high (the bar before was a small lower high and a faile
 high 2 buy setup).
 FIGURE 24.4 Best Trades in IBM
 
-![Figure 24.4](../../assets/figures/fig_24_4.webp)
+![Figure 24.4](../../assets/figures/fig_24_4.png)
 
 As shown in Figure 24.4, the best trades on this 5 minute chart of IBM include
 the bar 2 opening reversal and gap spike and channel bottom, the bar 4 double
@@ -1407,7 +1407,7 @@ bear flag. They shorted the two-legged sideways correction at bar 7, correctly
 anticipating that the bear trend would resume.
 FIGURE 24.5 Best Trades in USO
 
-![Figure 24.5](../../assets/figures/fig_24_5.webp)
+![Figure 24.5](../../assets/figures/fig_24_5.png)
 
 As shown in Figure 24.5, the best trade setups today on the daily United States
 Oil Fund LP (USO) include the bar 1 wedge bull flag; the bar 3 high 1 test of the
@@ -1467,7 +1467,7 @@ trades.
 
 FIGURE 24.6 Best Trades in the UltraShort S&P 500 ProShares (SDS)
 
-![Figure 24.6](../../assets/figures/fig_24_6.webp)
+![Figure 24.6](../../assets/figures/fig_24_6.png)
 
 As shown in Figure 24.6, the best trade setups on the 5 minute SDS chart today
 include the bar 2 first pullback in a trend from the open bull, the bar 5 high 2,
@@ -1525,7 +1525,7 @@ and wait for an environment where the probability is often 60 percent, and not
 trade in a tight trading range.
 FIGURE 24.7 Best Trades in an AAPL Bear Trend
 
-![Figure 24.7](../../assets/figures/fig_24_7.webp)
+![Figure 24.7](../../assets/figures/fig_24_7.png)
 
 
 
@@ -1575,7 +1575,7 @@ came in. If traders let themselves be stopped out, they would now be short again
 but at 41 cents worse!
 FIGURE 24.8 Best Trades in a Strong GS Bear Trend
 
-![Figure 24.8](../../assets/figures/fig_24_8.webp)
+![Figure 24.8](../../assets/figures/fig_24_8.png)
 
 As shown in Figure 24.8, the best trade setups on this 5 minute chart of Goldman
 Sachs Group (GS) include the micro channel failed breakout that formed two
@@ -1645,7 +1645,7 @@ likely. Every type of first pullback is usually followed by a test of the trend'
 extreme (here, the low of the day).
 FIGURE 24.9 Best Trades on the Daily Chart of VOD
 
-![Figure 24.9](../../assets/figures/fig_24_9.webp)
+![Figure 24.9](../../assets/figures/fig_24_9.png)
 
 As shown in Figure 24.9, the best trade setups on this daily chart of Englandbased Vodafone Group (VOD), one the world's largest communications services
 companies, include the bar 3 high 1 at the moving average, the bar 7 wedge bull
@@ -1674,7 +1674,7 @@ pullback. It ended at the bar 7 high 2, wedge bull flag, and moving average gap
 bar.
 FIGURE 24.10 Look to Buy Low, Sell High Most of the Time
 
-![Figure 24.10](../../assets/figures/fig_24_10.webp)
+![Figure 24.10](../../assets/figures/fig_24_10.png)
 
 In general, always look to buy low and sell high, except in a strong trend where
 you buy high and exit higher in a bull trend or sell low and exit lower in a bear
@@ -1703,7 +1703,7 @@ Note that most minor reversals come from micro double tops and bottoms and
 small final flags. Scalpers like to see these setups before placing their trades.
 FIGURE 24.11 The Reward Should Always Be at Least as Large as the Risk
 
-![Figure 24.11](../../assets/figures/fig_24_11.webp)
+![Figure 24.11](../../assets/figures/fig_24_11.png)
 
 A best trade is one where there is at least a 60 percent chance of success and the
 potential reward is at least as large as the risk. As shown in Figure 24.11, the
@@ -1756,7 +1756,7 @@ low and formed a large two-bar reversal with bar 20. The size of the bear body
 and the tiny tails indicated that the selling was very strong.
 FIGURE 24.12 Best Trades in SOLF
 
-![Figure 24.12](../../assets/figures/fig_24_12.webp)
+![Figure 24.12](../../assets/figures/fig_24_12.png)
 
 
 
@@ -1827,7 +1827,7 @@ was less than 50 percent. However, they sometimes make a windfall profit, as
 they did here.
 FIGURE 24.13 Best Trades in CX
 
-![Figure 24.13](../../assets/figures/fig_24_13.webp)
+![Figure 24.13](../../assets/figures/fig_24_13.png)
 
 As shown in Figure 24.13, the best trade setups on this daily chart of Cemex
 (CX), the large cement producer in Mexico, include the bar 2 final flag reversal
@@ -1914,7 +1914,7 @@ entry. Bar 24 was the breakout pullback, but it had a bear body, so most traders
 would not have bought above its high. However, the pullback became a twolegged pullback to bar 25, which was also a double bottom bull flag.
 FIGURE 24.14 Best Trades in GOOG
 
-![Figure 24.14](../../assets/figures/fig_24_14.webp)
+![Figure 24.14](../../assets/figures/fig_24_14.png)
 
 
 
@@ -2000,7 +2000,7 @@ short below a bull trend bar, especially following a three-bar bull spike. It wo
 have been better to look to buy a higher low or lower low test of the bear low.
 FIGURE 24.15 A Lower High in AAPL
 
-![Figure 24.15](../../assets/figures/fig_24_15.webp)
+![Figure 24.15](../../assets/figures/fig_24_15.png)
 
 As shown in Figure 24.15, the best trade setup on this 5 minute chart of Apple
 (AAPL) was the bar 4 lower high major trend reversal and breakout test after the
@@ -2016,7 +2016,7 @@ The two-legged lower high rally to bar 4 was a test of the breakout below the ba
 down and possibly a trend reversal.
 FIGURE 24.16 Best Trades in AMZN
 
-![Figure 24.16](../../assets/figures/fig_24_16.webp)
+![Figure 24.16](../../assets/figures/fig_24_16.png)
 
 
 
@@ -2051,7 +2051,7 @@ trend line break (to bar 5), all occurring at a time when traders were looking f
 a setup to allow them to go short with limited risk.
 FIGURE 24.17 Best Trades on Daily Chart of GS
 
-![Figure 24.17](../../assets/figures/fig_24_17.webp)
+![Figure 24.17](../../assets/figures/fig_24_17.png)
 
 As shown in Figure 24.17, the best trade setups on this daily chart of Goldman
 Sachs Group (GS) include the bar 3 higher high major trend reversal and small
@@ -2087,7 +2087,7 @@ Although that was a reasonable trade, it was not as strong as the other reversal
 in this chapter.
 FIGURE 24.18 Best Trades in MSFT
 
-![Figure 24.18](../../assets/figures/fig_24_18.webp)
+![Figure 24.18](../../assets/figures/fig_24_18.png)
 
 As shown in Figure 24.18, the best trade setups on this 5 minute chart of
 Microsoft (MSFT) include the bar 3 wedge bear flag; the bar 4 lower low major
@@ -2106,7 +2106,7 @@ with bars 5 and 7 being the first two pushes. Some traders saw the rally as a
 large wedge bear flag where bar 3 ended the first push and bar 7 was the second.
 FIGURE 24.19 Best Trades in ORCL
 
-![Figure 24.19](../../assets/figures/fig_24_19.webp)
+![Figure 24.19](../../assets/figures/fig_24_19.png)
 
 
 
@@ -2127,7 +2127,7 @@ higher without a pullback, and they shorted relentlessly. The three-push rally t
 bar 4 was an excellent setup to short below the two-bar reversal.
 FIGURE 24.20 Emini Opening Reversal
 
-![Figure 24.20](../../assets/figures/fig_24_20.webp)
+![Figure 24.20](../../assets/figures/fig_24_20.png)
 
 
 
@@ -2240,7 +2240,7 @@ wedge (bars 12, 14, and 19, and bars 14, 16, and 19), and others would have
 held, keeping their stops below bar 17.
 FIGURE 24.21 Treasury Note Final Flag
 
-![Figure 24.21](../../assets/figures/fig_24_21.webp)
+![Figure 24.21](../../assets/figures/fig_24_21.png)
 
 
 
@@ -2283,7 +2283,7 @@ as a setup for a final flag buy where the tight trading range leading up to bar 
 was the potential final flag in the selloff from bar 12.
 FIGURE 24.22 Best Trades in the Emini with Two-Sided Trading
 
-![Figure 24.22](../../assets/figures/fig_24_22.webp)
+![Figure 24.22](../../assets/figures/fig_24_22.png)
 
 The best trade setups on the 5 minute Emini chart shown in Figure 24.22 include
 the two-bar reversal up from the low of the prior day that formed three bars after
@@ -2339,7 +2339,7 @@ is always the case. Many traders will not take a reversal trade unless one of th
 is present.
 FIGURE 24.23 Several Best Trades in the Emini with No Clear Trend
 
-![Figure 24.23](../../assets/figures/fig_24_23.webp)
+![Figure 24.23](../../assets/figures/fig_24_23.png)
 
 
 
@@ -2368,7 +2368,7 @@ Bar 6 was a low 4 short that reversed after breaking out above the bar 3 swing
 high.
 FIGURE 24.24 With a 50 Percent Chance of Success, the Reward Must Be
 
-![Figure 24.24](../../assets/figures/fig_24_24.webp)
+![Figure 24.24](../../assets/figures/fig_24_24.png)
 
 Twice as Large as the Risk
 

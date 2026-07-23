@@ -52,7 +52,7 @@ because the trend has now reversed and that gap bar is a setup for the prior
 trend, which now has ended.
 Figure 13.1 Twenty Gap Bars
 
-![Figure 13.1](../../assets/figures/fig_13_1.webp)
+![Figure 13.1](../../assets/figures/fig_13_1.png)
 
 When a trend is so strong that no bar touches the moving average for 20 or
 more bars, many traders will look to enter on the first pullback to the
@@ -111,7 +111,7 @@ next chapter).
 
 Figure 13.2 Twenty Gap Bars Are Not Always a Buy Setup
 
-![Figure 13.2](../../assets/figures/fig_13_2.webp)
+![Figure 13.2](../../assets/figures/fig_13_2.png)
 
 If the market has not touched the moving average for 20 or more bars but
 there was first a climax, the 20 gap bar setup may not lead to a bounce and

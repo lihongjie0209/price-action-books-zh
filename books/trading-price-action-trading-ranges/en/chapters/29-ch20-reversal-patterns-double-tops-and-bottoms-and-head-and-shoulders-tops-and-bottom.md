@@ -46,7 +46,7 @@ and shoulders bottom in a bull market is a bull flag and should break out to
 the upside, above the neckline.
 Figure 20.1 Monthly S&P Cash Index in a 12-Year Trading Range
 
-![Figure 20.1](../../assets/figures/fig_20_1.webp)
+![Figure 20.1](../../assets/figures/fig_20_1.png)
 
 There was a large double top in the monthly Standard & Poor's (S&P) cash
 index as shown in Figure 20.1. In the summer of 2007 when the market
@@ -90,7 +90,7 @@ Also, the second push up to the bar 3 wedge was a double top with bar 3,
 even though it was a little lower than the bar 3 high.
 Figure 20.2 Most Head and Shoulders Tops Are Bull Flags
 
-![Figure 20.2](../../assets/figures/fig_20_2.webp)
+![Figure 20.2](../../assets/figures/fig_20_2.png)
 
 
 
@@ -135,7 +135,7 @@ strong bulls step in and buy aggressively, correctly believing that the bear
 reversal will likely fail and simply become a bull flag.
 Figure 20.3 Head and Shoulders Top and Bottom Bear Flag
 
-![Figure 20.3](../../assets/figures/fig_20_3.webp)
+![Figure 20.3](../../assets/figures/fig_20_3.png)
 
 There was a failed head and shoulders bottom and a head and shoulders top
 bear flag in Apple (AAPL), as shown in Figure 20.3. The market was in a

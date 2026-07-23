@@ -27,7 +27,7 @@ the market often suddenly stops moving as soon as you understand what it has
 been doing.
 FIGURE 14.1 Trading after the Close
 
-![Figure 14.1](../../assets/figures/fig_14_1.webp)
+![Figure 14.1](../../assets/figures/fig_14_1.png)
 
 
 
@@ -49,7 +49,7 @@ strong trend needs a 5 minute (not a 3 or 1 minute) reversal bar. The market wen
 sideways in a tight trading range for the rest of the postmarket session.
 FIGURE 14.2 Trading the Premarket
 
-![Figure 14.2](../../assets/figures/fig_14_2.webp)
+![Figure 14.2](../../assets/figures/fig_14_2.png)
 
 
 
@@ -73,7 +73,7 @@ Bar 6 was a second entry for a second attempt to reverse up from a new swing
 low (bar 5 was the first).
 FIGURE 14.3 Tick Charts Have More Bars in a Fast Market
 
-![Figure 14.3](../../assets/figures/fig_14_3.webp)
+![Figure 14.3](../../assets/figures/fig_14_3.png)
 
 
 
@@ -92,7 +92,7 @@ The thumbnail charts are the 1 and 5 minute charts for the same 30 minutes of
 trading.
 FIGURE 14.4 The Globex and Day Session Often Have Different Setups
 
-![Figure 14.4](../../assets/figures/fig_14_4.webp)
+![Figure 14.4](../../assets/figures/fig_14_4.png)
 
 
 

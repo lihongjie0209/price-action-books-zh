@@ -139,7 +139,7 @@ being profitable. Invariably, they ignore the trade-off of a lower winning
 percentage and end up losing money.
 FIGURE 13.1 Swing Trading with Bar Charts
 
-![Figure 13.1](../../assets/figures/fig_13_1.webp)
+![Figure 13.1](../../assets/figures/fig_13_1.png)
 
 A simple bar chart such as those in Figure 13.1 is all that is necessary to swing
 trade using price action. When there is a trend, look to enter with trend on a
@@ -148,7 +148,7 @@ strong trend line break, look to enter countertrend on a test, like a higher low
 lower low in a possible new bull trend, if there is a strong reversal bar.
 FIGURE 13.2 Pullbacks on 1 Minute Chart
 
-![Figure 13.2](../../assets/figures/fig_13_2.webp)
+![Figure 13.2](../../assets/figures/fig_13_2.png)
 
 
 
@@ -172,7 +172,7 @@ covered, and as they covered, they would become additional buyers and help
 drive the market up.
 FIGURE 13.3 Moving Average Pullbacks on 1 Minute Chart
 
-![Figure 13.3](../../assets/figures/fig_13_3.webp)
+![Figure 13.3](../../assets/figures/fig_13_3.png)
 
 
 
@@ -190,7 +190,7 @@ and end up losing money, even though they correctly shorted all of the way
 down.
 FIGURE 13.4 Volume and Tick Charts Have More Bars in the First Hour or So
 
-![Figure 13.4](../../assets/figures/fig_13_4.webp)
+![Figure 13.4](../../assets/figures/fig_13_4.png)
 
 
 
@@ -206,7 +206,7 @@ were skewed, with many more bars per hour earlier in the day and in the final
 hour.
 FIGURE 13.5 Price Action Works on Any Time Frame and Any Type of Chart
 
-![Figure 13.5](../../assets/figures/fig_13_5.webp)
+![Figure 13.5](../../assets/figures/fig_13_5.png)
 
 
 
@@ -223,7 +223,7 @@ all of the charts is just an expression of our genes, and it does not matter whi
 portrayal of that expression you use. All charts show the same behavior.
 FIGURE 13.6 Big Bars and Reversals during a Report
 
-![Figure 13.6](../../assets/figures/fig_13_6.webp)
+![Figure 13.6](../../assets/figures/fig_13_6.png)
 
 
 
@@ -266,7 +266,7 @@ combined profits from many, many scalps. Here, the bull trend continued for
 almost 30 points, or about $1,500 per contract.
 FIGURE 13.7 Scalps in First Hour on 1 Minute Chart
 
-![Figure 13.7](../../assets/figures/fig_13_7.webp)
+![Figure 13.7](../../assets/figures/fig_13_7.png)
 
 As shown in Figure 13.7, the first couple of hours of the Emini provided many
 profitable scalps on the 1 minute chart for someone who could read price action

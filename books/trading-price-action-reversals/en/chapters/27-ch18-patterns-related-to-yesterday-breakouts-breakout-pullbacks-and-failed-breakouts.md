@@ -51,7 +51,7 @@ failing. If it is failing, it is setting up a breakout pullback trade and a resu
 of the breakout.
 FIGURE 18.1 A Bull Channel Is a Bear Flag
 
-![Figure 18.1](../../assets/figures/fig_18_1.webp)
+![Figure 18.1](../../assets/figures/fig_18_1.png)
 
 A bull channel from yesterday is a bear flag, and the market often breaks below
 it on the open (see Figure 18.1). Yesterday, the Oil Service HOLDRS (OIH) 5
@@ -91,7 +91,7 @@ the open at bar 6. If it had, then the selloff from bar 5 would have become a
 failed breakout attempt.
 FIGURE 18.2 Failed Breakout Early in the Day
 
-![Figure 18.2](../../assets/figures/fig_18_2.webp)
+![Figure 18.2](../../assets/figures/fig_18_2.png)
 
 Always be ready for a failed breakout, no matter how strong the first bar is and
 even if there are trapped traders from yesterday's close (see Figure 18.2).
@@ -178,7 +178,7 @@ Bar 16 was a high 2 long on the breakout above the small inside bar, which
 allowed for a tight stop.
 FIGURE 18.3 First-Hour Double Top
 
-![Figure 18.3](../../assets/figures/fig_18_3.webp)
+![Figure 18.3](../../assets/figures/fig_18_3.png)
 
 
 
@@ -303,7 +303,7 @@ fulfilled its objective on the open of the next day. If the market continues up,
 next target would be a measured move up from the double bottom.
 FIGURE 18.4 Breakout from Yesterday's Pattern
 
-![Figure 18.4](../../assets/figures/fig_18_4.webp)
+![Figure 18.4](../../assets/figures/fig_18_4.png)
 
 As shown in Figure 18.4, the first bar of the day is often a breakout of a channel
 from yesterday. Yesterday was a bull trending trading range day and a spike and
@@ -338,7 +338,7 @@ range bear trend day, a trend from the open bear trend day, and a gap spike and
 channel bear trend.
 FIGURE 18.5 A Bear Channel Is a Bull Flag
 
-![Figure 18.5](../../assets/figures/fig_18_5.webp)
+![Figure 18.5](../../assets/figures/fig_18_5.png)
 
 A bear channel is a bull flag, and a breakout above it on the open is often
 followed by a breakout pullback buy signal. As shown in Figure 18.5, yesterday
@@ -370,7 +370,7 @@ bull flag (bar 11 and the bottom of the trading range from two hours earlier), a
 it was a trend from the open bull trend day.
 FIGURE 18.6 Yesterday's Patterns Are Important
 
-![Figure 18.6](../../assets/figures/fig_18_6.webp)
+![Figure 18.6](../../assets/figures/fig_18_6.png)
 
 Patterns from the prior day almost always influence the first hour. Looking at
 Figure 18.6, don't worry about the tiny bars in this chart and instead focus on the

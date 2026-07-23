@@ -79,7 +79,7 @@ exactly the same time, but in opposite directions. The key is money
 management.
 FIGURE 16.1 Extreme Scalping
 
-![Figure 16.1](../../assets/figures/fig_16_1.webp)
+![Figure 16.1](../../assets/figures/fig_16_1.png)
 
 
 

@@ -56,7 +56,7 @@ swing trades, and if there is not a strong trend and a trader takes a moving
 average gap bar trade, she is more likely looking for a scalp.
 Figure 14.1 Moving Average Gaps, Second Signals
 
-![Figure 14.1](../../assets/figures/fig_14_1.webp)
+![Figure 14.1](../../assets/figures/fig_14_1.png)
 
 
 
@@ -104,7 +104,7 @@ bar 9.
 
 Figure 14.2 Moving Average Gap and Test of Extreme
 
-![Figure 14.2](../../assets/figures/fig_14_2.webp)
+![Figure 14.2](../../assets/figures/fig_14_2.png)
 
 A first moving average gap bar can lead to tests of the trend extreme. In
 Figure 14.2, both bars 1 and 2 were first moving average gap bars in strong

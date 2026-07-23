@@ -34,7 +34,7 @@ they need to work on this emotional issue.
 PRICE ACTION
 Figure 11.1
 
-![Figure 11.1](../../assets/figures/fig_11_1.webp)
+![Figure 11.1](../../assets/figures/fig_11_1.png)
 
 FIGURE 11.1
 Consecutive Trend Bars in a Trend

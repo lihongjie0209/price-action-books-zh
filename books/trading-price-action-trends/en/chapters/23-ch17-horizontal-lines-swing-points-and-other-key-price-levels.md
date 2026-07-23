@@ -31,7 +31,7 @@ there is a bull reversal setup on the test, this is a good breakout pullback buy
 TREND LINES AND CHANNELS
 Figure 17.1
 
-![Figure 17.1](../../assets/figures/fig_17_1.webp)
+![Figure 17.1](../../assets/figures/fig_17_1.png)
 
 FIGURE 17.1
 Breakouts Can Set Up Reversals
@@ -76,7 +76,7 @@ following the breakout above the bull ﬂag of bars 11 to 13.
 TREND LINES AND CHANNELS
 Figure 17.2
 
-![Figure 17.2](../../assets/figures/fig_17_2.webp)
+![Figure 17.2](../../assets/figures/fig_17_2.png)
 
 FIGURE 17.2
 Don’t Fade Strong Trends

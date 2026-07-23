@@ -190,7 +190,7 @@ trending trading range day, it is appropriate to discuss it here.
 COMMON TREND PATTERNS
 Figure 22.1
 
-![Figure 22.1](../../assets/figures/fig_22_1.webp)
+![Figure 22.1](../../assets/figures/fig_22_1.png)
 
 FIGURE 22.1
 Trending Trading Range Days
@@ -261,7 +261,7 @@ trade in both directions.
 COMMON TREND PATTERNS
 Figure 22.2
 
-![Figure 22.2](../../assets/figures/fig_22_2.webp)
+![Figure 22.2](../../assets/figures/fig_22_2.png)
 
 FIGURE 22.2
 Initial Trading Range Is About Half of the Average Daily Range
@@ -313,7 +313,7 @@ trending trading range day.
 COMMON TREND PATTERNS
 Figure 22.3
 
-![Figure 22.3](../../assets/figures/fig_22_3.webp)
+![Figure 22.3](../../assets/figures/fig_22_3.png)
 
 FIGURE 22.3
 Trending Trading Ranges Create a Trend
@@ -376,7 +376,7 @@ little time left in the day, this was unlikely.
 COMMON TREND PATTERNS
 Figure 22.4
 
-![Figure 22.4](../../assets/figures/fig_22_4.webp)
+![Figure 22.4](../../assets/figures/fig_22_4.png)
 
 FIGURE 22.4
 The First Trading Range Can Form Yesterday
@@ -403,7 +403,7 @@ bear ﬂag setup.
 
 Figure 22.5
 
-![Figure 22.5](../../assets/figures/fig_22_5.webp)
+![Figure 22.5](../../assets/figures/fig_22_5.png)
 
 TRENDING TRADING RANGE DAYS
 FIGURE 22.5
@@ -468,7 +468,7 @@ the second range.
 
 Figure 22.6
 
-![Figure 22.6](../../assets/figures/fig_22_6.webp)
+![Figure 22.6](../../assets/figures/fig_22_6.png)
 
 TRENDING TRADING RANGE DAYS
 FIGURE 22.6
@@ -524,7 +524,7 @@ something, it usually then goes in the opposite direction.
 
 Figure 22.7
 
-![Figure 22.7](../../assets/figures/fig_22_7.webp)
+![Figure 22.7](../../assets/figures/fig_22_7.png)
 
 TRENDING TRADING RANGE DAYS
 FIGURE 22.7
@@ -569,7 +569,7 @@ near the high of bar 7 and became a strong bull trend from the open day.
 
 Figure 22.8
 
-![Figure 22.8](../../assets/figures/fig_22_8.webp)
+![Figure 22.8](../../assets/figures/fig_22_8.png)
 
 TRENDING TRADING RANGE DAYS
 FIGURE 22.8
@@ -621,7 +621,7 @@ a high 2 long setup four bars later that led to the bar 9 strong bull breakout.
 
 Figure 22.9
 
-![Figure 22.9](../../assets/figures/fig_22_9.webp)
+![Figure 22.9](../../assets/figures/fig_22_9.png)
 
 TRENDING TRADING RANGE DAYS
 FIGURE 22.9
@@ -673,7 +673,7 @@ not obvious.
 
 Figure 22.10
 
-![Figure 22.10](../../assets/figures/fig_22_10.webp)
+![Figure 22.10](../../assets/figures/fig_22_10.png)
 
 TRENDING TRADING RANGE DAYS
 FIGURE 22.10

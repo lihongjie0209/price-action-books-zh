@@ -274,7 +274,7 @@ the volume is so huge, irrational and emotional behavior is an insigniﬁcant co
 Since price action comes from our DNA, it will not change until we evolve.
 When you look at the two charts in Figure I.1, your ﬁrst reaction is that they are
 
-![Figure I.1](../../assets/figures/fig_I_1.webp)
+![Figure I.1](../../assets/figures/fig_I_1.png)
 
 just a couple of ordinary charts, but look at the dates at the bottom. These weekly
 Dow Jones Industrial Average charts from the Depression era and from World War
@@ -675,7 +675,7 @@ successful traders.
 The charts, not the experts on television, will tell you exactly how the institutions are interpreting the news.
 Yesterday, Costco’s earnings were up 32 percent on the quarter and above analysts’ expectations (see Figure I.2). COST gapped up on the open, tested the gap
 
-![Figure I.2](../../assets/figures/fig_I_2.webp)
+![Figure I.2](../../assets/figures/fig_I_2.png)
 
 on the ﬁrst bar, and then ran up over a dollar in 20 minutes. It then drifted down to
 test yesterday’s close. It had two rallies that broke bear trend lines, and both failed.
@@ -713,7 +713,7 @@ Just because the market gaps up on a news item does not mean that it will
 continue up, despite how bullish the news is.
 As shown in Figure I.3, before the open of bar 1 on both Yahoo! (YHOO)
 
-![Figure I.3](../../assets/figures/fig_I_3.webp)
+![Figure I.3](../../assets/figures/fig_I_3.png)
 
 charts (daily on the left, weekly on the right), the news reported that Microsoft was
 
@@ -905,7 +905,7 @@ past the emotion, you can make money off crashes, because with all charts, they
 display tradable price action.
 Figure I.4 (from TradeStation) shows how markets can crash in any time frame.
 
-![Figure I.4](../../assets/figures/fig_I_4.webp)
+![Figure I.4](../../assets/figures/fig_I_4.png)
 
 The one on the left is a daily chart of GE during the 1987 crash, the middle is a
 5 minute chart of COST after a very strong earnings report, and the one on the right

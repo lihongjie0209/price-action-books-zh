@@ -53,7 +53,7 @@ the other is falling, and having two types of resistance affecting the market
 at the same time increases the chance of a profitable trade.
 Figure 19.1 Dueling Lines Pullback
 
-![Figure 19.1](../../assets/figures/fig_19_1.webp)
+![Figure 19.1](../../assets/figures/fig_19_1.png)
 
 All pullbacks end in dueling lines patterns, even if the long-term support is
 not readily seen. A pullback is a small trend in the opposite direction from
@@ -85,7 +85,7 @@ move down to bar 6, and a double top bear flag after a bull top can be thought o
 high that has two peaks.
 Figure 19.2 Dueling Lines
 
-![Figure 19.2](../../assets/figures/fig_19_2.webp)
+![Figure 19.2](../../assets/figures/fig_19_2.png)
 
 As shown in Figure 19.2, bar 5 tested the bear trend line and as it did there
 was an overshoot of a smaller bull trend channel line (from bar 3 to bar 4),
@@ -101,7 +101,7 @@ higher high at bar 6. The channel is not shown, but it is the one that
 followed the bull spike up to bar 3.
 Figure 19.3 Dueling Lines Variant
 
-![Figure 19.3](../../assets/figures/fig_19_3.webp)
+![Figure 19.3](../../assets/figures/fig_19_3.png)
 
 Figure 19.3 is a variant of dueling lines where the long-term support came
 in the form of a horizontal line at a prior swing low and the result was a

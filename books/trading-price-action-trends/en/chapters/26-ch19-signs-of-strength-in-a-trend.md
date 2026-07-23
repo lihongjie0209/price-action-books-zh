@@ -117,7 +117,7 @@ is replaced by a bull channel, and it eventually evolves into a trading range.
 TRENDS
 Figure 19.1
 
-![Figure 19.1](../../assets/figures/fig_19_1.webp)
+![Figure 19.1](../../assets/figures/fig_19_1.png)
 
 FIGURE 19.1
 Big Gap Up on Bull Day
@@ -256,7 +256,7 @@ was a two-bar bull reversal that became the signal for the long.
 TRENDS
 Figure 19.2
 
-![Figure 19.2](../../assets/figures/fig_19_2.webp)
+![Figure 19.2](../../assets/figures/fig_19_2.png)
 
 FIGURE 19.2
 Most Reversals Fail on Trend Days
@@ -296,7 +296,7 @@ lower all day without any big pullback.
 TRENDS
 Figure 19.3
 
-![Figure 19.3](../../assets/figures/fig_19_3.webp)
+![Figure 19.3](../../assets/figures/fig_19_3.png)
 
 FIGURE 19.3
 No Pullbacks Means the Trend Is Strong

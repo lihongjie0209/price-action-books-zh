@@ -1,14 +1,21 @@
 #!/usr/bin/env python3
-"""Optimize chart figures with pyvips (libvips).
+"""Optional figure optimizer with pyvips (libvips).
+
+**Do not run this on Brooks chart figures by default.** Lossy WebP / palette
+greyscale strips fine bar numbers and axis labels. Shipped assets are
+lossless PNGs extracted from the PDF.
+
+If you still need size reduction, prefer:
+  --format png --keep-color --compression 6
+and never --format webp on charts with small text.
 
 Requires system/libvips (see scripts/setup_vips_env.sh) and:
   uv sync   # or: uv pip install pyvips
 
 Examples:
-  uv run python scripts/optimize_images_vips.py
-  uv run python scripts/optimize_images_vips.py books/trading-price-action-trends/assets/figures
-  uv run python scripts/optimize_images_vips.py --format webp --quality 82
-  uv run python scripts/optimize_images_vips.py --max-width 1600
+  uv run python scripts/optimize_images_vips.py --keep-color
+  uv run python scripts/optimize_images_vips.py books/.../figures --format png --keep-color
+  # discouraged: --format webp --quality 82
 """
 from __future__ import annotations
 
@@ -176,7 +183,21 @@ def main(argv: list[str] | None = None) -> int:
         action="store_true",
         help="when --format webp, rewrite .png refs to .webp in en/zh chapters",
     )
+    ap.add_argument(
+        "--i-know-this-blurs-text",
+        action="store_true",
+        help="allow lossy WebP Q<95 (blurs chart labels); off by default",
+    )
     args = ap.parse_args(argv)
+
+    if args.format == "webp" and args.quality < 95 and not args.i_know_this_blurs_text:
+        print(
+            "WARNING: lossy WebP (Q<95) blurs chart labels. "
+            "Prefer lossless PNG extract from PDF. Aborted.\n"
+            "Use --format png --keep-color, or pass --i-know-this-blurs-text.",
+            file=sys.stderr,
+        )
+        return 2
 
     root = _ROOT
     dirs = args.dirs

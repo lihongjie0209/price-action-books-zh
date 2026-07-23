@@ -12,7 +12,7 @@ no need to apply the term, because from a trading perspective they are just a
 bear swing with tradable price action.
 Figure I.4 Crashes Are Common
 
-![Figure I.4](../../assets/figures/fig_I_4.webp)
+![Figure I.4](../../assets/figures/fig_I_4.png)
 
 Incidentally, the concept that the same patterns appear on all time frames
 means that the principles of fractal mathematics might be useful in

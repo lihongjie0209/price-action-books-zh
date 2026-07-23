@@ -415,7 +415,7 @@ na¨ıve traders into expecting a successful breakout.
 
 Figure 6.1
 
-![Figure 6.1](../../assets/figures/fig_6_1.webp)
+![Figure 6.1](../../assets/figures/fig_6_1.png)
 
 SIGNAL BARS: OTHER TYPES
 FIGURE 6.1
@@ -510,7 +510,7 @@ example of a micro double top reversal pattern.
 PRICE ACTION
 Figure 6.2
 
-![Figure 6.2](../../assets/figures/fig_6_2.webp)
+![Figure 6.2](../../assets/figures/fig_6_2.png)
 
 FIGURE 6.2
 A Reversal Bar Can Be a Continuation Setup
@@ -532,7 +532,7 @@ reasonably take place.
 
 Figure 6.3
 
-![Figure 6.3](../../assets/figures/fig_6_3.webp)
+![Figure 6.3](../../assets/figures/fig_6_3.png)
 
 SIGNAL BARS: OTHER TYPES
 FIGURE 6.3
@@ -601,7 +601,7 @@ which would look like a 15 minute reversal bar with a one-tick-tall bull body on
 
 Figure 6.4
 
-![Figure 6.4](../../assets/figures/fig_6_4.webp)
+![Figure 6.4](../../assets/figures/fig_6_4.png)
 
 SIGNAL BARS: OTHER TYPES
 FIGURE 6.4
@@ -629,7 +629,7 @@ reversal short setup at the higher high.
 PRICE ACTION
 Figure 6.5
 
-![Figure 6.5](../../assets/figures/fig_6_5.webp)
+![Figure 6.5](../../assets/figures/fig_6_5.png)
 
 FIGURE 6.5
 Three-Bar Reversals
@@ -681,7 +681,7 @@ Bar 2 was a two-bar reversal for an opening reversal long. It followed a one-bar
 PRICE ACTION
 Figure 6.6
 
-![Figure 6.6](../../assets/figures/fig_6_6.webp)
+![Figure 6.6](../../assets/figures/fig_6_6.png)
 
 FIGURE 6.6
 Two-Bar Reversal
@@ -722,7 +722,7 @@ could move their stop up to below the higher low and hold long into the close.
 PRICE ACTION
 Figure 6.7
 
-![Figure 6.7](../../assets/figures/fig_6_7.webp)
+![Figure 6.7](../../assets/figures/fig_6_7.png)
 
 FIGURE 6.7
 First Hour Reversal
@@ -771,7 +771,7 @@ bear trend should be thought of as a bear ﬂag.
 PRICE ACTION
 Figure 6.8
 
-![Figure 6.8](../../assets/figures/fig_6_8.webp)
+![Figure 6.8](../../assets/figures/fig_6_8.png)
 
 FIGURE 6.8
 Bars That Are Tiny Can Still Be Helpful
@@ -813,7 +813,7 @@ especially when the signal bar is a doji, which does not represent strong buying
 PRICE ACTION
 Figure 6.9
 
-![Figure 6.9](../../assets/figures/fig_6_9.webp)
+![Figure 6.9](../../assets/figures/fig_6_9.png)
 
 FIGURE 6.9
 An ii Pattern Is a Smaller Time Frame Reversal
@@ -839,7 +839,7 @@ pattern, and the bar 2 setup was a failed low 2.
 
 Figure 6.10
 
-![Figure 6.10](../../assets/figures/fig_6_10.webp)
+![Figure 6.10](../../assets/figures/fig_6_10.png)
 
 SIGNAL BARS: OTHER TYPES
 FIGURE 6.10
@@ -878,7 +878,7 @@ At 8:50 a.m. there was a double bottom pullback long setup.
 
 Figure 6.11
 
-![Figure 6.11](../../assets/figures/fig_6_11.webp)
+![Figure 6.11](../../assets/figures/fig_6_11.png)
 
 SIGNAL BARS: OTHER TYPES
 FIGURE 6.11
@@ -934,7 +934,7 @@ down to much lower prices.
 
 Figure 6.12
 
-![Figure 6.12](../../assets/figures/fig_6_12.webp)
+![Figure 6.12](../../assets/figures/fig_6_12.png)
 
 SIGNAL BARS: OTHER TYPES
 FIGURE 6.12
@@ -1086,7 +1086,7 @@ small spike down that led to the bear channel into the close of the day.
 PRICE ACTION
 Figure 6.14
 
-![Figure 6.14](../../assets/figures/fig_6_14.webp)
+![Figure 6.14](../../assets/figures/fig_6_14.png)
 
 FIGURE 6.14
 Signal Bar Examples
@@ -1280,7 +1280,7 @@ preceded it.
 
 Figure 6.15
 
-![Figure 6.15](../../assets/figures/fig_6_15.webp)
+![Figure 6.15](../../assets/figures/fig_6_15.png)
 
 SIGNAL BARS: OTHER TYPES
 FIGURE 6.15
@@ -1392,7 +1392,7 @@ bar 16 open of the following day.
 PRICE ACTION
 Figure 6.16
 
-![Figure 6.16](../../assets/figures/fig_6_16.webp)
+![Figure 6.16](../../assets/figures/fig_6_16.png)
 
 FIGURE 6.16
 Good Setups Are Common
@@ -1508,7 +1508,7 @@ since the bar 10 outside bar bull trap should be considered the start of the dow
 
 Figure 6.17
 
-![Figure 6.17](../../assets/figures/fig_6_17.webp)
+![Figure 6.17](../../assets/figures/fig_6_17.png)
 
 SIGNAL BARS: OTHER TYPES
 FIGURE 6.17
@@ -1605,7 +1605,7 @@ the bar 3 spike down, but sometimes the rally will not be completed until the ne
 PRICE ACTION
 Figure 6.18
 
-![Figure 6.18](../../assets/figures/fig_6_18.webp)
+![Figure 6.18](../../assets/figures/fig_6_18.png)
 
 FIGURE 6.18
 Weak Reversal Bars Need More
@@ -1643,7 +1643,7 @@ looking unremarkable instead of how it appeared in real time.
 PRICE ACTION
 Figure 6.19
 
-![Figure 6.19](../../assets/figures/fig_6_19.webp)
+![Figure 6.19](../../assets/figures/fig_6_19.png)
 
 FIGURE 6.19
 Shaved Bars Can Be Meaningless

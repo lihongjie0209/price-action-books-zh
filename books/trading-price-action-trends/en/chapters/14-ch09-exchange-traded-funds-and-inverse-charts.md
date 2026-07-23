@@ -40,7 +40,7 @@ Emini throughout the day, so traders should not be concerned about the disparity
 PRICE ACTION
 Figure 9.1
 
-![Figure 9.1](../../assets/figures/fig_9_1.webp)
+![Figure 9.1](../../assets/figures/fig_9_1.png)
 
 FIGURE 9.1
 The Emini and the SPY Are Similar
@@ -55,7 +55,7 @@ Emini chart.
 
 Figure 9.2
 
-![Figure 9.2](../../assets/figures/fig_9_2.webp)
+![Figure 9.2](../../assets/figures/fig_9_2.png)
 
 EXCHANGE-TRADED FUNDS AND INVERSE CHARTS
 FIGURE 9.2

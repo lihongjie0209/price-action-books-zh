@@ -16,7 +16,7 @@
 
 ## 图 PII.1　用线条突出趋势
 
-![图 PII.1](../../assets/figures/fig_PII_1.webp)
+![图 PII.1](../../assets/figures/fig_PII_1.png)
 
 可以画线来突出价格行为，使发起与管理交易更容易（见图 PII.1）。
 

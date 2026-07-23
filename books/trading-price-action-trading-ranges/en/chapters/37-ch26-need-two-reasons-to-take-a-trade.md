@@ -86,7 +86,7 @@ A failure to reach a profit target, like the market
 reversing at five or nine ticks in an Emini scalp.
 Figure 26.1 At Least Two Reasons to Take a Trade
 
-![Figure 26.1](../../assets/figures/fig_26_1.webp)
+![Figure 26.1](../../assets/figures/fig_26_1.png)
 
 As shown in Figure 26.1, bar 2 was a two-legged pullback to the moving
 average (every double bottom is a high 2 buy setup) in a strong bull trend
@@ -115,7 +115,7 @@ Although bar 6 was a reversal bar, its close was barely above the midpoint
 and was therefore a weak signal bar.
 Figure 26.2 Expanding Triangle
 
-![Figure 26.2](../../assets/figures/fig_26_2.webp)
+![Figure 26.2](../../assets/figures/fig_26_2.png)
 
 As shown in Figure 26.2, yesterday closed with a surge to bar 4, completing
 four legs of a developing expanding triangle, which needed one more new
@@ -126,7 +126,7 @@ entry setup, which was one tick above the high of the bar 6 two-bar reversal
 and small higher low.
 Figure 26.3 Two Reasons to Take a Trade
 
-![Figure 26.3](../../assets/figures/fig_26_3.webp)
+![Figure 26.3](../../assets/figures/fig_26_3.png)
 
 
 
@@ -167,7 +167,7 @@ earlier and has since pulled back.
 Trading low-probability trades will wipe out more than all of your gains.
 Figure 26.4 Moving Average Pullback Short
 
-![Figure 26.4](../../assets/figures/fig_26_4.webp)
+![Figure 26.4](../../assets/figures/fig_26_4.png)
 
 When a stock is in a strong trend, it is reasonable to enter on a limit order
 on the first couple of tests of the moving average, or you can enter on the 1
@@ -191,7 +191,7 @@ other methods and they just involve more thought, which can distract you
 from your primary trading on a higher time frame chart, like the 5 minute.
 Figure 26.5 When a Channel Is Tight, Wait for a Second Signal
 
-![Figure 26.5](../../assets/figures/fig_26_5.webp)
+![Figure 26.5](../../assets/figures/fig_26_5.png)
 
 As shown in Figure 26.5, the Emini formed a wedge with bars 1, 5, and 7.
 The wedge formed by bars 2, 5, and 7 was a less reliable reversal setup
@@ -216,7 +216,7 @@ even if the entry occurs several bars later. Because bar 10 was such a strong
 bear trend bar and it closed below the bar 8 low, that is what happened here.
 Figure 26.6 Buying New Lows in a Bear Trend
 
-![Figure 26.6](../../assets/figures/fig_26_6.webp)
+![Figure 26.6](../../assets/figures/fig_26_6.png)
 
 Even though the price action shown in Figure 26.6 is both a strong spike
 and channel bear trend and a trend from the open bear day and more money

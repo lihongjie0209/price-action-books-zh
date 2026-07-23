@@ -97,7 +97,7 @@ part of your position for what could be a big move.
 COMMON TREND PATTERNS
 Figure 25.1
 
-![Figure 25.1](../../assets/figures/fig_25_1.webp)
+![Figure 25.1](../../assets/figures/fig_25_1.png)
 
 FIGURE 25.1
 Gap Test after a Gap Up
@@ -122,7 +122,7 @@ and then the following bar had a bear body again, for a second push down).
 
 Figure 25.2
 
-![Figure 25.2](../../assets/figures/fig_25_2.webp)
+![Figure 25.2](../../assets/figures/fig_25_2.png)
 
 TREND RESUMPTION DAY
 FIGURE 25.2
@@ -178,7 +178,7 @@ followed by a channel into the close.
 
 Figure 25.3
 
-![Figure 25.3](../../assets/figures/fig_25_3.webp)
+![Figure 25.3](../../assets/figures/fig_25_3.png)
 
 TREND RESUMPTION DAY
 FIGURE 25.3
@@ -209,7 +209,7 @@ was an exact breakout test of the trend from the open signal bar high.
 COMMON TREND PATTERNS
 Figure 25.4
 
-![Figure 25.4](../../assets/figures/fig_25_4.webp)
+![Figure 25.4](../../assets/figures/fig_25_4.png)
 
 FIGURE 25.4
 Trend Resumption after Several Days

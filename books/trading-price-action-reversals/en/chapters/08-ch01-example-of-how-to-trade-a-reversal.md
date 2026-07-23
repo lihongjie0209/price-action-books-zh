@@ -46,7 +46,7 @@ take, to keep traders on the sidelines and force them to chase the trend.
 
 FIGURE 1.1 Trading a Major Reversal
 
-![Figure 1.1](../../assets/figures/fig_1_1.webp)
+![Figure 1.1](../../assets/figures/fig_1_1.png)
 
 As shown in Figure 1.1, traders had several ways to trade the reversal in
 Caterpillar Inc. (CAT) today, and one that I think is worthwhile is an approach

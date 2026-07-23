@@ -497,7 +497,7 @@ their losses. These patterns often have tails and can be barbwire, and they
 trap countertrend traders, just like barbwire.
 Figure 22.1 Tight Trading Range
 
-![Figure 22.1](../../assets/figures/fig_22_1.webp)
+![Figure 22.1](../../assets/figures/fig_22_1.png)
 
 
 
@@ -541,7 +541,7 @@ often result in smaller gains, but by definition they usually have a much
 higher chance of success.
 Figure 22.2 Tight Trading Range in Both Bull and Bear Legs
 
-![Figure 22.2](../../assets/figures/fig_22_2.webp)
+![Figure 22.2](../../assets/figures/fig_22_2.png)
 
 Sometimes a tight trading range can be a pullback in both a bull trend and a
 bear trend. In Figure 22.2, was the tight trading range from bar 6 to bar 8 a
@@ -594,7 +594,7 @@ close enough to some Fibonacci number, making the Fibonacci numbers
 essentially meaningless most of the time.
 Figure 22.3 Tight Trading Range Evolving into Larger Trading Range
 
-![Figure 22.3](../../assets/figures/fig_22_3.webp)
+![Figure 22.3](../../assets/figures/fig_22_3.png)
 
 Although a tight trading range in a bull trend is a trading range and
 therefore a bull flag, it breaks to the downside first in about 45 to 49 percent
@@ -657,7 +657,7 @@ moving average gap bar setup (it was actually the second attempt, since the firs
 bars earlier).
 Figure 22.4 Stop Entries in Barbwire Are Costly
 
-![Figure 22.4](../../assets/figures/fig_22_4.webp)
+![Figure 22.4](../../assets/figures/fig_22_4.png)
 
 The chart presented in Figure 22.4 seems innocuous enough, right? But if
 you look carefully at the barbwire from bar 1 to bar 2, there were eight
@@ -694,7 +694,7 @@ look for the perfect time frame if you understand what is happening on the
 chart in front of you.
 Figure 22.5 Stop Entries Would Have Yielded 10 Consecutive Losers
 
-![Figure 22.5](../../assets/figures/fig_22_5.webp)
+![Figure 22.5](../../assets/figures/fig_22_5.png)
 
 Ten consecutive losing scalps should be a warning to traders who think they
 can make money by trading in barbwire. This is an extreme example of the
@@ -743,7 +743,7 @@ range, but this is tedious and requires an intensity that most traders cannot
 consistently maintain.
 Figure 22.6 Sloping Tight Trading Range
 
-![Figure 22.6](../../assets/figures/fig_22_6.webp)
+![Figure 22.6](../../assets/figures/fig_22_6.png)
 
 
 
@@ -786,7 +786,7 @@ began to trail their protective stops below the lows of the strong bull bars and
 able to move their stops to around breakeven.
 Figure 22.7 Barbwire with an ioi Pattern
 
-![Figure 22.7](../../assets/figures/fig_22_7.webp)
+![Figure 22.7](../../assets/figures/fig_22_7.png)
 
 In Figure 22.7, bar 1 was a large outside bar followed by a doji inside bar.
 Even though an ioi pattern is often a reliable breakout setup, here the tails
@@ -828,7 +828,7 @@ odds favored at least a measured move up from the open to the close of the
 bull spike. The entry bar was followed by another very strong bull trend bar.
 Figure 22.8 Barbwire Failed Breakout
 
-![Figure 22.8](../../assets/figures/fig_22_8.webp)
+![Figure 22.8](../../assets/figures/fig_22_8.png)
 
 
 
@@ -850,7 +850,7 @@ about what happens if the initial move fails and then quickly goes the other
 way. Otherwise, you will miss great trades, and traps are among the best.
 Figure 22.9 Tight Trading Range as a Flag
 
-![Figure 22.9](../../assets/figures/fig_22_9.webp)
+![Figure 22.9](../../assets/figures/fig_22_9.png)
 
 
 
@@ -877,7 +877,7 @@ bar 14 reversal trapped bulls out and bears in; and when both sides are
 trapped, the next move usually lasts for at least several bars.
 Figure 22.10 Tight Trading Range Bear Flag
 
-![Figure 22.10](../../assets/figures/fig_22_10.webp)
+![Figure 22.10](../../assets/figures/fig_22_10.png)
 
 
 
@@ -904,7 +904,7 @@ moving average.
 
 Figure 22.11 Barbwire Reversal
 
-![Figure 22.11](../../assets/figures/fig_22_11.webp)
+![Figure 22.11](../../assets/figures/fig_22_11.png)
 
 In Figure 22.11, barbwire formed at the bottom of each of the two legs
 down to the bar 10 low of the day. The first one became a bear flag, and the
@@ -982,7 +982,7 @@ move. The open of the first bar to the close of the final bar is often the heigh
 projection, and the low of the first barbwire pattern missed the target by a tick.
 Figure 22.12 Barbwire as a Low 2
 
-![Figure 22.12](../../assets/figures/fig_22_12.webp)
+![Figure 22.12](../../assets/figures/fig_22_12.png)
 
 The market in Figure 22.12 was in a small range for the first three hours, so
 a breakout was likely. Bars 1, 2, and 3 were sideways and overlapping.

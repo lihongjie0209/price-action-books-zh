@@ -675,7 +675,7 @@ strongest buy setups. If you are emotionally able to reverse, you usually
 should.
 Figure 17.1 Bar Counting
 
-![Figure 17.1](../../assets/figures/fig_17_1.webp)
+![Figure 17.1](../../assets/figures/fig_17_1.png)
 
 Don't lose sight of the goal in bar counting. Focus on the pullbacks and not
 on the high 1s, high 2s, low 1s, and low 2s. Most of the time when the
@@ -771,7 +771,7 @@ chase the market down, adding to the selling pressure.
 
 Figure 17.2 High and Low 1 Setups in Trading Ranges
 
-![Figure 17.2](../../assets/figures/fig_17_2.webp)
+![Figure 17.2](../../assets/figures/fig_17_2.png)
 
 The high and low 1 setups in the chart on the left in Figure 17.2 formed
 within a trading range and were not good trades. Those in the chart on the
@@ -821,7 +821,7 @@ to the moving average at bar 31, where there was a bull signal bar and
 another valid high 1 buy setup.
 Figure 17.3 Bar Counting Is Sometimes Difficult
 
-![Figure 17.3](../../assets/figures/fig_17_3.webp)
+![Figure 17.3](../../assets/figures/fig_17_3.png)
 
 
 
@@ -959,7 +959,7 @@ with a low below the low of bar 21 (forming a high 2 buy setup), but the
 odds were against it. There was simply too much strength.
 Figure 17.4 The SDS Is Helpful in Analyzing the SPY
 
-![Figure 17.4](../../assets/figures/fig_17_4.webp)
+![Figure 17.4](../../assets/figures/fig_17_4.png)
 
 
 
@@ -1027,7 +1027,7 @@ of entry bars for those shorts, and they were also signal bars for selling
 more at one tick below their lows.
 Figure 17.5 A Failed Low 2 Often Ends Up as a Low 4 Short
 
-![Figure 17.5](../../assets/figures/fig_17_5.webp)
+![Figure 17.5](../../assets/figures/fig_17_5.png)
 
 
 
@@ -1048,7 +1048,7 @@ average after a strong move through the moving average. It is also a micro
 trend line failed breakout short.
 Figure 17.6 Failed Low 4
 
-![Figure 17.6](../../assets/figures/fig_17_6.webp)
+![Figure 17.6](../../assets/figures/fig_17_6.png)
 
 
 
@@ -1110,7 +1110,7 @@ climax and therefore not a good buy setup. The market was in a parabolic
 bull channel after the two-bar bull spike at bar 6.
 Figure 17.7 A Low 2 in a Bull Trend Is Not a Short
 
-![Figure 17.7](../../assets/figures/fig_17_7.webp)
+![Figure 17.7](../../assets/figures/fig_17_7.png)
 
 
 
@@ -1139,7 +1139,7 @@ was so strong, just look to buy on a stop above any bull bar, like the bar
 after bar 4.
 Figure 17.8 Failed Low 2
 
-![Figure 17.8](../../assets/figures/fig_17_8.webp)
+![Figure 17.8](../../assets/figures/fig_17_8.png)
 
 
 
@@ -1183,7 +1183,7 @@ too uncertain, and most traders should not be taking trades on that basis
 until after a breakout.
 Figure 17.9 A Failed Low 2 Can Evolve into a Low 3 or Low 4
 
-![Figure 17.9](../../assets/figures/fig_17_9.webp)
+![Figure 17.9](../../assets/figures/fig_17_9.png)
 
 A failed low 2 can lead to either a wedge top (a low 3) or a low 4 top,
 depending on the momentum up from the failed low 2. Sometimes it can
@@ -1248,7 +1248,7 @@ small sell climax. A trader could buy above bar 9 and assume that the bar 9 low 
 low. This led to a strong rally into the close as the bulls from the open resumed their buying.
 Figure 17.10 High 2 Variant
 
-![Figure 17.10](../../assets/figures/fig_17_10.webp)
+![Figure 17.10](../../assets/figures/fig_17_10.png)
 
 In Figure 17.10, the bar 16 doji had a large tail on the top, which indicates
 that the market moved up and down within that bar. That up move was the
@@ -1345,7 +1345,7 @@ first push and bar 19 being the second. Other traders saw it as a large low 2 wh
 was the first push up.
 Figure 17.11 High 2 Variant
 
-![Figure 17.11](../../assets/figures/fig_17_11.webp)
+![Figure 17.11](../../assets/figures/fig_17_11.png)
 
 
 
@@ -1388,7 +1388,7 @@ look for two-legged pullbacks because they set up excellent with-trend
 entries. Also, do not look for a low 2 short setup in a bull trend.
 Figure 17.12 Low 2 Variants
 
-![Figure 17.12](../../assets/figures/fig_17_12.webp)
+![Figure 17.12](../../assets/figures/fig_17_12.png)
 
 The chart of the SPY presented in Figure 17.12 demonstrates lots of
 variations in low 2 setups, but if you think about each one, each was the
@@ -1492,7 +1492,7 @@ bull reversal. There was no prior strong break of the bear trend line, and the m
 unable to hold above the moving average at any point in the day.
 Figure 17.13 A Spike and Channel Is a Two-Legged Move
 
-![Figure 17.13](../../assets/figures/fig_17_13.webp)
+![Figure 17.13](../../assets/figures/fig_17_13.png)
 
 When there is a spike and channel pullback, the spike can be thought of as
 the first leg up and the channel as the second. In Figure 17.13, the gap

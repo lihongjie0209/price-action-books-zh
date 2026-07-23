@@ -297,7 +297,7 @@ is displaying trending closes, highs, and lows, so a trend is in effect.
 PRICE ACTION
 Figure 2.1
 
-![Figure 2.1](../../assets/figures/fig_2_1.webp)
+![Figure 2.1](../../assets/figures/fig_2_1.png)
 
 FIGURE 2.1
 Dojis Are Rarely Perfect
@@ -337,7 +337,7 @@ one side wins.
 PRICE ACTION
 Figure 2.2
 
-![Figure 2.2](../../assets/figures/fig_2_2.webp)
+![Figure 2.2](../../assets/figures/fig_2_2.png)
 
 FIGURE 2.2
 Intraday Dojis
@@ -354,7 +354,7 @@ and dojis.
 
 Figure 2.3
 
-![Figure 2.3](../../assets/figures/fig_2_3.webp)
+![Figure 2.3](../../assets/figures/fig_2_3.png)
 
 TREND BARS, DOJI BARS, AND CLIMAXES
 FIGURE 2.3
@@ -401,7 +401,7 @@ and traders should expect at least one more leg up from that higher low.
 
 Figure 2.4
 
-![Figure 2.4](../../assets/figures/fig_2_4.webp)
+![Figure 2.4](../../assets/figures/fig_2_4.png)
 
 TREND BARS, DOJI BARS, AND CLIMAXES
 FIGURE 2.4
@@ -471,7 +471,7 @@ into the close.
 
 Figure 2.5
 
-![Figure 2.5](../../assets/figures/fig_2_5.webp)
+![Figure 2.5](../../assets/figures/fig_2_5.png)
 
 TREND BARS, DOJI BARS, AND CLIMAXES
 FIGURE 2.5
@@ -523,7 +523,7 @@ rally, and it can begin with a very strong bear trend bar.
 
 Figure 2.6
 
-![Figure 2.6](../../assets/figures/fig_2_6.webp)
+![Figure 2.6](../../assets/figures/fig_2_6.png)
 
 TREND BARS, DOJI BARS, AND CLIMAXES
 FIGURE 2.6

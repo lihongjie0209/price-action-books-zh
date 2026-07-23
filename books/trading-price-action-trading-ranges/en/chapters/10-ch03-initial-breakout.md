@@ -82,7 +82,7 @@ close and low of the bear trend bar, expecting a failed breakout and for the
 trend reversal attempt to become just another bull flag.
 Figure 3.1 Breakouts with Many Consecutive Trend Bars Are Usually
 
-![Figure 3.1](../../assets/figures/fig_3_1.webp)
+![Figure 3.1](../../assets/figures/fig_3_1.png)
 
 Strong
 The strongest breakouts have a sense of urgency and have several trend bars
@@ -120,7 +120,7 @@ based on the open of bar 1 to the close of bar 8 was exceeded by 3 cents on
 the close of the day (not shown).
 Figure 3.2 Successful Breakouts Need Follow-Through
 
-![Figure 3.2](../../assets/figures/fig_3_2.webp)
+![Figure 3.2](../../assets/figures/fig_3_2.png)
 
 Breakouts are common on the 5 minute Emini chart, but strong, successful
 ones that have several bars of follow-through, like at bar 1 and bar 11 in
@@ -223,7 +223,7 @@ row and not a small doji bar for the next bar, traders saw this as a warning
 that the bear breakout was weak.
 Figure 3.3 Watch Charts and Not the News
 
-![Figure 3.3](../../assets/figures/fig_3_3.webp)
+![Figure 3.3](../../assets/figures/fig_3_3.png)
 
 As shown in Figure 3.3, some news must have been released that led to a
 sharp sell-off at 10:30 a.m. PST. You should never pay attention to the

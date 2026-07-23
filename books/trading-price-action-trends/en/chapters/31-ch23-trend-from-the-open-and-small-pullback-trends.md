@@ -303,7 +303,7 @@ more overdone and any move will tend to be stronger.
 COMMON TREND PATTERNS
 Figure 23.1
 
-![Figure 23.1](../../assets/figures/fig_23_1.webp)
+![Figure 23.1](../../assets/figures/fig_23_1.png)
 
 FIGURE 23.1
 Buy the First Pullback in Strong Trend
@@ -335,7 +335,7 @@ bar 2. They would have been trapped out; most would have waited to buy above the
 COMMON TREND PATTERNS
 Figure 23.2
 
-![Figure 23.2](../../assets/figures/fig_23_2.webp)
+![Figure 23.2](../../assets/figures/fig_23_2.png)
 
 FIGURE 23.2
 Small Pullback Bull Trend Day
@@ -427,7 +427,7 @@ than it appeared.
 
 Figure 23.3
 
-![Figure 23.3](../../assets/figures/fig_23_3.webp)
+![Figure 23.3](../../assets/figures/fig_23_3.png)
 
 TREND FROM THE OPEN AND SMALL PULLBACK TRENDS
 FIGURE 23.3
@@ -454,7 +454,7 @@ closes of bull and bear trend bars and at or below the low of the prior bar.
 COMMON TREND PATTERNS
 Figure 23.4
 
-![Figure 23.4](../../assets/figures/fig_23_4.webp)
+![Figure 23.4](../../assets/figures/fig_23_4.png)
 
 FIGURE 23.4
 The First Trend Line Break Usually Fails
@@ -472,7 +472,7 @@ a small pullback type of trend from the open bear trend day.
 
 Figure 23.5
 
-![Figure 23.5](../../assets/figures/fig_23_5.webp)
+![Figure 23.5](../../assets/figures/fig_23_5.png)
 
 TREND FROM THE OPEN AND SMALL PULLBACK TRENDS
 FIGURE 23.5
@@ -572,7 +572,7 @@ and drove the market down into the close.
 COMMON TREND PATTERNS
 Figure 23.6
 
-![Figure 23.6](../../assets/figures/fig_23_6.webp)
+![Figure 23.6](../../assets/figures/fig_23_6.png)
 
 FIGURE 23.6
 Gaps Can Lead to Trends Up or Down
@@ -639,7 +639,7 @@ a good buy setup.
 COMMON TREND PATTERNS
 Figure 23.7
 
-![Figure 23.7](../../assets/figures/fig_23_7.webp)
+![Figure 23.7](../../assets/figures/fig_23_7.png)
 
 FIGURE 23.7
 First Bar on Gap Day Often Points to Trend’s Direction
@@ -685,7 +685,7 @@ and tend to pull breakouts back into them.
 COMMON TREND PATTERNS
 Figure 23.8
 
-![Figure 23.8](../../assets/figures/fig_23_8.webp)
+![Figure 23.8](../../assets/figures/fig_23_8.png)
 
 FIGURE 23.8
 Open on High Tick of the Day
@@ -760,7 +760,7 @@ of what might appear likely, because it will happen in about 40 percent of the t
 COMMON TREND PATTERNS
 Figure 23.9
 
-![Figure 23.9](../../assets/figures/fig_23_9.webp)
+![Figure 23.9](../../assets/figures/fig_23_9.png)
 
 FIGURE 23.9
 Reversal after Trend from the Open
@@ -809,7 +809,7 @@ able to overwhelm the bulls eventually, as it did here.
 COMMON TREND PATTERNS
 Figure 23.10
 
-![Figure 23.10](../../assets/figures/fig_23_10.webp)
+![Figure 23.10](../../assets/figures/fig_23_10.png)
 
 FIGURE 23.10
 Strong Trends Have Weak Setups
@@ -919,7 +919,7 @@ the buying.
 
 Figure 23.11
 
-![Figure 23.11](../../assets/figures/fig_23_11.webp)
+![Figure 23.11](../../assets/figures/fig_23_11.png)
 
 TREND FROM THE OPEN AND SMALL PULLBACK TRENDS
 FIGURE 23.11

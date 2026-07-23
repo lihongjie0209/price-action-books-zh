@@ -606,7 +606,7 @@ successful and being able to trade happily for many years if you go for a
 larger profit and use a stop that is no larger than your profit target.
 Figure 24.1 Swing Long after a Pullback from a Strong Rally
 
-![Figure 24.1](../../assets/figures/fig_24_1.webp)
+![Figure 24.1](../../assets/figures/fig_24_1.png)
 
 
 
@@ -639,7 +639,7 @@ trading for the few traders who are able to win on 70 percent or more of
 their trades.
 Figure 24.2 Swings Up and Down
 
-![Figure 24.2](../../assets/figures/fig_24_2.webp)
+![Figure 24.2](../../assets/figures/fig_24_2.png)
 
 Today (as shown in Figure 24.2) offered many opportunities for swing
 traders in both directions. The market fell almost 2 percent yesterday, but

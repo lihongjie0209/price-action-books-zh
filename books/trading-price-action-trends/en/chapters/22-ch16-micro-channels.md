@@ -249,7 +249,7 @@ channel, there are many pullbacks if you look at a small enough time frame chart
 
 Figure 16.1
 
-![Figure 16.1](../../assets/figures/fig_16_1.webp)
+![Figure 16.1](../../assets/figures/fig_16_1.png)
 
 MICRO CHANNELS
 FIGURE 16.1
@@ -298,7 +298,7 @@ day. Instead, once you see the micro trend line buy trigger, get ready to short 
 
 Figure 16.2
 
-![Figure 16.2](../../assets/figures/fig_16_2.webp)
+![Figure 16.2](../../assets/figures/fig_16_2.png)
 
 MICRO CHANNELS
 FIGURE 16.2
@@ -367,7 +367,7 @@ the day was unusually large, it could and did lead to about a measured move up.
 
 Figure 16.3
 
-![Figure 16.3](../../assets/figures/fig_16_3.webp)
+![Figure 16.3](../../assets/figures/fig_16_3.png)
 
 MICRO CHANNELS
 FIGURE 16.3
@@ -462,7 +462,7 @@ a high 1 and a breakout pullback buy setup.
 TREND LINES AND CHANNELS
 Figure 16.4
 
-![Figure 16.4](../../assets/figures/fig_16_4.webp)
+![Figure 16.4](../../assets/figures/fig_16_4.png)
 
 FIGURE 16.4
 Micro Trend Lines Are Just Trend Lines on Smaller Time Frames
@@ -487,7 +487,7 @@ chart, and a channel with many pullbacks on a smaller time frame chart.
 
 Figure 16.5
 
-![Figure 16.5](../../assets/figures/fig_16_5.webp)
+![Figure 16.5](../../assets/figures/fig_16_5.png)
 
 MICRO CHANNELS
 FIGURE 16.5
@@ -581,7 +581,7 @@ average test at 8:30.
 TREND LINES AND CHANNELS
 Figure 16.6
 
-![Figure 16.6](../../assets/figures/fig_16_6.webp)
+![Figure 16.6](../../assets/figures/fig_16_6.png)
 
 FIGURE 16.6
 Micro Trend Lines in a Bull Trend

@@ -76,7 +76,7 @@ class TestFigureResolve(unittest.TestCase):
     def test_remapped_reversals_single_panel_charts_are_landscape(self):
         """Labels remapped from full-page text dumps to single embedded charts."""
         fig = REPO / "books" / "trading-price-action-reversals" / "assets" / "figures"
-        for name in ("fig_4_14.webp", "fig_24_12.webp", "fig_5_6.webp", "fig_7_4.webp"):
+        for name in ("fig_4_14.png", "fig_24_12.png", "fig_5_6.png", "fig_7_4.png"):
             p = fig / name
             self.assertTrue(p.is_file(), name)
             try:
@@ -101,8 +101,8 @@ class TestFigureResolve(unittest.TestCase):
             self.skipTest("Pillow not available")
 
         fig = REPO / "books" / "trading-price-action-reversals" / "assets" / "figures"
-        p20_1 = fig / "fig_20_1.webp"
-        p20_2 = fig / "fig_20_2.webp"
+        p20_1 = fig / "fig_20_1.png"
+        p20_2 = fig / "fig_20_2.png"
         self.assertTrue(p20_1.is_file())
         self.assertTrue(p20_2.is_file())
 

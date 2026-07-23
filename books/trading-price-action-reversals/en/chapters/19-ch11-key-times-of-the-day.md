@@ -182,7 +182,7 @@ traders should wait for seconds to minutes until the market becomes orderly
 before placing a trade.
 FIGURE 11.1 Risk Managers Contribute to Trends into the Close
 
-![Figure 11.1](../../assets/figures/fig_11_1.webp)
+![Figure 11.1](../../assets/figures/fig_11_1.png)
 
 As shown in Figure 11.1, the rally into the close was due in part to the risk
 manager shoulder tap. As the market began to turn up and reached bar 22, all of
@@ -225,7 +225,7 @@ the day. However, the downside breakout failed, and the bar 10 to bar 16 trading
 range became the final flag in the bear trend.
 FIGURE 11.2 Trends into the Close Can Be Scary
 
-![Figure 11.2](../../assets/figures/fig_11_2.webp)
+![Figure 11.2](../../assets/figures/fig_11_2.png)
 
 You can be right about the trend into the close and still lose money when the
 market has a couple of dojis before the close. As shown in Figure 11.2, the two
@@ -252,7 +252,7 @@ rally began at 11:15 a.m. PST, although the upside breakout did not come until
 12:30 p.m.
 FIGURE 11.3 Midday Reversal
 
-![Figure 11.3](../../assets/figures/fig_11_3.webp)
+![Figure 11.3](../../assets/figures/fig_11_3.png)
 
 After the trend of the day becomes established within the first hour or so, the
 market often reverses at the start of the middle third of the day, between about

@@ -263,7 +263,7 @@ middle of the developing trading range, the odds are once again around 50–
 50 and the market is in balance.
 Figure 7.1 Leg 1 = Leg 2
 
-![Figure 7.1](../../assets/figures/fig_7_1.webp)
+![Figure 7.1](../../assets/figures/fig_7_1.png)
 
 
 
@@ -289,7 +289,7 @@ behavior, it is just as reliable to look to buy low and sell high whenever
 there is a strong signal.
 Figure 7.2 Variant of Leg 1 = Leg 2
 
-![Figure 7.2](../../assets/figures/fig_7_2.webp)
+![Figure 7.2](../../assets/figures/fig_7_2.png)
 
 
 
@@ -346,7 +346,7 @@ The rally to bar 9 was a breakout test of the sell-off below bar 3. The selloff 
 breakeven stops by one tick. It was also an exact test of the open of the day.
 Figure 7.3 Measured Move Based on Middle of Trading Range
 
-![Figure 7.3](../../assets/figures/fig_7_3.webp)
+![Figure 7.3](../../assets/figures/fig_7_3.png)
 
 
 
@@ -371,7 +371,7 @@ will get drawn back into the range. Eventually, the market will break away
 from the magnetic field and find value at a different price.
 Figure 7.4 Measured Move Based on Bear Spike
 
-![Figure 7.4](../../assets/figures/fig_7_4.webp)
+![Figure 7.4](../../assets/figures/fig_7_4.png)
 
 
 
@@ -396,7 +396,7 @@ again. If there is a strong reversal signal at that test area, a countertrend
 trade can be considered.
 Figure 7.5 A Spike Can Lead to a Measured Move Up or Down
 
-![Figure 7.5](../../assets/figures/fig_7_5.webp)
+![Figure 7.5](../../assets/figures/fig_7_5.png)
 
 
 

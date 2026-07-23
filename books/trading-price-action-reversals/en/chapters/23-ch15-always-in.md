@@ -468,7 +468,7 @@ market flipped to always-in short, they would exit the position and look to get
 short. Scaling in is discussed in book 2.
 FIGURE 15.1 Always-In Swing Trading
 
-![Figure 15.1](../../assets/figures/fig_15_1.webp)
+![Figure 15.1](../../assets/figures/fig_15_1.png)
 
 Always-in trading can be a profitable swing trading approach during both trend
 days and trading range days, if the trading range days have large enough swings.
@@ -480,7 +480,7 @@ scalps each day, yielding an additional $450 per contract per day. It sounds and
 looks easy, but is very difficult to do.
 FIGURE 15.2 Higher Time Frame Charts
 
-![Figure 15.2](../../assets/figures/fig_15_2.webp)
+![Figure 15.2](../../assets/figures/fig_15_2.png)
 
 
 
@@ -498,7 +498,7 @@ give the trade a chance to work. To keep the total dollars at risk the same as w
 a trade on the 5 minute chart, the position size has to be smaller.
 FIGURE 15.3 Gap Up, Then Pullback
 
-![Figure 15.3](../../assets/figures/fig_15_3.webp)
+![Figure 15.3](../../assets/figures/fig_15_3.png)
 
 As shown in Figure 15.3, the market had a large gap up, but a strong bear
 
@@ -668,7 +668,7 @@ have been setting up a final flag reversal from the bar 12 to bar 16 potential f
 flag.
 FIGURE 15.4 Look for Early Swing Setups
 
-![Figure 15.4](../../assets/figures/fig_15_4.webp)
+![Figure 15.4](../../assets/figures/fig_15_4.png)
 
 
 
@@ -716,7 +716,7 @@ fail, they would have shorted the close of the bull trend bar before bar 5,
 expecting bar 5 to not be a strong bull bar and for the bear swing to resume.
 FIGURE 15.5 Follow-Through Is Often Likely
 
-![Figure 15.5](../../assets/figures/fig_15_5.webp)
+![Figure 15.5](../../assets/figures/fig_15_5.png)
 
 Whenever traders are confident of the direction over the next several bars, there
 is an opportunity for a trade. Each gray rectangle in Figure 15.5 is an area where
@@ -780,7 +780,7 @@ strongest trader's equations.
 
 FIGURE 15.6 Always-In Setups
 
-![Figure 15.6](../../assets/figures/fig_15_6.webp)
+![Figure 15.6](../../assets/figures/fig_15_6.png)
 
 As shown in Figure 15.6, there were several areas where traders were confident
 of the direction over at least the next several bars, and each was a reasonable
