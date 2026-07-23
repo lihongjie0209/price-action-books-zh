@@ -71,6 +71,19 @@
   font-size: 0.875rem;
 }
 
+/* Raw-MD fallback when marked.js is missing — keep readable (not code-block black) */
+.prose-gitbook pre.md-fallback,
+pre.md-fallback {
+  background: #f8fafc;
+  color: #0f172a;
+  border: 1px solid #e2e8f0;
+  white-space: pre-wrap;
+  word-break: break-word;
+  font-family: ui-sans-serif, system-ui, sans-serif;
+  font-size: 1rem;
+  line-height: 1.75;
+}
+
 .prose-gitbook img {
   display: block;
   max-width: 100%;

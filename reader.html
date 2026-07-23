@@ -36,7 +36,8 @@
       };
     </script>
     <link rel="stylesheet" href="css/site.css" />
-    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <!-- Local copy: avoids CDN blocks (jsDelivr often fails in CN) that fall back to raw MD -->
+    <script src="js/vendor/marked.min.js"></script>
   </head>
   <body
     class="h-full overflow-hidden bg-white text-slate-900 font-sans antialiased"

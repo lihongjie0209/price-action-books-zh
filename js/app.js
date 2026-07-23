@@ -68,13 +68,28 @@
     return res.text();
   }
 
+  function getMarked() {
+    // UMD build exposes window.marked as the API object (has .parse)
+    // Some builds also set marked.marked
+    const m = typeof marked !== "undefined" ? marked : null;
+    if (!m) return null;
+    if (typeof m.parse === "function") return m;
+    if (m.marked && typeof m.marked.parse === "function") return m.marked;
+    if (typeof m === "function") return { parse: m, setOptions: m.setOptions?.bind(m) };
+    return null;
+  }
+
   function renderMarkdown(md, bookPath) {
     const fixed = rewriteMdAssets(md, bookPath);
-    if (typeof marked === "undefined") {
-      return `<pre class="whitespace-pre-wrap text-sm">${escapeHtml(fixed)}</pre>`;
+    const m = getMarked();
+    if (!m) {
+      console.error("marked.js failed to load; showing plain text fallback");
+      return `<pre class="md-fallback whitespace-pre-wrap text-sm text-slate-800">${escapeHtml(fixed)}</pre>`;
     }
-    marked.setOptions({ gfm: true, breaks: false });
-    return marked.parse(fixed);
+    if (typeof m.setOptions === "function") {
+      m.setOptions({ gfm: true, breaks: false });
+    }
+    return m.parse(fixed);
   }
 
   /* ---------- Home ---------- */
