@@ -199,9 +199,10 @@
     },
     "20.2": {
       "page": 392,
-      "kind": "embedded-remap",
+      "kind": "embedded",
       "width": 438,
-      "height": 803
+      "height": 803,
+      "notes": "multi-panel 2x2 chart; prose cites lower-right bars 18–22; NOT the p391 dual INDU/YM of Fig 20.1"
     },
     "24.12": {
       "page": 483,
@@ -209,5 +210,8 @@
       "width": 550,
       "height": 307
     }
+  },
+  "figure_to_page": {
+    "20.2": 392
   }
 }

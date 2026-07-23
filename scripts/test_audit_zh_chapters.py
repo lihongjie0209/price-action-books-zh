@@ -2,8 +2,8 @@
 """Unit tests for scripts/audit_zh_chapters.py (real shipped functions)."""
 from __future__ import annotations
 
+import re
 import sys
-import tempfile
 import unittest
 from pathlib import Path
 
@@ -73,9 +73,10 @@ class TestFigureResolve(unittest.TestCase):
         code = audit.cmd_figures(None, None)
         self.assertEqual(code, 0)
 
-    def test_remapped_reversals_charts_are_landscape(self):
+    def test_remapped_reversals_single_panel_charts_are_landscape(self):
+        """Labels remapped from full-page text dumps to single embedded charts."""
         fig = REPO / "books" / "trading-price-action-reversals" / "assets" / "figures"
-        for name in ("fig_4_14.webp", "fig_20_2.webp", "fig_24_12.webp"):
+        for name in ("fig_4_14.webp", "fig_24_12.webp", "fig_5_6.webp", "fig_7_4.webp"):
             p = fig / name
             self.assertTrue(p.is_file(), name)
             try:
@@ -84,7 +85,61 @@ class TestFigureResolve(unittest.TestCase):
                 self.skipTest("Pillow not available")
             with Image.open(p) as im:
                 w, h = im.size
-            self.assertGreaterEqual(w, h, f"{name} should be chart-like landscape, got {w}x{h}")
+            self.assertGreaterEqual(
+                w, h, f"{name} should be chart-like landscape, got {w}x{h}"
+            )
+
+    def test_fig_20_2_is_multipanel_not_fig_20_1(self):
+        """Fig 20.2 must be the 2x2 multi-panel from PDF p392 (~438x803).
+
+        Prose cites lower-right bars 18–22. A prior bad remap substituted the
+        landscape dual INDU/YM panel of Fig 20.1 (p391, ~550x302).
+        """
+        try:
+            from PIL import Image
+        except ImportError:
+            self.skipTest("Pillow not available")
+
+        fig = REPO / "books" / "trading-price-action-reversals" / "assets" / "figures"
+        p20_1 = fig / "fig_20_1.webp"
+        p20_2 = fig / "fig_20_2.webp"
+        self.assertTrue(p20_1.is_file())
+        self.assertTrue(p20_2.is_file())
+
+        with Image.open(p20_1) as im1:
+            s1 = im1.size
+        with Image.open(p20_2) as im2:
+            s2 = im2.size
+
+        # Multi-panel portrait-ish 2x2 stack (PDF embedded size)
+        self.assertEqual(s2, (438, 803), f"fig_20_2 identity size, got {s2}")
+        # Must not be a copy of the dual-panel landscape 20.1
+        self.assertNotEqual(s2, s1)
+        self.assertNotEqual(
+            p20_1.read_bytes(),
+            p20_2.read_bytes(),
+            "fig_20_2 must not be byte-identical to fig_20_1",
+        )
+        # 20.1 is the dual landscape chart
+        self.assertGreaterEqual(s1[0], s1[1])
+
+        # ZH prose still describes multi-panel lower-right bars 18–22
+        zh = (
+            REPO
+            / "books"
+            / "trading-price-action-reversals"
+            / "zh"
+            / "chapters"
+            / "29-ch20-gap-openings-reversals-and-continuations.md"
+        )
+        if zh.is_file():
+            body = zh.read_text(encoding="utf-8")
+            self.assertTrue(
+                "20.2" in body or "图 20.2" in body,
+                "chapter should reference 图 20.2",
+            )
+            # bar numbers from the multi-panel discussion
+            self.assertRegex(body, r"18.*22|K线\s*18|bar\s*18", re.I)
 
 
 if __name__ == "__main__":
